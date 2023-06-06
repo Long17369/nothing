@@ -9,7 +9,7 @@ class Main():
 	def __init__(self) -> None:
 		pass
 	def load(self,file:str):
-		a = open(file,'r',)
+		a = open(file,'r',encoding='UTF-8')
 		r = a.read()
 		e, c = self.order(r)
 		p = formatstr(r)
