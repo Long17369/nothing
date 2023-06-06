@@ -1,4 +1,8 @@
 # 排序算法
+# 已完成：
+	# 冒泡排序		bubble
+	# 快速排序		quick
+	# 计数排序		count
 
 class Bubble_sort(): # 冒泡排序
 	def __init__(self) -> None:
