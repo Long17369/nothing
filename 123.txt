@@ -1,28 +1,28 @@
 rat 老鼠 
 valley 山谷 
-pence便士 
+pence 便士 
 unconditional 无条件的 
 feather 羽毛 
-zoo动物园 
-build建筑；建立 
+zoo 动物园 
+build 建筑；建立 
 field 田野；场地 
-nationality国籍；民族 
-salad沙拉 
-ferry渡口；摆渡 
-building建筑物 
-13.  limit 界线；限制 
-14.  stewardess女管家 
-15.  water水 
-16.  manage管理 
-17.  path小路 
-18.  example例子 
-19.  purple紫色的 
-20.  valid有效的 
-21.  hurry匆忙 
-22.  argue争论 
-23.  accommodation 住处 
-24.  mixture混合物 
-25.  time时间 
+nationality 国籍；民族 
+salad 沙拉 
+ferry 渡口；摆渡 
+building 建筑物 
+limit 界线；限制 
+stewardess 女管家 
+water 水 
+manage 管理 
+path 小路 
+example 例子 
+purple 紫色的 
+valid 有效的 
+hurry 匆忙 
+argue 争论 
+accommodation 住处 
+mixture 混合物 
+time时间 
 26.  picnic 野餐 
 27.  consensus一致同意 
 28.  smoke烟 
