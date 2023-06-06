@@ -1,0 +1,3377 @@
+01.  rat老鼠 
+02.  valley山谷 
+03.  pence便士 
+04.  unconditional 无条件的 
+05.  feather 羽毛 
+06.  zoo动物园 
+07.  build建筑；建立 
+08.  field 田野；场地 
+09.  nationality国籍；民族 
+10.  salad沙拉 
+11.  ferry渡口；摆渡 
+12.  building建筑物 
+13.  limit 界线；限制 
+14.  stewardess女管家 
+15.  water水 
+16.  manage管理 
+17.  path小路 
+18.  example例子 
+19.  purple紫色的 
+20.  valid有效的 
+21.  hurry匆忙 
+22.  argue争论 
+23.  accommodation 住处 
+24.  mixture混合物 
+25.  time时间 
+26.  picnic 野餐 
+27.  consensus一致同意 
+28.  smoke烟 
+29.  protection保护 
+30.  conscience良心 
+31.  sense感觉 
+32.  owe亏欠 
+33.  chant吟唱 
+34.  term学期 
+35.  urban都市的 
+36.  considerate体贴的 
+37.  afraid害怕 
+38.  bandage绷带 
+39.  table tennis乒乓球 
+40.  candidate候选人 
+41.  combine使联合 
+42.  hurricane飓风 
+43.  independent 独立的 
+44.  cancer癌症 
+45.  choose选择 
+46.  town 城镇 
+47.  desire要求 
+48.  visual视觉的 
+49.  life 生活 
+50.  submit使服从；递交 
+51.  physics物理学 
+52.  meaning意思 
+53.  country国家 
+54.  half一半 
+55.  joy 欢乐 
+56.  adult成年人 
+57.  servant仆人 
+58.  care关心 
+59.  search寻找 
+60.  same同一的 
+61.  furniture家具 
+62.  agree同意 
+63.  heart心脏 
+64.  unemployment失业 
+65.  nearly几乎 
+66.  bond使结合 
+67.  master主人 
+68.  rise  升高 
+69.  punish处罚 
+70.  monument纪念碑 
+71.  stick  粘贴 
+72.  tax征税 
+73.  personnel员工 
+74.  fact事实 
+75.  therefore因此 
+76.  ox牛 
+77.  ocean海洋 
+78.  eagle鹰 
+79.  cloud云 
+80.  fibre纤维 
+fiber 纤维 
+81.  bingo宾戈游戏 
+82.  fortunate幸运的 
+83.  mommy妈咪 
+84.  wage工资 
+85.  along沿着 
+86.  surplus过剩的 
+87.  add加 
+88.  outdoors在户外 
+89.  paper纸 
+90.  fetch 抵达 
+91.  church教堂 
+92.  edition版本 
+93.  weather天气 
+94.  opera歌剧 
+95.  dot小圆点 
+96.  service服务 
+97.  disease疾病 
+98.  symphony交响乐 
+99.  survival生存 
+100. thus如此 
+101. satisfy使满足 
+102. arise起来 
+103. sorry对不起 
+104. dinosaur恐龙 
+105. properly适当的 
+106. story故事 
+107. appetite欲望 
+108. pronounce发音；宣布 
+109. socialist社会主义者 
+110. certain无疑 
+111. pea豌豆 
+112. bacterium细菌 
+113. contrary相反的 
+114. roof屋顶 
+115. carve切 
+116. essay散文 
+117. reward报酬 
+118. convenience方便 
+119. export出口 
+120. fit 合适的 
+121. racial种族的 
+122. herself她自己 
+123. bid出价 
+124. novelist小说家 
+125. safety安全 
+126. off在…外；在…前；离开；完 
+127. east东 
+128. misunderstand误解 
+129. razor剃刀 
+131. short短的 
+132. surprise使惊奇 
+133. pleasure愉快 
+134. tidy整洁的 
+135. garage车库 
+136. analyse 分析 
+137. notice预告 
+138. violinist小提琴手 
+139. ice 冰 
+140. deliberately故意地 
+141. alike相同的 
+142. perfect完美的 
+143. broom扫帚 
+144. welfare健康 
+145. keyboard键盘 
+147. approximately大约 
+148. hopeful抱有希望的 
+149. habit习惯 
+150. confidential秘密的 
+151. complex复合的 
+152. recreation娱乐 
+153. data资料 
+154. kindergarten幼儿园 
+155. sniff  闻 
+156. we我们 
+157. studio录音室 
+158. overlook忽视 
+159. barbershop理发店 
+160. minority少数民族 
+161. escape逃跑 
+162. jeans 牛仔裤 
+163. videophone 可视电话 
+164. adapt改编；使适合 
+165. report报道 
+166. recorder录音机 
+167. betray背叛 
+168. vast巨大的 
+169. arrow箭 
+170. usual通常的 
+171. eat吃 
+172. spread伸开 
+173. agent代理人 
+174. spare多余的 
+175. conclusion 结束；结论 
+176. rock岩石 
+177. hometown家乡 
+178. bakery面包房 
+179. conclude结束；决定 
+180. worry烦恼 
+181. operate手术；运转 
+182. floor地板 
+183. area区域；面积 
+184. noise噪声 
+185. chairwoman女主席 
+186. classroom教室 
+187. communicate交流 
+188. attack攻击 
+189. event事件 
+190. dream  梦想 
+191. criminal罪犯 
+192. authentic权威的 
+193. scarf围巾 
+194. senior年长的 
+196. description描述 
+197. representative代表 
+198. carriage四轮马车 
+199. sacred神圣的 
+200. run 跑 
+201. software软件 
+202. diet日常饮食 
+203. copy复制 
+204. eastern东方的 
+205. carbon碳 
+206. sow播种 
+207. universe宇宙 
+208. folk 民间的 
+209. tendency倾向 
+210. camp营地 
+211. likely 可能的 
+212. alive活着的 
+213. harvest收割 
+214. devote把…奉献给 
+215. marathon马拉松 
+216. Christian基督教徒 
+217. government政府 
+218. Franc法郎 
+219. seminar研讨班 
+220. departure离开 
+221. forward 向前 
+222. person人 
+223. violence暴力 
+224. basketball篮球 
+225. gas气体；汽油 
+226. fox狐狸 
+227. advance提前 
+228. majority多数 
+229. credit 信用 
+230. relief减轻 
+231. prefer更喜欢 
+232. qualification 资格；合格证书 
+233. sand沙子 
+234. lift 举起 
+235. attain实现 
+236. fantasy 幻想 
+237. trap陷阱 
+238. interesting 令人感兴趣的 
+239. nothing没有东西 
+240. civilian平民 
+241. besides而且 
+242. homework家庭作业 
+243. container容器 
+244. fireworks 烟火 
+245. toy玩具 
+246. focus 集中 
+247. decide下决心 
+248. frighten 使惊恐 
+249. cleaner保洁员 
+250. autumn秋天 
+251. beneath在下面 
+252. hostess女主人 
+253. climb攀登 
+254. expert专家 
+255. super极好的 
+256. significance意义 
+257. hair头发 
+258. phrase短语 
+259. authority权力；官方 
+260. agricultural农业的 
+261. explore探究 
+262. framework构架 
+264. consequence后果 
+265. geography地理学 
+266. your你的 
+267. match比赛 
+268. hall礼堂 
+269. ship船 
+270. suppose猜想 
+271. signature签名 
+272. borrow借 
+273. create创造 
+274. companion同伴 
+275. direction方向 
+276. except把…除外 
+277. big大的 
+278. nutrition营养 
+279. anecdote轶事 
+280. string一系列 
+281. breast胸膛 
+282. flashlight 手电筒 
+283. unconscious 失去知觉的 
+284. champion冠军 
+285. funeral 葬礼 
+286. since自从 
+287. how如何 
+288. jacket 夹克 
+289. robot机器人 
+290. like 喜欢 
+291. pleasant令人愉快的 
+292. airport机场 
+293. compensate补偿 
+294. more更加 
+295. sandwich三明治 
+296. boring无趣的 
+297. seldom很少 
+298. jazz 爵士乐 
+299. mile英里 
+300. apologize道歉 
+301. shout喊叫 
+302. commit犯罪 
+303. can  能够；罐头 
+304. institution 惯例；建立 
+305. upstairs在楼上 
+306. abortion流产；失败 
+307. storage贮存 
+308. bravery勇气 
+309. envelope信封 
+310. amazing令人惊异的 
+311. disappoint使失望 
+312. advantage有利条件 
+313. laboratory 实验室 
+314. foreign 外国的 
+315. conduct引导 
+316. prison监狱 
+317. agreement协议；同意 
+318. botany植物学 
+319. famous 著名的 
+320. mix混合 
+321. level 水平 
+322. go走 
+323. urgent急迫的 
+324. scholar 奖学金获得者；学者 
+325. jet 喷气飞机 
+326. cottage小屋 
+327. sigh叹气 
+328. maid女仆 
+329. popular流行的 
+330. advertisement广告 
+331. western西方的 
+332. course课程 
+333. wound伤口 
+334. together在一起 
+335. reservation预订 
+336. because因为 
+337. realise意识到 
+338. grateful感激的 
+339. huge巨大的 
+340. turn转向 
+341. knowledge理解；学问 
+342. arrive到达 
+343. seaside海边 
+344. assessment评估 
+345. kilometre千米 
+346. plug插头 
+347. impress 给…印象深刻 
+348. else另外 
+349. fail失败 
+350. discuss谈论 
+351. temporary临时的 
+352. volcano火山 
+353. call叫 
+354. asleep睡着的 
+355. amateur业余的 
+356. material材料 
+357. fragrant；物质的 
+358. slave奴隶 
+359. itself 它自己 
+360. stupid笨的 
+361. central中心的 
+362. evening傍晚 
+363. collision碰撞；冲突 
+364. highway公路 
+365. staff全体职员 
+366. Asia亚洲 
+367. medicine医学 
+368. shop商店 
+369. pump泵 
+370. discourage使气馁 
+371. political政治的 
+372. continent大陆 
+373. bless保佑 
+374. jeep 吉普车 
+375. account帐户 
+376. zoom猛涨 
+377. content  满足；容量 
+378. trousers裤子 
+379. tonight今晚 
+380. spend花钱 
+381. astronaut宇航员 
+382. belt腰带 
+383. yet还 
+384. result 结果 
+385. gravity万有引力；重力 
+386. worth价值 
+387. prize奖金 
+388. up向上 
+389. quarrel争吵 
+390. born出生的 
+391. ring  戒指 
+392. guard保护 
+393. driver驾驶员 
+394. otherwise否则 
+395. repair 修理 
+396. back背 
+397. reasonable合理的 
+398. could表示请求 
+399. disappear消失 
+400. shy害羞的 
+401. questionnaire 调查卷 
+402. cheers干杯 
+403. interview面试 
+404. kindness亲切 
+405. gold金 
+406. gradual渐渐的 
+407. quit离去 
+408. medical医学的 
+409. waste浪费 
+410. airmail航空邮件 
+411. expensive昂贵的 
+412. wisdom智慧 
+413. favourite 特别喜欢 
+414. attitude态度 
+415. touch接触 
+416. soil泥土 
+417. especially尤其 
+418. who谁 
+419. suck吮吸 
+420. breath呼吸 
+421. rice大米 
+422. stout结实的 
+423. version译文；看法 
+424. oxygen氧 
+425. grey灰色 
+426. humorous幽默的 
+427. burn燃烧 
+428. regard注视 
+429. seaweed海草 
+430. tremble发抖 
+431. pillow枕头 
+432. garlic大蒜 
+433. straw稻草 
+434. pineapple菠萝 
+435. hot热的 
+436. tradition 传统 
+437. rescue营救 
+438. again再一次 
+439. violent暴力的 
+440. as同样地 
+441. terror恐怖 
+442. fortune 机会；命运 
+443. until到…为止 
+444. pride自豪 
+445. foster 培养 
+446. home家 
+447. peace和平 
+448. shorts短裤 
+449. vertical垂直的 
+450. jam 果酱 
+451. hatch孵化 
+452. atmosphere大气；气氛 
+453. stadium体育场 
+454. main主要的 
+455. people人们 
+456. light 光 
+457. injure 伤害 
+458. witness目击者 
+459. component成分 
+460. weekly周刊 
+461. right正当的；向右 
+462. dialogue对话 
+463. audience观众 
+464. acquire获得 
+465. store贮存；商店 
+466. decline下降 
+467. very十分 
+468. user用户 
+469. spit口水 
+470. undertake着手 
+471. terrible可怕的 
+472. vacation假期 
+473. much非常 
+474. handbag手提包 
+475. saucer茶托 
+476. officer军官 
+477. whisper低声说 
+478. pleased自鸣得意的 
+479. greedy贪吃的 
+480. horse马 
+481. little 小的 
+482. cloudy多云的 
+483. mainland大陆 
+484. fee 费 
+485. taste 尝 
+486. alternative两者择一的 
+487. opening开张 
+488. toothache牙痛 
+489. universal普遍的 
+490. cow母牛 
+491. wheel轮子 
+492. pipe管子 
+493. profession职业 
+494. dig挖 
+495. conversation交谈 
+496. gain获得 
+497. subjective主观的 
+498. thunder 打雷 
+499. clay黏土 
+500. hill小山 
+501. give给予 
+502. budget预算 
+503. against逆着 
+504. cage笼子 
+505. on在…上 
+506. unfit身体不适的 
+507. scene背景 
+508. pint品脱 
+509. freezing严寒的 
+510. oilfield油田 
+511. onion洋葱 
+512. seed种子 
+513. outstanding突出的 
+514. wool羊毛 
+515. crazy发疯的 
+516. sew缝 
+517. shelf架 
+518. freeze 结冰 
+519. speed速度 
+520. behaviour 行为
+behavior 行为 
+521. television电视 
+522. chest胸腔；箱子 
+523. knock敲 
+524. something谋事 
+525. directory电话本 
+526. platform平台 
+527. sightseeing观光 
+528. bay湾 
+529. foreigner外国人 
+530. another另一个 
+531. oh哎呀 
+532. zero零 
+533. boy男孩 
+534. handsome英俊的 
+535. rest休息 
+536. study学习 
+537. front前面 
+538. rely信任 
+539. aside在旁边 
+540. appeal呼吁 
+541. competence能力 
+542. fresh新鲜的 
+543. question问题 
+545. annoy打扰 
+546. pretty漂亮的 
+547. conference会议；讨论 
+548. communist共产主义者 
+549. sunlight阳光 
+550. cure治疗 
+551. slide滑落 
+552. glance一瞥 
+553. paint涂料 
+554. wine葡萄酒 
+555. dive跳水 
+556. admire称赞 
+557. existence生存 
+558. bureaucratic官僚的 
+560. skill技能 
+561. nor也不 
+562. enthusiastic热情的 
+563. volleyball排球 
+564. dam坝 
+565. delicate 易碎的；微妙的；脆弱的 
+566. someone某人 
+567. post  张贴；邮件 
+568. father 父亲 
+569. disgusting 令人作呕的；极坏的 
+570. radioactive放射性的 
+571. offense进攻 
+575. guarantee保证 
+576. husband丈夫 
+577. island 岛 
+578. painting绘画作品 
+579. nowadays现在 
+580. hardship艰难困苦 
+581. counter柜台；对抗 
+582. collar衣领 
+583. appropriate适当的 
+584. thriller令人兴奋的 
+585. repeat重述 
+586. perform执行 
+587. unbelievable 不可相信的 
+588. dozen一打 
+589. Easter复活节 
+590. noisy嘈杂的 
+591. see看见 
+592. idea 想法 
+593. uncomfortable 不舒服的 
+594. load 负担；装载 
+595. reception接待 
+596. look 看；面向 
+597. value价值 
+598. chess国际象棋 
+599. thunderstorm 雷电交加的暴风雨 
+600. convenient方便的 
+601. kilo千克 
+602. cassette盒式录音带 
+603. toward 向；朝 
+604. wood木头 
+605. theft偷窃 
+606. chef厨师长 
+607. businessman商人 
+608. silly蠢的 
+609. tomato番茄 
+610. brunch早午餐 
+611. laugh 笑 
+612. suitcase手提箱 
+613. coin硬币 
+614. spade铲子 
+615. mental精神的 
+616. comfort舒适的 
+617. receiver接受者 
+618. Africa非洲 
+619. percentage百分比 
+620. wrong不正确的 
+621. correspond相符合 
+622. reflect反射 
+623. spy间谍 
+624. somebody某人 
+625. religious宗教的 
+626. last 最后的；上一次 
+627. shade遮光物 
+628. perfume香水 
+629. pity怜悯 
+630. trouble困难 
+631. necklace项链 
+632. pancake薄煎饼 
+633. interest 兴趣 
+634. hen母鸡 
+635. dynasty朝代 
+636. single单一的 
+637. puzzle使迷惑 
+638. head头部 
+639. mean  本意是 
+640. break  打破 
+641. among是…中之一 
+642. certificate证明书 
+643. crowd人群 
+644. wander漫游 
+645. box箱子 
+646. fix 修理 
+647. clinic诊所 
+648. grammar语法 
+649. ball球 
+650. translate翻译 
+651. delete删除 
+652. cheat欺骗 
+653. adjust校正 
+654. ill 有病的 
+655. swing摇摆 
+656. privilege特权 
+657. quarter四分之一 
+658. brain脑 
+659. orbit轨道 
+660. attach贴上 
+661. blind失明的 
+662. wild野生的 
+663. plastic塑料 
+664. adaption适应；改编 
+665. lively 充满活力的 
+666. reply回答 
+668. assume假设 
+669. saying俗话 
+670. composition创作 
+671. sunshine阳光 
+672. union联合 
+673. angle角度 
+674. legal 合法的 
+675. death死亡 
+676. observe观察 
+677. splendid极好的 
+678. scar伤疤 
+679. buy购买 
+680. kill杀死 
+681. rent租金 
+682. distinguish辨别 
+683. lead 指挥 
+684. vest背心 
+685. effect影响 
+686. mud泥 
+687. refer提到；关系到 
+688. globe地球；世界 
+689. zip拉链 
+690. power权利 
+691. marriage结婚 
+692. brilliant明亮的 
+693. pick采 
+694. speech说话 
+695. ancient古代的 
+696. director主管 
+697. replace取代 
+698. pig猪 
+699. autonomous自治的 
+700. red红色的 
+701. output产量；输出 
+702. die死亡 
+703. gifted有天赋的 
+704. station车站 
+705. apple苹果 
+706. teamwork 协力配合 
+707. revision修订 
+708. revolution革命 
+709. surgeon外科医生 
+710. link 连接 
+711. average平均的 
+712. section部门 
+713. fluency流利 
+714. underground底下的 
+715. number数字 
+716. amusement娱乐 
+717. develop开发 
+718. sword剑 
+719. star星 
+720. greengrocer 水果蔬菜商 
+721. lucky 幸运的 
+722. eraser橡皮 
+723. rainbow彩虹 
+724. anxious焦虑的 
+725. beyond在另一边 
+726. news新闻 
+727. waitress女服务生 
+728. reference提及 
+729. switch开关 
+730. caption标题 
+731. rough粗糙的 
+732. rail责备 
+733. photo相片 
+734. parrot鹦鹉 
+735. must必须 
+736. instant 立即的 
+737. centre中心点 
+738. determine使下决心 
+739. street大街 
+740. voyage航行 
+741. Ms.女士 
+742. patient  耐心；病人 
+743. wake醒 
+744. worker工作者 
+745. Internet 因特网 
+746. coast海岸 
+747. benefit有益于 
+748. with在一起 
+749. already已经 
+750. face 面孔 
+751. none没有人 
+752. broad宽的 
+753. feed 喂养 
+754. shoot射击 
+755. across穿越 
+756. male男性的 
+757. Antarctic南极的 
+758. zone区域 
+759. continue继续 
+760. blackboard黑板 
+761. join 参加 
+762. defend保护 
+763. tentative试验的 
+764. channel海峡 
+765. technical技术的 
+766. snow雪 
+767. difficult困难的 
+768. bird鸟 
+769. widespread 分布广的 
+770. war战争 
+771. pear梨 
+772. lot 许多 
+773. excuse原谅 
+774. actress女演员 
+775. tablet 药片 
+776. score分数 
+777. pronunciation发音 
+778. such这样的 
+779. accent口音 
+780. chat聊天 
+781. deer鹿 
+782. memorial纪念碑 
+783. within不超出 
+784. tent帐篷 
+785. microwave微波 
+786. success成功 
+787. luggage 行李 
+788. ending结局 
+789. noodle面条 
+790. vain自负的；徒劳的 
+791. dentist牙科医生 
+792. district地区 
+793. control控制 
+794. bill账单 
+795. professor教授 
+796. indicate 指示 
+797. gentle温和的 
+798. helicopter直升机 
+799. airplane飞机 
+800. please请 
+801. allowance津贴 
+802. forehead 前额 
+803. stable稳定的 
+804. fast 快的 
+805. lake 湖 
+806. quilt被子 
+807. agenda议事日程 
+808. command命令 
+809. photographer 摄影者 
+810. monitor监视器 
+811. gift礼物 
+812. middle中间的 
+813. means方法 
+814. glare瞪眼 
+815. breakfast早餐 
+816. mad发疯的 
+817. currency货币 
+818. detective侦探 
+820. prisoner犯人 
+821. dinner正餐 
+822. helmet头盔 
+823. handwriting字迹 
+824. thankful感谢的 
+825. enough充足的 
+826. psychology心理学 
+827. skin皮肤 
+828. amuse逗乐 
+829. cut  剪；割 
+830. poisonous有害的 
+831. hearing听力 
+832. praise称赞 
+833. flight 飞行 
+834. ash灰 
+835. crime罪 
+836. troublesome 引起麻烦的 
+837. coke焦炭 
+838. circulate使循环 
+839. address地址 
+840. numb麻木的 
+841. drunk醉的 
+842. resign辞职；放弃 
+843. menu菜单 
+844. congratulate祝贺 
+845. gay欢乐的；男同性恋 
+846. plain清晰的；平原 
+847. affair事件 
+848. chicken鸡肉 
+849. deed行为 
+850. pure纯的 
+851. cover覆盖 
+852. error错误 
+853. relationship关系 
+854. snowy多雪的 
+855. ticket票；标签 
+856. subject学科；话题 
+857. throughout在…期间 
+858. applicant申请人 
+859. ceiling天花板 
+860. manner方法 
+861. type类型 
+862. remark 评论 
+863. mop擦掉 
+864. smog烟雾 
+865. lid 盖子 
+866. topic题目 
+867. literature 文学作品 
+868. garment衣服 
+869. squirrel松鼠 
+870. aloud大声地 
+871. next接下去 
+872. barrier栅栏 
+873. sharp锋利的 
+874. declare宣布 
+875. headline大字标题 
+876. appreciation 赏识；感谢 
+877. vivid生动的 
+878. well  好 
+880. thief小偷 
+881. skirt裙子 
+882. wildlife野生生物 
+883. cater提供；迎合 
+884. tissue组织；一套 
+885. leader 领袖 
+886. hide  隐藏 
+887. bit少量 
+888. pioneer开拓者 
+889. nation国家 
+890. disagree不同意 
+891. relevant有关的 
+892. drawer抽屉 
+893. dip浸 
+894. treatment处理 
+895. regular有规律的 
+896. duty职责 
+897. metre米 
+898. download下载 
+899. canal运河 
+900. vague模糊的 
+901. foot 脚 
+902. letter 信 
+903. sadness悲伤 
+904. skate溜冰 
+905. motherland祖国 
+906. dress连衣裙 
+907. some一些 
+908. major主要的 
+909. lie  谎话 
+910. tractor拖拉机 
+911. plus加号 
+912. honour尊重 
+913. bow鞠躬 
+914. public公众的 
+915. reform改革 
+916. fill 满足 
+918. admission 准许进入；承认 
+919. throat喉咙 
+920. civil公民的 
+921. goat山羊 
+922. watch看 
+923. environment环境 
+924. taxpayer 纳税人 
+925. whether是否 
+926. anxiety焦虑 
+927. carrier搬运人 
+928. captain船长 
+929. apology认错 
+930. broadcast广播 
+931. compete竞争 
+932. matter物质；麻烦 
+933. decision决心 
+934. unwilling不愿意的 
+935. Europe欧洲 
+936. coincidence巧合 
+937. circle圆 
+938. oppose反对 
+939. forty 午睡 
+940. arrest逮捕 
+941. shore岸 
+942. unit单元 
+943. origin起点 
+944. use使用 
+945. inn 小旅馆 
+946. electronic电子的 
+947. volunteer志愿者 
+948. team队 
+949. burst爆发 
+950. thread线；线索 
+951. innocent 清白的 
+952. skyscraper摩天大楼 
+953. hero英雄 
+954. twin 双胞胎 
+955. tiny极小的 
+956. expense花费 
+957. surface表面 
+958. swift速度的 
+959. thermos热 
+960. tutor导师 
+961. dimension尺寸；方面 
+962. god上帝 
+963. behave表现 
+964. jog 慢跑 
+965. wax蜡 
+966. bad坏的 
+967. outside在外面 
+968. vital极重要的 
+969. leaf 叶子 
+970. Asian亚洲人 
+971. pet宠物 
+972. each每一个 
+973. no不 
+974. theater剧院 
+975. think想 
+976. storm暴风雪 
+977. neighbourhood邻居 
+978. clock钟 
+979. dare敢 
+980. explode使爆炸 
+981. peaceful和平的 
+982. pale苍白的 
+983. assumption假定 
+984. typewriter打字机 
+985. concentrate专注于 
+986. several几个 
+987. bell钟 
+988. bitter有苦味的 
+989. reason理由 
+990. dance跳舞 
+991. pest有害的 
+992. shame羞愧 
+993. bored无聊的 
+994. point要点 
+995. analysis分析 
+996. bus公交车 
+997. identification 鉴定 
+998. need需要 
+999. spoon匙 
+1000.  nephew外甥 
+1001.  physician 内科医生 
+1002.  judgment判断 
+1003.  gallon加仑 
+1004.  meeting会议 
+1005.  tobacco烟草 
+1006.  wash洗 
+1007.  relation关系 
+1008.  breathe呼吸 
+1009.  clean清洁的 
+1010.  chart图表 
+1011.  faith 信任 
+1012.  hook钩子 
+1013.  percent百分比 
+1014.  instruction 命令 
+1015.  daughter女儿 
+1016.  intention 意图 
+1017.  yourself你自己 
+1018.  booth小房间 
+1019.  secure牢固的 
+1020.  semicircle 半圆形 
+1021.  voice说话声 
+1022.  food  食物 
+1023.  strait 海峡；困难 
+1024.  addicted 上瘾的 
+1025.  cartoon卡通 
+1026.  prepare准备 
+1027.  shave削 
+1028.  fight  战争 
+1029.  apparent 显然的 
+1030.  metal金属 
+1031.  pink粉红色 
+1032.  passive被动的 
+1033.  lovely 可爱的 
+1034.  transparent 透明的 
+1035.  click单击 
+1036.  outward 外出的 
+1037.  adolescent青春期的 
+1038.  than 与…相比较 
+1039.  fire 火 
+1040.  sick不舒服的 
+1041.  grasp抓住 
+1042.  ashamed 惭愧
+的 
+1043.  black黑色的 
+1044.  interpreter口译 
+1045.  weed杂草 
+1046.  from 从… 
+1047.  beauty美丽 
+1048.  schoolboy男生 
+1049.  towel毛巾 
+1050.  beg乞讨 
+1051.  biochemistry生物化学 
+1052.  into 到…里 
+1053.  symptom症状 
+1054.  subscribe订购；捐助 
+1055.  shrink收缩 
+1056.  allow允许 
+1057.  accountant 会计师 
+1058.  disturb打扰 
+1059.  avenue大街 
+1060.  meet遇见 
+1061.  message信息 
+1062.  bread面包 
+1063.  sheet纸片 
+1064.  secret秘密 
+1065.  whenever任何时候 
+1066.  pardon宽恕 
+1067.  physical物质的 
+1068.  athlete运动员 
+1069.  requirement 要求 
+1070.  glory光荣 
+1071.  surround包围 
+1072.  violin小提琴 
+1073.  aluminium铝 
+1074.  birthplace出生地 
+1075.  nuclear核的 
+1076.  equal平等的 
+1077.  most最 
+1078.  often常常 
+1079.  soup汤 
+1080.  rigid僵硬的；严格的 
+1081.  adjustment 调节 
+1082.  blue蓝色；忧郁 
+1083.  abstract抽象的 
+1084.  steady稳定的 
+1085.  rope绳索 
+1086.  sink  下沉 
+1087.  goose鹅 
+1088.  place地方 
+1089.  truck 卡车 
+1090.  job 职业 
+1091.  wide宽的 
+1092.  compromise 妥协 
+1093.  arrival到达 
+1094.  rooster公鸡 
+1095.  tick滴答声 
+1096.  intelligence 智力 
+1097.  theme主题 
+1098.  wait等候 
+1099.  postpone延期 
+1100.  hole洞 
+1101.  deserve应得 
+1102.  institute 建立 
+1103.  surrounding 环境 
+1104.  twice两倍 
+1105.  coal煤块 
+1106.  draw绘画 
+1107.  yard场院 
+1108.  destroy毁灭 
+1109.  rag破布 
+1110.  correction 改正的 
+1111.  ownership所有权 
+1112.  predict预言 
+1113.  agency代理行 
+1114.  I 我 
+1115.  automatic 自动的 
+1116.  guess猜 
+1117.  lunch 午餐 
+1118.  rugby橄榄球 
+1119.  burden重负 
+1120.  enter进入 
+1121.  discussion讨论 
+1122.  struggle打斗 
+1123.  editor编辑 
+1124.  reduce减少 
+1125.  prohibit禁止 
+1126.  persuade说服 
+1127.  day天 
+1128.  sharpener削刀 
+1129.  research研究 
+1130.  greet欢迎 
+1131.  educator教员 
+1132.  penny便士 
+1133.  get得到 
+1134.  cheap廉价的 
+1135.  lose 失去 
+1136.  customs海关 
+1137.  salty含盐的 
+1138.  height高度 
+1139.  find 找到 
+1140.  above在…上方 
+1141.  aid帮助 
+1142.  Arctic北极的 
+1143.  fuel燃料 
+1144.  socialism 社会主义 
+1145.  bend使弯曲 
+1146.  terminal终点 
+1147.  compulsory 强制性的 
+1148.  winner优胜者 
+1149.  grass草 
+1150.  sweet甜的 
+1151.  stream小河；流动 
+1152.  irrigation 冲洗 
+1153.  busy忙 
+1154.  low 低的 
+1155.  swap交换 
+1156.  musician 音乐家 
+1157.  cuisine 烹饪艺术 
+1158.  sacrifice牺牲 
+1159.  recommend 推荐；劝告 
+1160.  soldier士兵 
+1161.  ruin毁灭 
+1162.  possible可能的 
+1163.  anyway 不管怎样 
+1164.  judge 法官 
+1165.  triangle三角形 
+1166.  mother妈妈 
+1167.  attraction 吸引力 
+1168.  pool水池 
+1169.  birthday生日 
+1170.  brown棕色的 
+1171.  howl吼叫 
+1172.  personally就自己而言 
+1173.  offshore近海的 
+1174.  application 申请表 
+1175.  dioxide 二氧化物 
+1176.  suite套间 
+1177.  obvious明显的 
+1178.  wife妻子 
+1179.  ham火腿 
+1180.  speaker说话人 
+1181.  mistake  错误 
+1182.  least 最小的 
+1183.  game游戏 
+1184.  sympathy 同情心 
+1185.  league同盟 
+1186.  clumsy笨拙的 
+1187.  millionaire百万富翁 
+1188.  tournament 锦标赛 
+1189.  nod点头 
+1190.  socket插座 
+1191.  willing愿意 
+1192.  blame指责 
+1193.  status地位；情况 
+1194.  sincerely敬上 
+1195.  emergency 紧急情况 
+1196.  nature大自然 
+1197.  seal海豹 
+1198.  pollute污染 
+1199.  sometimes有时 
+1200.  contribute捐助 
+1201.  poster海报 
+1202.  postage邮费 
+1203.  routine惯例 
+1204.  kettle壶 
+1205.  piece部分 
+1206.  listen 听 
+1207.  lesson 功课 
+1208.  painter画家 
+1209.  neither 两者都不 
+1210.  postcode 邮政编码 
+1211.  electric电动的 
+1212.  competition 竞争 
+1213.  leather 皮革 
+1214.  seem好像 
+1215.  sausage香肠 
+1216.  format 格式 
+1217.  bamboo竹竿 
+1218.  expose曝光 
+1219.  protect保护 
+1220.  accident事故 
+1221.  cubic立方体 
+1222.  yoghurt酸奶 
+1223.  dictation听写 
+1224.  plate盘子 
+1225.  inspire 鼓舞 
+1226.  grandson外孙 
+1227.  stop停止 
+1228.  anyhow不论如何 
+1229.  merciful仁慈的 
+1230.  bathroom浴室 
+1231.  journey 旅行 
+1232.  patience耐性 
+1233.  cinema电影院 
+1234.  chair椅子 
+1235.  survive幸存 
+1236.  change改变 
+1237.  litre 升 
+1238.  onto…之上 
+1239.  dirty脏的 
+1240.  mineral矿石 
+1241.  gather集合 
+1242.  milk牛奶 
+1243.  grill烧烤；盘问 
+1244.  wall墙 
+1245.  object物体 
+1246.  spot斑点 
+1247.  ready 准备就绪的 
+1248.  patent专利；明显的 
+1249.  land 陆地 
+1250.  policewoman女警察 
+1251.  media媒体 
+1252.  tale故事 
+1253.  guest客人 
+1254.  positive积极的 
+1255.  precise准确的 
+1256.  march行军 
+1259.  donate捐赠 
+1261.  polite客气的 
+1262.  troop军队 
+1263.  hotel饭店 
+1264.  classify分类 
+1265.  fingernail指甲 
+1266.  facial面孔 
+1267.  classmate同学 
+1268.  graduation毕业 
+1269.  pattern形式 
+1270.  card卡片 
+1271.  powerful 强健的 
+1272.  brewery啤酒厂 
+1273.  homeland家乡 
+1274.  distant遥远的 
+1275.  trust信赖 
+1276.  stage 时期；舞台 
+1278.  sell卖 
+1279.  import 进口 
+1280.  convince 使相信 
+1281.  suffering苦难 
+1282.  pork猪肉 
+1283.  grocer 食品杂货商 
+1284.  satellite卫星 
+1285.  statistics 统计学 
+1286.  himself他自己 
+1287.  defence防御 
+1288.  rate比率 
+1289.  tense紧张的 
+1290.  army军队 
+1291.  factory 工厂 
+1292.  necessary 必要的 
+1293.  agriculture农业 
+1294.  impression印象 
+1295.  accustomed 惯常的 
+1296.  few 不多的 
+1297.  flow 流动 
+1298.  hold  拿 
+1299.  moustache 胡子 
+1300.  corrupt堕落的 
+1301.  tasty美味的 
+1302.  swear  诅咒 
+1303.  condition状况 
+1304.  steep浸 
+1305.  courage勇气 
+1306.  marry娶 
+1307.  extreme 尽头的；极端的 
+1308.  those that的复数 
+1309.  tourism旅游 
+1310.  ground地面 
+1311.  glove手套 
+1312.  contain包含 
+1313.  chain锁链 
+1314.  midnight 午夜 
+1315.  obtain获得 
+1316.  will  愿意 
+1317.  acid酸味的 
+1318.  stair楼梯 
+1319.  update更新 
+1320.  pay  付给 
+1321.  evidence证词 
+1322.  carpet地毯 
+1323.  advocate提倡 
+1324.  cheer喝彩 
+1325.  blow  吹 
+1326.  reject拒绝 
+1327.  comprehension理解 
+1328.  bathe给…洗澡 
+1329.  dumpling饺子 
+1330.  high高的 
+1331.  my我的 
+1332.  airspace领空 
+1333.  promise允诺 
+1334.  athletic运动的 
+1335.  headmistress女校长 
+1336.  slim苗条的 
+1337.  after在…以后 
+1338.  afterward  以后 
+1339.  refuse拒绝 
+1340.  organ器官 
+1341.  cautious小心的 
+1342.  advise劝告 
+1343.  fountain 泉水；来源 
+1344.  wet湿的 
+1346．education体育 
+1346.  remind 使想起 
+1347.  whole整体的 
+1348.  down向下 
+1349.  weekend周末 
+1350.  punctuation 标点 
+1351.  shopping购物 
+1352.  flag 旗帜 
+1353.  violate冒犯；违反 
+1354.  premier总理 
+1355.  slice切 
+1356.  hunt打猎 
+1357.  healthy健康的 
+1358.  respond回答；回应 
+1359.  approve赞成 
+1360.  peach桃 
+1361.  avoid避免 
+1362.  sort种类 
+1363.  daily日常的 
+1364.  trick 把戏 
+1365.  bean curd豆腐 
+1366.  many许多的 
+1367.  approach接近 
+1368.  enquiry询问 
+1369.  rude粗鲁的 
+1370.  slow慢的 
+1371.  cab出租车 
+1372.  band带 
+1373.  transform 改变 
+1374.  paragraph段落 
+1375.  freeway高速路 
+1376.  production 生产 
+1377.  international 国际的 
+1378.  invent 发明 
+1379.  security安全 
+1380.  rectangle 长方形 
+1381.  his他的 
+1382.  treasure宝藏；重视 
+1383.  govern统治 
+1384.  discount折扣 
+1385.  fantastic极好的 
+1386.  sight 视力；风景 
+1387.  delay延迟 
+1388.  restaurant饭店 
+1389.  independence独立的 
+1390.  spoken口头的 
+1391.  might表示可能 
+1392.  which哪一个 
+1393.  accept接受 
+1394.  read读 
+1395.  every每一个 
+1396.  scientist科学家 
+1397.  so所以 
+1398.  fever 发烧 
+1399.  acre英亩 
+1400.  argument争吵 
+1401.  holy神圣的 
+1402.  crew全体船员 
+1403.  door门 
+1404.  today 今天 
+1405.  meal饭 
+1406.  walk步行 
+1407.  scenery风景 
+1408.  found 创办 
+1409.  gesture 姿势；手势 
+1410.  come来 
+1411.  ample大量的 
+1412.  due应有的 
+1413.  tree树 
+1414.  meanwhile 同时 
+1415.  try试图 
+1416.  construction 建造 
+1417.  intend 打算 
+1418.  nervous害怕的 
+1419.  here这里 
+1420.  divide分 
+1421.  page页 
+1422.  movement移动 
+1423.  decrease减小 
+1424.  raise举起 
+1425.  bench长椅 
+1426.  fence 栅栏；保护 
+1427.  manager经理；管理人 
+1428.  interval 间隔 
+1429.  bowl碗 
+1430.  heel足跟 
+1431.  disability 无能力 
+1432.  case事例 
+1433.  sweat汗水 
+1434.  link 连接 
+1435.  exist存在 
+1436.  mourn哀悼 
+1437.  performance演出 
+1438.  glad高兴的 
+1439.  ancestor祖先 
+1440.  gun炮 
+1441.  recognise识别 
+1442.  different 不同的 
+1443.  toast吐司 
+1444.  civilization文化 
+1445.  language 语言 
+1446.  flee逃走 
+1447.  zebra斑马 
+1448.  select选择 
+1449.  never从不 
+1450.  broken破碎的 
+1451.  mutton羊肉 
+1452.  video录像带 
+1453.  twist 扭动；扭转 
+1454.  shadow 阴影；遮蔽 
+1455.  stocking长袜 
+1456.  algebra代数 
+1457.  help帮助 
+1458.  cookie饼干 
+1459.  elegant优美的 
+1460.  endless 无止境的 
+1461.  centigrade摄氏 
+1462.  glue胶水 
+1463.  concern焦虑 
+1464.  basic基本的 
+1465.  wallet钱夹 
+1466.  wave波浪 
+1467.  dish盘子 
+1468.  spelling拼写 
+1469.  know知道 
+1470.  goods商品 
+1471.  practise练习 
+1472.  clothes衣服 
+1473.  scientific 科学的 
+1474.  instead 代替 
+1475.  teenager 青少年 
+1476.  welcome欢迎 
+1477.  careless粗心的 
+1478.  weigh重量 
+1479.  parking停车 
+1480.  human being人类 
+1481.  used用过的 
+1482.  north北方 
+1483.  chopsticks筷子 
+1484.  principle原理；准则 
+1485.  loud 响亮的 
+1486.  African非洲的 
+1487.  size尺寸 
+1488.  strike  攻击 
+1489.  biology生物学 
+1490.  absence缺席 
+1491.  deaf聋的 
+1492.  rare稀少的 
+1493.  unrest动乱 
+1494.  saleswoman 女店员 
+1495.  royal 国王的；大规模的 
+1496.  below在…下面 
+1497.  movie电影 
+1498.  bowling保龄 
+1499.  resist抵抗 
+1500.  kingdom王国 
+1501.  powder粉末 
+1502.  condemn责备；判罪 
+1503.  capsule胶囊 
+1504.  let 让；使 
+1505.  practical实际的 
+1506.  paddle短浆 
+1507.  temperature 温度 
+1508.  apart相距 
+1509.  butterfly蝴蝶 
+1510.  stand站立 
+1511.  concert音乐会 
+1512.  maximum最大值 
+1513.  simplify简化 
+1514.  sleep  睡觉 
+1515.  spring春天；泉 
+1516.  tooth牙 
+1517.  exercise运动 
+1518.  reach到达 
+1519.  overhead 头顶上的 
+1520.  heaven天堂 
+1521.  dignity庄严 
+1522.  believe相信 
+1523.  commitment承诺 
+1524.  parent父母 
+1525.  tired疲倦的 
+1526.  tennis 网球 
+1527.  flesh肉体 
+1529.  circuit线路 
+1530.  decoration装饰 
+1531.  review检查 
+1532.  courtyard庭院 
+1533.  potato土豆 
+1534.  various 各不相同的 
+1535.  destination 终点；目的地 
+1536.  appoint任命 
+1537.  affection喜爱 
+1538.  severe严重的 
+1539.  bush灌木 
+1540.  conductor指挥 
+1541.  sceptical 怀疑的 
+1542.  mask面罩 
+1543.  why为什么 
+1544.  poor贫穷的 
+1545.  great大的 
+1546.  solid固体 
+1547.  permanent 永久的；固定的 
+1548.  nest鸟巢 
+1549.  dust灰尘 
+1550.  assess估计 
+1551.  impossible 不可能的 
+1552.  would将 
+1553.  fat 肥胖的 
+1554.  rapid 快的 
+1555.  northeast东北 
+1556.  oral口头的 
+1557.  typical典型的 
+1558.  harmful有害的 
+1559.  darkness黑暗 
+1560.  defeat击败 
+1561.  spokeswoman女发言人 
+1562.  beneficial 有益的 
+1563.  wherever各处 
+1564.  skip跳 
+1565.  but但是 
+1566.  Olympic奥林匹克 
+1567.  confuse使困惑 
+1568.  preference偏爱 
+1569.  artificial人造的 
+1570.  expression表示 
+1571.  drink  喝 
+1572.  check检查 
+1573.  ban禁止 
+1574.  interrupt 打断 
+1575.  divorce 离婚；分离 
+1576.  variety种类 
+1577.  altogether全部地 
+1578.  anniversary 周年纪念 
+1579.  herb药草 
+1580.  jump 跳 
+1581.  foolish 愚蠢的 
+1582.  quick快的 
+1583.  he他 
+1584.  deposit 放置；存款 
+1585.  at在；于 
+1586.  train 火车 
+1587.  shabby卑鄙的 
+1588.  ripen成熟 
+1589.  worldwide全世界 
+1590.  computer 计算机 
+1591.  sob哭 
+1592.  kick踢 
+1593.  thirst渴 
+1594.  partly部分地 
+1595.  upset使心烦 
+1596.  chalk粉笔 
+1597.  diagram图解 
+1598.  appear出现 
+1599.  lamp 灯 
+1600.  if 如果 
+1601.  lorry 卡车 
+1602.  congratulation祝贺 
+1603.  forgetful 健忘的 
+1604.  castle城堡 
+1605.  skatebroad 滑板 
+1606.  toothpaste牙膏 
+1607.  ordinary普通的 
+1608.  piano钢琴 
+1609.  collection收集 
+1610.  emperor皇帝 
+1611.  remove移走 
+1612.  unlike不同的 
+1613.  encouragement鼓励 
+1614.  bungalow平房 
+1615.  lazy 懒惰的 
+1616.  measure测量 
+1617.  perhaps大概 
+1618.  native本国的 
+1619.  ought应该 
+1620.  wag摇摆 
+1621.  become变为 
+1622.  astronomer 天文学者 
+1623.  contemporary当代的 
+1624.  villager 村民 
+1625.  rewind倒回 
+1626.  when在那时 
+1627.  receive收到 
+1628.  other其他的 
+1629.  salary薪水 
+1630.  potential 潜在的 
+1631.  compass罗盘；圆规 
+1632.  animal动物 
+1633.  ear耳朵 
+1634.  pension退休金 
+1635.  annual每年的 
+1636.  salesman 销售员 
+1637.  month月份 
+1638.  behind 在…后面 
+1639.  drug药物 
+1640.  creature生物 
+1641.  hire雇用；工钱 
+1642.  respect尊重 
+1643.  granddaughter孙女 
+1644.  partner搭档 
+1645.  jaw 闲谈 
+1646.  mind想法 
+1647.  total 总计 
+1648.  alarm警告 
+1649.  aggressive 好斗的 
+1650.  mobile 可移动的 
+1651.  attention专心 
+1652.  require 命令；需求 
+1653.  air空气 
+1654.  basement 地下室 
+1655.  belong属于 
+1656.  equipment设备 
+1657.  recite 背诵；列举 
+1658.  standard标准 
+1659.  straight直的 
+1660.  chief首领 
+1661.  decade十年 
+1662.  shot开枪 
+1663.  earthquake 地震 
+1664.  scare恐吓 
+1666.  access通道 
+1667.  inform 通知 
+1668.  rain雨 
+1669.  envy嫉妒 
+1670.  feeling知觉 
+1671.  keep保持 
+1672.  flour面粉 
+1673.  yell叫喊 
+1674.  rid 摆脱 
+1675.  badminton羽毛球 
+1676.  newspaper 报纸 
+1677.  aim目标 
+1678.  disadvantage不利 
+1679.  admirable 令人钦佩的 
+1680.  stress压力 
+1681.  unable不能的 
+1682.  occupy占领 
+1683.  laughter 笑声 
+1684.  referee裁判 
+1685.  part一部分 
+1686.  introduce 介绍 
+1688.  pulse脉搏 
+1689.  information 消息 
+1690.  soon不久 
+1691.  theoretical理论的 
+1692.  junior 年少的 
+1693.  journalist 新闻记者 
+1694.  chemist化学家 
+1695.  pace步子 
+1696.  frequent 常见的 
+1697.  explicit明晰的 
+1698.  bounce弹回 
+1699.  cat猫 
+1700.  happen发生 
+1701.  chemistry化学 
+1702.  sharpen变得更好 
+1703.  safe安全的 
+1704.  form 结构 
+1705.  steal偷 
+1706.  toilet洗手间 
+1707.  clothing衣服 
+1708.  prescription 处方 
+1709.  spell拼写 
+1710.  advice劝告 
+1711.  belief信任 
+1712.  differ不同 
+1713.  graduate 毕业了的 
+1714.  seek寻找；企图 
+1715.  spirit精神 
+1716.  nail钉子 
+1717.  female 女性的 
+1718.  development发展 
+1719.  bottle瓶子 
+1720.  blank空白的 
+1721.  round到处 
+1722.  host主人 
+1723.  cattle牛 
+1724.  barber理发师 
+1725.  basis基础 
+1726.  bite  咬 
+1728.  parallel平行线 
+1729.  friend朋友 
+1731.  equip装备 
+1732.  way路 
+1733.  occupation 职业 
+1734.  appearance 出现；外貌 
+1735.  health健康 
+1736.  bomb炸弹 
+1737.  tour旅行 
+1738.  print图案 
+1739.  addition加 
+1740.  apartment一套房间 
+1741.  shut关上 
+1742.  supper晚餐 
+1743.  play游戏 
+1744.  guilty内疚的 
+1745.  beast兽 
+1746.  diary日记 
+1747.  local 地方性的 
+1748.  dog狗 
+1749.  progress前进 
+1750.  boxing拳击 
+1751.  line 线条 
+1752.  diverse不同的 
+1753.  breakthrough突破点 
+1754.  dictionary字典 
+1755.  supermarket 超级市场 
+1756.  shower淋浴 
+1757.  wise明智的 
+1758.  controversial有争议的 
+1759.  background 背景 
+1760.  spiritual精神上的 
+1761.  handle把手；处理 
+1762.  bridge桥 
+1763.  succeed成功 
+1764.  calculate计算 
+1765.  private私人的 
+1766.  reality实际 
+1767.  accuracy 准确的 
+1768.  smart聪明的 
+1769.  sad难过的 
+1770.  butter黄油 
+1771.  contradictory矛盾的 
+1772.  passenger乘客 
+1773.  contribution 贡献 
+1774.  beautiful 美丽的 
+1775.  sideway岔路 
+1776.  brand商标 
+1777.  maybe大概 
+1778.  easy容易的 
+1779.  close关上 
+1780.  bunch束；捆 
+1781.  actual实在的 
+1782.  statesman 政治家 
+1783.  province省份 
+1784.  fierce 凶猛的 
+1785.  Mrs.太太 
+1786.  net网 
+1787.  age年龄 
+1788.  owner物主 
+1789.  silver银 
+1790.  per（数量、价格）每 
+1791.  deep深的 
+1792.  summary摘要 
+1793.  flash闪光 
+1794.  citizen公民 
+1795.  Christmas 圣诞节 
+1796.  opposite 对立的 
+1797.  blanket毛毯 
+1798.  pregnant 怀孕的；含蓄的 
+1799.  one一 
+1800.  anchor锚 
+1801.  root根部 
+1802.  wear  穿 
+1803.  participate参加 
+1804.  firm  结实的；公司 
+1805.  neck脖；领口 
+1806.  request要求 
+1807.  refrigerator 冰箱 
+1808.  pile一堆 
+1809.  changeable 易变的 
+1810.  brave勇敢的 
+1811.  technology 科技 
+1812.  magazine杂志 
+1814.  sparrow麻雀 
+1815.  cook烹调 
+1816.  evaluate评估 
+1817.  traditional 传统的 
+1818.  man男人 
+1819.  profit利润 
+1820.  random 任意的  
+1821.  bean豆 
+1822.  botanical 植物学的 
+1823.  natural自然的 
+1824.  night夜晚 
+1825.  double双的 
+1826.  shortly不久 
+1827.  lounge 休息厅 
+1828.  teapot茶壶 
+1829.  scholarship 奖学金 
+1830.  tease取笑 
+1831.  warehouse 仓库 
+1832.  quiet轻声的 
+1833.  bag包 
+1834.  side侧面 
+1835.  uniform制服 
+1836.  pray祈祷 
+1837.  just 只是 
+1838.  pupil学生 
+1839.  whale鲸鱼 
+1840.  helpful有益的 
+1841.  tall高的 
+1842.  hers她的 
+1843.  outcome结果 
+1844.  eager热切的 
+1845.  title题目 
+1846.  northern 北方的 
+1847.  bother打扰 
+1848.  silence寂静 
+1849.  sensitive 易受伤的；敏感的 
+1850.  scissors剪刀 
+1851.  oneself自己 
+1852.  sail航程 
+1853.  arrange安排 
+1854.  postcard 明信片 
+1855.  ray光束 
+1856.  clear清晰的 
+1857.  kilogram千克 
+1858.  typhoon台风 
+1859.  dismiss解雇 
+1860.  law 法律 
+1861.  disappointed失望的 
+1862.  failure 失败 
+1863.  contradict反驳 
+1864.  primitive 原始的 
+1865.  artist艺术家 
+1866.  boss老板 
+1867.  Catholic天主教的 
+1868.  chemical 化学的 
+1869.  aunt阿姨 
+1870.  science科学 
+1871.  operator 操作员 
+1872.  outer外面的 
+1873.  dangerous有危险的 
+1874.  birth出生 
+1875.  arm臂；武器 
+1876.  improve 改进 
+1877.  separate分开 
+1878.  expand扩大 
+1879.  America美国 
+1880.  rubber橡胶 
+1881.  police警察 
+1882.  wire电线 
+1883.  hurt受伤 
+1884.  virus病毒 
+1885.  textbook课本 
+1886.  away远处 
+1887.  winter冬天 
+1888.  carry运送 
+1889.  acknowledge承认 
+1890.  block阻碍物 
+1891.  cycle自行车 
+1892.  fisherman 渔民 
+1893.  housework 家务活 
+1894.  freedom 自由 
+1895.  discrimination歧视 
+1896.  normal正常的 
+1897.  official公务的 
+1898.  reserve 保护区 
+1899.  refresh使恢复 
+1900.  accurate准确的 
+1901.  finance 财政 
+1902.  cross十字架 
+1903.  everybody每人 
+1904.  enjoyable 快乐的 
+1905.  visit参观 
+1906.  modem调制解调器 
+1907.  word单词 
+1908.  raincoat 雨衣 
+1909.  nationwide 全国的 
+1910.  learn 学习 
+1911.  injury 伤害 
+1912.  brother兄弟 
+1913.  garbage垃圾 
+1914.  tomb墓穴 
+1915.  unfair不公正的 
+1916.  insect 昆虫 
+1917.  her她 
+1918.  jar 罐子 
+1919.  vegetable蔬菜 
+1920.  she她 
+1921.  silent寂静的 
+1922.  pack背包 
+1923.  clap拍手 
+1924.  pain痛苦 
+1925.  able能够…的 
+1926.  remote 遥远的；微小的 
+1927.  heat高温 
+1928.  dormitory 集体宿舍 
+1929.  worthy应得的 
+1930.  choke填塞 
+1931.  send送 
+1932.  both两者都 
+1933.  industry 工业 
+1934.  fall  降落 
+1935.  fragile易碎的 
+1936.  maple枫树 
+1937.  bank 河岸；银行 
+1938.  suspension 高架铁路 
+1939.  minus减号；负的 
+1940.  mouse老鼠 
+1941.  seize抓住 
+1942.  fax 传真机 
+1943.  sing唱歌 
+1944.  smell  闻 
+1945.  foggy有雾的 
+1946.  occur发生；存在 
+1947.  pie馅饼；派 
+1948.  cushion垫子 
+1949.  absurd荒谬的 
+1950.  examine考试 
+1951.  thin瘦的 
+1952.  yellow黄色的 
+1953.  salt盐 
+1954.  sea海 
+1955.  free自由的 
+1956.  cream奶油 
+1957.  hungry饥饿的 
+1958.  elect选举 
+1959.  policeman男警察 
+1960.  confident 肯定的 
+1961.  drive  驾驶 
+1962.  room房间 
+1963.  nobody没有人 
+1964.  board木板 
+1965.  cash现金 
+1966.  important 重要的
+1967.  blouse女衬衫 
+1968.  name名字 
+1969.  acquisition获得 
+1970.  write写 
+1971.  article文章 
+1972.  sheep睡 
+1973.  marble弹子；大理石 
+1974.  self自我 
+1975.  lung 肺 
+1976.  incident 事故 
+1977.  juice 果汁 
+1978.  vinegar醋 
+1979.  overcoat大衣 
+1980.  tea 茶 
+1981.  simple简单的 
+1982.  snake蛇 
+1983.  concrete 实体的 
+1984.  wealth财产 
+1985.  hand手 
+1986.  encourage鼓励 
+1987.  swell增强 
+1988.  good好的 
+1989.  record记录 
+1990.  pair一对 
+1991.  package包装 
+1992.  entry进入 
+1993.  extraordinary特别的；临时的 
+1994.  harmony和谐 
+1995.  ton 吨 
+1996.  him他 
+1997.  quite完全地 
+1998.  attract吸引 
+1999.  publish 出版；发布 
+2000.  uncertain 不确定 
+2001.  invitation 邀请 
+2002.  whose谁的 
+2003.  enjoy喜欢 
+2004.  conservative 保守的 
+2005.  stare瞪视 
+2006.  spray 浪花；喷雾 
+2007.  money钱 
+2008.  garden花园 
+2009.  either两者中任意一个 
+2010.  map地图 
+2012.  theory 学说 
+2013.  noble高贵的 
+2014.  nowhere 任何地方都不 
+2015.  produce生产 
+2016.  sunburnt 晒黑的 
+2017.  shape形状 
+2018.  too 也 
+2019.  receipt收据 
+2020.  me我 
+2021.  ski滑雪 
+2022.  son儿子 
+2023.  fur 软毛 
+2024.  date日子 
+2025.  optimistic 乐观的 
+2026.  toothbrush 牙刷 
+2027.  cap帽子 
+2028.  vote投票 
+2029.  mirror镜子 
+2030.  shoe鞋 
+2031.  butcher屠夫 
+2032.  specialist专家 
+2033.  cake蛋糕 
+2034.  bachelor 单身汉；学士 
+2035.  fruit水果 
+2036.  tongue舌头 
+2037.  pyramid 金字塔；棱锥 
+2038.  kite风筝 
+2039.  carpenter木工 
+2040.  supreme 最高的 
+2041.  cousin堂兄弟 
+2042.  special特殊的 
+2043.  somehow 某种方式 
+2044.  honest老实的 
+2045.  generation一代人 
+2046.  figure数字；图表 
+2047.  capital首都 
+2048.  friendship 友情 
+2049.  pencil铅笔 
+2050.  lantern 灯笼 
+2051.  social社会的 
+2052.  lame 蹩脚的；差劲的 
+2053.  drop使落下 
+2054.  finger 手指 
+2055.  allocate分配 
+2056.  boat小船 
+2057.  farmer 农民 
+2058.  turning弯曲 
+2059.  brochure 小册子 
+2060.  possess占据 
+2061.  pull拉 
+2062.  magic魔法 
+2063.  save拯救；贮存 
+2064.  goal目标 
+2065.  schoolmate 同学 
+2066.  period时期；句号 
+2067.  smooth光滑的 
+2068.  wealthy富有的 
+2069.  merely仅仅 
+2070.  serious严重的 
+2071.  dawn拂晓 
+2072.  cup杯子 
+2073.  consume消费 
+2074.  pond池塘 
+2075.  kind  亲切的 
+2076.  cough咳嗽 
+2077.  somewhere 某
+处 
+2078.  mine  我的；矿 
+2079.  soccer足球 
+2080.  politician政客 
+2081.  anywhere 任何地方 
+2082.  second第二 
+2083.  alphabet 字母表 
+2084.  ripe成熟的 
+2085.  hopeless 绝望的 
+2086.  performer表演者 
+2087.  steam蒸汽 
+2088.  digital 数字式的 
+2089.  biography传记 
+2090.  abundant 大量的 
+2091.  canteen食堂 
+2092.  introduction 介绍 
+2093.  past以前的 
+2094.  mature成熟的；深思的 
+2095.  quiz问答比赛 
+2096.  planet行星 
+2097.  ourselves 我们亲自 
+2098.  start开始 
+2099.  seashell贝壳 
+2100.  insurance 保险 
+2101.  adventure 冒险；奇遇 
+2102.  enemy敌人 
+2103.  appendix附录；阑尾 
+2104.  cancel取消 
+2105.  unite联合；团结 
+2106.  damage损害 
+2107.  rob 抢夺 
+2108.  method方法 
+2109.  immediately 立即 
+2110.  fun 娱乐 
+2111.  brief 短暂的；摘要 
+2112.  electricity电流 
+2113.  football 足球；橄榄球 
+2114.  exit出口 
+2115.  morning早上 
+2116.  liberty 自由 
+2117.  swim  游泳 
+2118.  assistant助手 
+2119.  moral道德上的 
+2120.  book书籍 
+2121.  umbrella伞 
+2122.  operation操作 
+2123.  however 不管怎样 
+2124.  hunger饥饿 
+2125.  order命令 
+2126.  consult 考虑；商量 
+2127.  unusual独特的 
+2128.  preserve保护 
+2129.  headache头痛 
+2130.  teach教 
+2131.  palace宫殿 
+2132.  desperate 孤注一掷的 
+2133.  accessible 易取得的 
+2134.  lay 放倒；躺下；下蛋 
+2135.  am是 
+2136.  cause起因 
+2137.  lemon 柠檬 
+2138.  motto格言 
+2139.  stainless无污点的；不锈钢的 
+2140.  slip滑 
+2141.  mosquito蚊子 
+2142.  small小的 
+2143.  understand 理解 
+2144.  talent天才 
+2145.  activity活力 
+2146.  astonish使惊讶 
+2147.  regardless 无论如何 
+2148.  training训练 
+2149.  season季节 
+2150.  although虽然 
+2151.  fiction 小说 
+2152.  take拿 
+2153.  key钥匙 
+2154.  bonus奖金 
+2155.  hard 硬的；坚实的
+2156.  republic共和国 
+2157.  railway 铁路 
+2158.  early早的 
+2159.  final 最后的 
+2160.  sit坐 
+2161.  adequate 充分的 
+2162.  accelerate 使加快 
+2163.  education教育 
+2164.  voluntary 自愿的 
+2165.  desert沙漠；舍弃 
+2166.  pollution污染 
+2167.  pianist钢琴家 
+2168.  via经过；凭借 
+2169.  settlement解决 
+2170.  receptionist 接待员 
+2171.  alongside 沿着边 
+2172.  out出去；全部 
+2173.  arithmetic算术 
+2174.  foresee预见 
+2175.  dilemma 左右为难 
+2176.  madam女士 
+2177.  purse钱包；财产 
+2178.  exhibition展览 
+2179.  popular流行的 
+2180.  year年 
+2181.  dynamic有活力的 
+2183.  awkward 笨拙的 
+2184.  cabbage卷心菜 
+2185.  conservation保护 
+2186.  by通过 
+2187.  leak 泄露 
+2188.  note记录 
+2189.  strange陌生的 
+2190.  inspect 检查 
+2191.  tube地铁 
+2192.  symbol 象征；符号 
+2193.  sleepy困的 
+2194.  acquaintance熟人 
+2195.  slight微小的 
+2196.  scan审查；扫描 
+2197.  national国家的 
+2198.  shopkeeper 店主 
+2199.  sky天空 
+2200.  behalf利益 
+2201.  engine发动机 
+2202.  recover恢复 
+2203.  yes是 
+2204.  fine  美好的；罚金 
+2205.  teacher教师 
+2206.  accomplish 完成 
+2207.  explain解释 
+2208.  tram有轨电车 
+2209.  company陪伴；公司 
+2210.  transport 运送 
+2211.  fellow 同伴 
+2212.  attend参加 
+2213.  colour颜色 
+2214.  bury埋葬 
+2215.  purchase购买 
+2216.  quake震动 
+2217.  act行动 
+2218.  follow 跟随 
+2219.  grocery杂货店 
+2220.  crash撞击 
+2221.  plane飞机 
+2222.  systematic 有规律的 
+2223.  network网络 
+2224.  fundamental 基本的 
+2225.  trade商业 
+2226.  superior较好的 
+2227.  hotdog热狗 
+2228.  dial打电话 
+2229.  complete 完整的 
+2230.  cheerful高兴的 
+2231.  frontier 边境 
+2232.  battle战斗 
+2233.  pause停顿 
+2234.  warmth温暖 
+2235.  ruler直尺 
+2236.  mild温柔的 
+2237.  explanation 解释 
+2238.  drawback缺点 
+2239.  proud自尊的 
+2240.  cigarette香烟 
+2241.  strong强壮的 
+2242.  tune曲调 
+2243.  offer提供 
+2244.  long 长的 
+2245.  thought想法 
+2246.  absorb吸收 
+2247.  mend修理 
+2248.  invention 发明 
+2249.  victim牺牲者 
+2250.  responsibility责任 
+2251.  minister部长 
+2252.  tell告诉 
+2253.  sun太阳 
+2254.  rot 腐烂 
+2255.  beside在旁边 
+2256.  approval赞成 
+2257.  radium镭 
+2258.  pressure压力 
+2259.  sorrow悲痛 
+2260.  consider考虑 
+2261.  diamond钻石 
+2262.  drag拖；拽 
+2263.  apply应用 
+2264.  useless无用的 
+2265.  register记录 
+2266.  depth深度 
+2267.  difference差别 
+2269.  lack 缺少 
+2270.  sentence句子 
+2271.  tend照顾 
+2272.  announce宣布 
+2273.  division分开 
+2274.  initial 最初的 
+2275.  income 收入 
+2276.  all所有的 
+2277.  fist拳头 
+2278.  abolish废除 
+2281.  stand  站立 
+2282.  bicycle自行车 
+2283.  fear 害怕 
+2284.  engineer 工程师 
+2285.  arbitrary 随意的；专横的 
+2286.  spoonful 一匙量 
+2287.  hang挂 
+2288.  tape带子 
+2289.  particular 特定的；特别的 
+2290.  assistance帮助 
+2291.  mail邮政 
+2292.  hi打招呼，嘿 
+2293.  settle安排 
+2294.  forecast 预言 
+2295.  comment评论 
+2296.  lady 女士 
+2297.  nursery托儿所 
+2298.  radiation辐射 
+2299.  passport护照 
+2300.  prove证明 
+2301.  road路 
+2302.  house房子 
+2303.  while在…期间 
+2304.  row一排 
+2305.  precious宝贵的
+2306.  arch拱门 
+2307.  mass大量 
+2308.  grape葡萄 
+2309.  poison毒药 
+2310.  statement声明 
+2311.  mouth嘴 
+2312.  merchant商人 
+2313.  European 欧洲人 
+2314.  roundabout 绕道的 
+2315.  wish祝愿 
+2316.  enlarge扩大 
+2317.  AIDS艾滋 
+2318.  abuse滥用 
+2319.  narrow狭窄的 
+2320.  grandparents祖父母 
+2321.  action行动 
+2322.  quality质量 
+2323.  beach海滩 
+2324.  acute严重的 
+2325.  yesterday昨天 
+2326.  general普遍的 
+2327.  far遥远的 
+2328.  celebration 庆祝 
+2329.  react影响 
+2330.  elder年长的 
+2331.  doctor医生 
+2332.  stone石头 
+2333.  loss 遗失 
+2334.  playground 操场 
+2335.  cheque支票 
+2336.  sneeze喷嚏 
+2337.  distinction区别 
+2338.  gymnastics 体操；体育 
+2339.  concept概念 
+2340.  excellent 优秀的 
+2341.  common 普遍的 
+2342.  commercial 商业的 
+2343.  demand要求 
+2344.  presentation提供；显示；表演 
+2345.  choir唱诗队 
+2346.  white白色 
+2347.  stateswoman妇女政治家 
+2348.  southern 南方的 
+2349.  crossroads在紧要关头 
+2350.  kitchen厨房 
+2351.  hobby 业余爱好 
+2352.  preview预习 
+2353.  win赢 
+2354.  west西方 
+2355.  hour小时 
+2356.  haircut理发 
+2357.  relay 接替；转达 
+2358.  humour幽默 
+2359.  text正文 
+2360.  possibility 可能性 
+2361.  literary 文学 
+2362.  effort努力 
+2363.  sir先生 
+2364.  shark鲨鱼 
+2366.  art艺术 
+2367.  grow生长 
+2368.  forever永远 
+2369.  banana香蕉 
+2370.  opinion意见 
+2371.  awake醒着的 
+2372.  invite 邀请 
+2373.  administration执行 
+2374.  slavery 奴隶身份 
+2375.  bishop主教 
+2376.  diploma执照 
+2377.  attractive 吸引的 
+2378.  between在…之间 
+2379.  watermelon 西瓜 
+2380.  deadline 最后期限 
+2381.  car汽车 
+2382.  elephant大象 
+2383.  minimum最小的 
+2384.  hammer锤头 
+2385.  baby婴儿 
+2386.  exchange交换 
+2387.  kangaroo袋鼠 
+2388.  crossing十字路口 
+2389.  do做 
+2390.  work工作 
+2391.  ambition雄心 
+2392.  base基础 
+2393.  loaf 一条面包 
+2394.  president主席 
+2395.  businesswoman女商人 
+2396.  merry欢乐的 
+2397.  minibus小型公共汽车 
+2398.  insure 保证 
+2399.  drum鼓 
+2400.  dark黑暗的 
+2401.  mistaken错误的 
+2403.  weak易损坏的 
+2404.  hunter猎人 
+2405.  rainy 下雨的 
+2406.  degree度数 
+2407.  club社团；俱乐部 
+2408.  scold责骂 
+2409.  session 开会；学年 
+2410.  whom谁 
+2411.  tomorrow 明天 
+2412.  cooker厨具 
+2413.  process过程 
+2414.  library 图书馆 
+2415.  beat跳动；打败 
+2416.  neighbour邻居 
+2417.  truth事实 
+2418.  recent 不久前的 
+2419.  author作者 
+2420.  dollar元 
+2421.  abandon放弃 
+2422.  beard胡须 
+2423.  silk丝 
+2424.  BC公元前 
+2425.  tight牢的 
+2426.  bat球拍 
+2427.  victory胜利 
+2428.  honey蜂蜜 
+2429.  substitute代替 
+2430.  themselves 它们自己 
+2431.  zipper拉链 
+2432.  licence 执照 
+2433.  chapter章；回 
+2434.  unique 独一无二的 
+2435.  hardly几乎不 
+2436.  nut干果 
+2437.  lawyer 律师 
+2438.  aware知道的 
+2439.  being生物 
+2440.  alcoholic 酒精的 
+2441.  vehicle车辆 
+2442.  campaign运动 
+2443.  upper上部的 
+2444.  lamb 羔羊 
+2445.  track足迹 
+2446.  branch树枝；分支 
+2447.  large 巨大的 
+2448.  optional可选择的 
+2449.  bacon咸猪肉 
+2450.  whichever无论哪个 
+2451.  fasten 栓牢 
+2452.  convey运输 
+2453.  problem问题 
+2454.  pilot驾驶员 
+2455.  sickness恶心 
+2456.  hardworking刻苦的 
+2457.  atom原子 
+2458.  eggplant茄子 
+2459.  lip 嘴唇；边缘 
+2460.  rubbish垃圾 
+2461.  hope希望 
+2462.  embassy 大使馆 
+2463.  tin 锡 
+2464.  cost价格；成本 
+2465.  pin大头针 
+2466.  favour 喜爱 
+2467.  walnut胡桃 
+2468.  entire全部的 
+2470.  share分享 
+2471.  experiment 实验 
+2472.  leave  留下 
+2473.  sugar糖 
+2474.  bent弯的 
+2475.  serve向…供应 
+2476.  permit许可 
+2477.  missile导弹 
+2478.  pill药片 
+2479.  earth地球 
+2480.  upward 向上的 
+2481.  golf高尔夫 
+2482.  sculpture雕刻 
+2483.  fortnight 两星期 
+2484.  lend 借 
+2485.  fish鱼肉 
+2486.  near靠近 
+2487.  sound声音 
+2488.  feel 感觉 
+2489.  successful 成功的 
+2490.  dry干的
+2491.  return返回 
+2492.  only唯一的 
+2493.  waist腰部 
+2494.  trial审判 
+2495.  ride  骑;乘 
+2496.  put放;置 
+2497.  thorough 彻底的 
+2498.  and和 
+2499.  green绿色的 
+2500.  sideroad 人行道 
+2501.  rebuild重建 
+2502.  around在周围 
+2503.  bathtub浴缸 
+2504.  conventional依照惯例的 
+2505.  discovery发现 
+2506.  communication交流
+2507.  illegal 不合法的 
+2508.  now现在 
+2509.  wrist腕关节 
+2510.  museum 博物馆 
+2511.  guidance指导 
+2512.  rainfall下雨 
+2513.  awful糟糕的 
+2514.  cosy 温暖舒适的
+2515.  tolerate 容许；忍受 
+2516.  rank 职衔 
+2517.  throw投;掷 
+2518.  category种类 
+2519.  illness 疾病 
+2520.  everywhere 到处 
+2521.  retell重述 
+2522.  member成员 
+2523.  petrol汽油 
+2524.  bedroom卧室 
+2525.  ceremony仪式 
+2526.  balance平衡 
+2527.  mustard芥末 
+2528.  polish使光滑 
+2529.  constant 忠诚的;不变的 
+2530.  uncle叔叔 
+2531.  tiresome 令人生厌的 
+2532.  tailor裁缝 
+2533.  disturbing 令人不安的 
+2534.  moment瞬间 
+2535.  statue雕像 
+2536.  moon月亮 
+2537.  system系统 
+2538.  bargain 讨价还价 
+2539.  energetic 精力充沛的 
+2540.  alcohol酒精 
+2541.  expectation 期望 
+2542.  instrument 仪器 
+2543.  reliable可靠的 
+2544.  equality同等的 
+2545.  greeting招呼 
+2546.  generous 慷慨的 
+2547.  shuttle 航天飞机 
+2548.  or或者 
+2549.  handkerchief手帕 
+2550.  to直到 
+2551.  fog 雾 
+2552.  everyone人人 
+2553.  enterprise事业 
+2554.  trunk树干;衣箱 
+2555.  soft软的 
+2556.  comb梳理 
+2557.  useful有用的 
+2558.  bride新娘 
+2559.  oil油 
+2560.  sudden突然的 
+2561.  before在…前面 
+2562.  sponsor赞助 
+2563.  always总是 
+2564.  candy糖果 
+2565.  pavement 人行道 
+2566.  hit打击 
+2567.  biscuit饼干 
+2568.  table桌子 
+2569.  of在…期间 
+2570.  modern现代的 
+2571.  kiss吻 
+2572.  instruct 命令 
+2573.  without没有 
+2574.  weight分量 
+2575.  starvation饥饿 
+2576.  city都市 
+2577.  you你 
+2578.  consistent 一致的 
+2579.  orange橙 
+2580.  scream尖叫 
+2581.  Oceania大洋洲 
+2582.  shelter保护 
+2583.  characteristic典型的 
+2584.  evident明显的 
+2585.  inside 内部 
+2586.  trend趋向 
+2587.  appreciate感谢 
+2588.  fan 扇子 
+2589.  attempt尝试 
+2590.  ankle踝关节 
+2591.  spaceship 宇宙飞船 
+2592.  indeed 的确 
+2593.  carrot胡萝卜 
+2594.  abrupt突然的 
+2595.  curriculum课程 
+2596.  depend依靠 
+2597.  plan计划 
+2598.  market市场 
+2599.  eventually终于 
+2600.  schedule安排；时间表 
+2601.  cool凉快的；冷静的 
+2602.  yummy美味 
+2603.  strength力量 
+2604.  fluent 流畅的 
+2605.  pedestrian步行者 
+2606.  claw爪 
+2607.  suit一套衣服 
+2608.  party社交聚会 
+2609.  set放置 
+2610.  task工作 
+2611.  seat座位 
+2612.  school学校 
+2613.  applaud鼓掌 
+2614.  world世界 
+2615.  furnished 有家具的 
+2616.  anger怒气 
+2617.  seagull海鸥 
+2618.  department 部门 
+2619.  bring带来 
+2620.  cheese干酪 
+2621.  press  压 
+2622.  sweep打扫 
+2623.  panic惊慌 
+2624.  pub酒店 
+2625.  suspect猜疑 
+2626.  prevent预防 
+2627.  challenging 有挑战的 
+2628.  live 生存 
+2629.  bar酒吧 
+2630.  pan平底锅 
+2631.  corner角落 
+2632.  temple庙 
+2633.  pass经过 
+2634.  real真实的 
+2635.  frost 霜冻 
+2636.  trip旅游 
+2637.  character品质；特征 
+2638.  tyre轮胎 
+2639.  race人种 
+2640.  through 通过；在…之中 
+2641.  aspect方位；面貌 
+2642.  novel小说 
+2643.  permission许可 
+2644.  wonder惊奇 
+2645.  false 虚伪的 
+2646.  our我们的 
+2647.  energy活力 
+2648.  microscope 显微镜 
+2649.  grandchild外孙 
+2650.  examination 考试 
+2651.  climate气候 
+2652.  suggestion建议 
+2653.  consultant顾问 
+2654.  college大学 
+2655.  Pacific和平的 
+2656.  shirt衬衫 
+2657.  phenomenon现象 
+2658.  cotton棉花 
+2659.  organization 团体；组织 
+2660.  vase花瓶 
+2661.  bleed流血 
+2662.  cruel残酷的 
+2663.  smoker吸烟者 
+2664.  terrify使恐怖 
+2665.  consist组成 
+2666.  latter 后者的 
+2667.  advertise公布 
+2668.  harbour港口 
+2669.  mark记号；标出 
+2670.  proper适合的 
+2671.  empty空的 
+2672.  curtain窗帘 
+2673.  style风格 
+2674.  restriction约束 
+2675.  upon在…上面 
+2676.  camera照相机 
+2677.  loose 松的 
+2678.  university大学 
+2679.  boot长筒靴 
+2680.  melon甜瓜 
+2681.  sour酸的 
+2682.  border边界 
+2683.  coat外套 
+2684.  hear听到 
+2685.  consideration关心 
+2686.  open开放的 
+2687.  anyone任何人 
+2688.  rocket火箭 
+2689.  ours我们的 
+2690.  notebook 笔记簿 
+2691.  ambassadress女大使 
+2692.  skillful灵巧的 
+2693.  sale出售 
+2694.  beer啤酒 
+2695.  criterion标准 
+2696.  translation翻译 
+2697.  weep哭泣 
+2698.  tiger老虎 
+2699.  woollen毛线的 
+2700.  have有 
+2701.  hesitate犹豫 
+2702.  weakness弱点 
+2703.  balcony阳台 
+2704.  armchair 扶手椅 
+2705.  extension延伸 
+2706.  southwest西南 
+2707.  function 作用 
+2708.  reading读书 
+2709.  business生意 
+2710.  ugly难看的 
+2711.  connect连接 
+2712.  cigar雪茄 
+2713.  aboard在船上 
+2715.  justice 正义 
+2716.  debt债务 
+2717.  begin开始 
+2718.  raw生的；天然的 
+2719.  countryside 乡下 
+2720.  fry 油炸 
+2721.  wipe擦拭 
+2722.  smile微笑 
+2723.  fool 傻瓜 
+2724.  everyday 每天的 
+2725.  boom猛涨 
+2726.  shaver剃刀 
+2727.  erupt爆发 
+2728.  brush刷子 
+2729.  frog蛙 
+2730.  this这个 
+2731.  court院子  
+2732.  evolution进化；发展 
+2733.  insist 坚决要求 
+2734.  grand壮丽的 
+2735.  week一周 
+2736.  admit承认 
+2737.  split使裂开 
+2738.  forbid 禁止 
+2739.  disaster灾难 
+2740.  society 社团；社会 
+2741.  awesome 令人敬畏的 
+2742.  embarrass使复杂化 
+2743.  provide提供 
+2744.  vice堕落 
+2745.  muddy泥泞的 
+2746.  couple一对 
+2747.  ant蚂蚁 
+2748.  relax使轻松 
+2749.  pocket口袋 
+2750.  cheek脸蛋 
+2751.  selfish自私的 
+2752.  forget忘记 
+2753.  balloon气球 
+2754.  memory记忆 
+2756.  dead死去的 
+2757.  chocolate 巧克力 
+2758.  superb杰出的 
+2759.  bee蜜蜂 
+2761.  truly 真正地 
+2762.  valuable贵重的 
+2763.  draft草稿 
+2764.  scratch抓 
+2765.  procedure程序 
+2766.  be在 
+2767.  should应该 
+2768.  soap肥皂 
+2769.  alley小巷 
+2770.  religion宗教 
+2771.  primary首要的 
+2773.  punishment 处罚 
+2774.  granny奶奶 
+2775.  mat席子 
+2776.  waiter侍者 
+2777.  include 包含 
+2778.  oval椭圆的 
+2779.  finish 完成 
+2780.  flexible灵活的 
+2781.  dustbin垃圾箱 
+2782.  any无论哪一个 
+2783.  top 顶部 
+2784.  stay停留 
+2785.  souvenir 纪念品 
+2786.  left 左侧 
+2787.  bone骨头 
+2788.  ability能力 
+2789.  stomach胃 
+2790.  basket篮筐 
+2791.  available 可用的 
+2792.  regret痛惜 
+2793.  ever总是 
+2794.  anything 无论什么 
+2795.  ago以前 
+2796.  previous 先前的；过早的 
+2797.  window窗户 
+2798.  thrill使兴奋 
+2799.  federal联邦 
+2800.  bottom底部 
+2801.  physicist物理学家 
+2802.  accompany 陪伴 
+2803.  increase 增加 
+2804.  murder谋杀 
+2805.  accumulate 积累 
+2806.  for 因为；在… 
+2807.  excite使激动 
+2808.  bath洗澡 
+2809.  traffic交通 
+2810.  classic优秀的；典型的 
+2811.  festival 节日 
+2812.  rather 相当 
+2813.  drill钻头；训练 
+2814.  allergic过敏的 
+2815.  insert 插入 
+2816.  fare 票 
+2817.  spear鱼叉 
+2818.  theirs他们的 
+2819.  conflict战斗 
+2820.  lecture 演讲 
+2821.  even甚至 
+2822.  chaos混乱 
+2823.  youth青年时期 
+2824.  fault 缺点 
+2825.  desk书桌 
+2826.  list 目录 
+2827.  porridge坐牢 
+2828.  tasteless 无味的 
+2829.  backward 向后地 
+2830.  suggest建议 
+2831.  influence 影响 
+2832.  disagreement分歧 
+2833.  virtue德行 
+2834.  personal 私人的 
+2835.  guide指导；引导 
+2836.  damp潮湿的 
+2837.  future未来的 
+2838.  cent分 
+2839.  fold 折叠 
+2840.  over 在…正上方；再一次 
+2841.  golden金色的 
+2842.  translator 翻译家 
+2843.  queen女王 
+2844.  queue行列 
+2845.  librarian 图书馆管理员 
+2846.  communism 共产主义 
+2847.  signal信号；暗号 
+2848.  outgoing 开朗的 
+2849.  burglar窃贼 
+2850.  deal  分配；交易 
+2851.  motor马达 
+2852.  growth生长 
+2853.  state 国家；政府 
+2854.  glass玻璃 
+2855.  presence出席 
+2856.  database 资料库 
+2857.  office办公室 
+2858.  family家庭 
+2859.  motorcycle 摩托车 
+2860.  ridiculous 可笑的 
+2861.  duck鸭子 
+2862.  overcome战胜 
+2863.  cafeteria 自助餐厅 
+2864.  motivation动力 
+2865.  culture文化 
+2866.  poet诗人 
+2867.  preparation 预备 
+2868.  centimetre厘米 
+2869.  gate门 
+2870.  tortoise乌龟 
+2871.  hospital医院 
+2872.  they 他们 
+2873.  architect 建筑师 
+2874.  heavy沉重的 
+2875.  chance机会 
+2876.  messy脏的 
+2877.  solar太阳的 
+2878.  multiply乘 
+2879.  plant植物  
+2880.  film 电影 
+2881.  guitar吉他 
+2882.  then那时 
+2883.  sister姐妹 
+2884.  count计算；总数 
+2885.  experience经验 
+2886.  once一次 
+2887.  poem诗 
+2888.  choice挑选 
+2889.  quantity数目 
+2890.  immigration 移民 
+2891.  inch 英尺 
+2892.  also也 
+2893.  similar相似的 
+2894.  outline要点 
+2895.  ministry部 
+2896.  remain留下 
+2897.  grain谷粒 
+2898.  baggage行李 
+2899.  clerk职员 
+2900.  withdraw取回 
+2901.  idiom 习语 
+2902.  architecture 建筑学 
+2903.  alone单独的 
+2904.  ward病房 
+2905.  flame 火焰 
+2906.  thinking 思考 
+2907.  pot罐 
+2908.  mailbox邮箱 
+2909.  academic 学院的 
+2910.  bed床位 
+2911.  hat帽子 
+2912.  caution小心 
+2913.  pepper胡椒 
+2914.  afford负担得起 
+2915.  bound弹回；被束缚的 
+2916.  jewellery 首饰 
+2917.  dash猛冲 
+2918.  lightning 闪电 
+2919.  stranger陌生人 
+2920.  port港口 
+2921.  nose鼻子 
+2922.  customer顾客 
+2923.  practice练习 
+2924.  turkey火鸡 
+2925.  meat肉 
+2926.  tail尾巴 
+2927.  situation形势 
+2928.  position方位 
+2929.  construct建立 
+2930.  push推 
+2931.  secretary秘书 
+2932.  stain 染色；褪色 
+2933.  tension紧张 
+2934.  schoolgirl 女学生 
+2935.  risk冒险；风险 
+2936.  late 晚的 
+2937.  stamp邮票；图案 
+2938.  absent缺席的 
+2939.  challenge挑战 
+2940.  shine发光 
+2941.  cell细胞 
+2942.  grade等级 
+2943.  full 满的 
+2944.  collect收集 
+2945.  minute分钟 
+2946.  catalogue目录 
+2947.  clarify使清楚 
+2948.  fade 使褪去 
+2949.  sunny阳光明媚的 
+2950.  worn破烂的 
+2951.  roast烤；嘲讽 
+2952.  picture图画 
+2953.  horrible可怕的 
+2954.  population人口 
+2955.  nice美好的 
+2956.  AD公元 
+2957.  colleague同事 
+2958.  speak讲演 
+2959.  love 爱 
+2960.  child孩子 
+2961.  achieve取得 
+2962.  discover发现 
+2963.  spin杜撰；使旋转 
+2964.  adolescence 青春期 
+2965.  nurse护士 
+2966.  active活泼的 
+2967.  panda熊猫 
+2968.  adore爱慕 
+2969.  forgive 原谅 
+2970.  tire 使疲劳 
+2971.  cold寒冷 
+2972.  earn赚得 
+2973.  travel旅行 
+2974.  distribute分配 
+2975.  jungle 丛林 
+2976.  dull迟钝的 
+2977.  clever聪明的 
+2978.  dislike不喜欢 
+2979.  pole磁极 
+2980.  radio收音机 
+2981.  former 过去的 
+2982.  careful仔细的 
+2983.  employ雇用 
+2984.  whistle吹口哨 
+2985.  separation分开 
+2986.  happiness幸运 
+2987.  prayer祈祷 
+2988.  underwear内衣 
+2989.  pine松树 
+2990.  downstairs在楼下 
+2991.  dizzy晕眩的 
+2992.  space空间 
+2993.  cocoa可可 
+2994.  abnormal 反常的 
+2995.  young年轻的 
+2996.  passage通道 
+2997.  sideways斜着 
+2998.  cube立方体 
+2999.  extra额外的 
+3000.  tool工具 
+3001.  show  表现出 
+3002.  plot故事情节；计划；密谋 
+3003.  express表示 
+3004.  southeast东南 
+3005.  girl少女 
+3006.  cave洞穴 
+3007.  ache疼痛 
+3008.  monkey猴子 
+3009.  target靶子；对象 
+3010.  Mr.先生 
+3011.  ambulance 救护车 
+3012.  unless除非 
+3013.  noon正午 
+3014.  range 变化；一系列 
+3015.  shake  摇动 
+3016.  vocabulary词汇 
+3017.  miss  失败；没击中… 
+3018.  dessert甜食 
+3019.  painful痛苦的 
+3020.  connection 连接 
+3021.  true真实的 
+3022.  casual 漠不关心的 
+3023.  strengthen加固 
+3024.  circumstance环境；情况 
+3025.  knee膝盖 
+3026.  tank 坦克 
+3027.  handful一把 
+3028.  gram克 
+3029.  during 在  …期间 
+3030.  correct正确的 
+3031.  importance 重要性 
+3032.  wheat小麦 
+3033.  ahead在前面 
+3034.  joke 笑话 
+3035.  coffee咖啡 
+3036.  shock震动 
+3037.  punctual 正点的 
+3038.  leg 腿 
+3039.  ink 墨水 
+3040.  brake刹车；制动 
+3041.  its 它的 
+3042.  anybody任何人 
+3043.  washroom洗手间 
+3044.  sex性别 
+3045.  holiday假期 
+3046.  downtown闹市区的 
+3047.  mountainous多山的 
+3048.  organise组织 
+3049.  strawberry草莓 
+3050.  starve饥饿 
+3051.  expect预期 
+3052.  worthwhile 值得的 
+3053.  candle蜡烛 
+3054.  obey服从 
+3055.  geometry几何 
+3056.  doubt怀疑 
+3058.  ballet芭蕾 
+3059.  web网 
+3060.  housewife家庭主妇 
+3061.  role作用 
+3062.  roll滚动 
+3063.  wrinkle皱纹 
+3064.  tap塞子；拍 
+3065.  make  做 
+3066.  eye眼 
+3067.  traveller旅行者 
+3068.  neat整洁的 
+3069.  where在哪里 
+3070.  almost几乎 
+3071.  ask问 
+3072.  laundry 洗衣房 
+3073.  move移动 
+3074.  labour 劳动 
+3075.  a一 
+3076.  feast 盛会 
+3077.  swallow吞；咽 
+3078.  pen钢笔 
+3079.  award奖金 
+3080.  handy手边的 
+3081.  reporter 记者 
+3082.  relate讲述 
+3083.  stubborn 顽固的 
+3084.  identify 认出 
+3085.  entrance入口 
+3086.  forest 森林 
+3089.  remember 记得 
+3090.  lemonade 柠檬汽水 
+3091.  dusty轻率的回答 
+3092.  delight快乐 
+3093.  westward向西行的 
+3094.  litter垃圾 
+3095.  imagine 想象 
+3096.  support支持 
+3097.  machine机器 
+3098.  charge命令 
+3099.  fancy 幻想 
+3100.  end最终 
+3101.  disabled残废的 
+3102.  associate伙伴 
+3103.  entertainment娱乐 
+3104.  fond 喜欢的 
+3105.  porter搬运工 
+3106.  hate恨 
+3107.  appointment约会 
+3108.  woman妇女 
+3109.  class课 
+3110.  album相册 
+3111.  delighted 喜欢的 
+3112.  fork叉子 
+3113.  promote提升 
+3114.  doll玩偶 
+3115.  cry哭；叫 
+3116.  bright光亮的 
+3117.  deliver递送 
+3118.  catastrophe 灾难 
+3119.  comfortable 安逸的 
+3120.  portable手提的 
+3121.  not不 
+3122.  retire退休 
+3123.  visitor参观者 
+3124.  ecology生态 
+3125.  own自己的；拥有 
+3126.  recipe 方法 
+3127.  history历史 
+3128.  luck 幸运 
+3129.  visa签证 
+3130.  unfortunate 不幸的 
+3131.  achievement成就 
+3132.  rabbit兔子 
+3133.  programme 节目 
+3134.  sofa沙发 
+3135.  battery电池 
+3136.  postman邮差 
+3137.  electrical 用电的 
+3138.  talk 说话 
+3139.  mercy宽容 
+3140.  iron 铁 
+3141.  present  出席的；现在 
+3142.  baseball棒球 
+3143.  strict严格的 
+3144.  bare赤裸的 
+3145.  airline 航空公司 
+3146.  comedy喜剧 
+3147.  century世纪 
+3148.  dear亲爱的 
+3149.  apron围裙 
+3150.  flat  平的；套房 
+3151.  assist帮助 
+3152.  sport运动 
+3153.  politics政治学 
+3154.  fly  飞 
+3155.  actor演员 
+3156.  farm 农场 
+3157.  song歌 
+3158.  outing远足 
+3159.  belly肚子 
+3160.  typist打字员 
+3161.  policy政策 
+3162.  float 浮动 
+3163.  buffet反复敲打 
+3164.  settler移民 
+3165.  headmaster 男校长 
+3166.  happy高兴 
+3167.  catch抓 
+3168.  medium中等的 
+3169.  steward服务员 
+3170.  riddle谜 
+3171.  bear  忍受 
+3172.  nearby附近的 
+3173.  mess弄乱 
+3174.  paperwork文书工作 
+3175.  flu 流感 
+3176.  supply供给 
+3177.  model模型 
+3178.  mist薄雾；模糊 
+3180.  popcorn爆米花 
+3181.  corn谷物 
+3182.  old老的 
+3183.  chew咀嚼 
+3184.  exact准确的 
+3185.  aircraft飞机 
+3186.  view 视力；视野 
+3188.  hydrogen氢 
+3189.  astronomy天文学 
+3190.  cupboard柜橱 
+3191.  rule规则 
+3192.  flower 花  
+3193.  project 规划；课题 
+3194.  test测验 
+3195.  represent表现；代表 
+3196.  shallow浅的 
+3197.  weekday平日 
+3198.  document公文 
+3199.  thank谢谢 
+3200.  purpose目的 
+3201.  step脚步 
+3202.  bark大叫 
+3203.  overweight 超重的 
+3204.  tower 塔 
+3205.  direct笔直的 
+3206.  liquid 液体 
+3207.  worm虫 
+3208.  hello喂 
+3209.  hamburger 汉堡 
+3210.  chorus合唱 
+3211.  stove火炉 
+3212.  reputation 名气 
+3213.  sweater毛衣 
+3214.  affect影响 
+3215.  windy有风的 
+3216.  may也许 
+3217.  niece侄女 
+3218.  regulation 管理；规则 
+3219.  soul灵魂 
+3220.  eyesight视力 
+3221.  brick砖块 
+3222.  till直到…为止 
+3223.  harm损害 
+3224.  ambassador 大使 
+3225.  sailor水手 
+3226.  egg蛋 
+3227.  wind  风 
+3228.  tourist旅行者 
+3229.  mountain山 
+3230.  gallery画廊 
+3231.  clone克隆 
+3232.  mushroom蘑菇 
+3233.  northwest西北 
+3234.  needle针 
+3235.  tie领带 
+3236.  trolleybus 无轨电车 
+3237.  committee委员会 
+3238.  in 里面 
+3239.  lap 膝 
+3240.  everything每件事 
+3241.  warm暖和的 
+3242.  cyclist骑自行车的人 
+3243.  widow寡妇 
+3244.  shall必将 
+3245.  yawn哈欠 
+3246.  afternoon下午 
+3247.  Buddhism佛教 
+3248.  timetable 时间计划表 
+3249.  chairman主席 
+3250.  are是 
+3251.  funny滑稽的 
+3252.  decorate装饰 
+3253.  edge边缘 
+3254.  file 提交；文件 
+3255.  boycott抵制 
+3256.  underline 在…下面 
+3257.  technique技巧 
+3258.  childhood童年 
+3259.  blood血液 
+3260.  pound英镑 
+3261.  crop庄家 
+3262.  celebrate庆祝 
+3263.  absolute 绝对的 
+3264.  describe描写 
+3265.  sock短袜 
+3266.  breathless呼气困难的 
+3267.  liberation 解放 
+3268.  knife刀 
+3269.  rose玫瑰 
+3270.  custom习惯 
+3271.  resemble像… 
+3272.  bye再见 
+3273.  graph图表 
+3274.  worried焦虑的 
+3275.  salute欢迎，赞扬 
+3276.  amount数量 
+3277.  ignore 忽视 
+3278.  whoever 无论谁 
+3279.  barbecue烧烤 
+3280.  delicious 美味的 
+3281.  summer夏天 
+3282.  rich贵重的 
+3283.  telescope 望远镜 
+3284.  abroad到国外 
+3285.  beef牛肉 
+3286.  accuse指责 
+3287.  sleeve套管 
+3289.  body身体 
+3290.  navy海军 
+3291.  basin盆 
+3292.  say说 
+3293.  dusk傍晚 
+3295.  student学生 
+3296.  steel 钢；使坚定 
+3297.  friendly友好的 
+3298.  music音乐 
+3299.  altitude高度 
+3300.  sure无疑的 
+3301.  wrestle摔跤；搏击 
+3302.  it 它 
+3303.  treat款待 
+3304.  wonderful极好的 
+3305.  probably大概 
+3306.  button按钮 
+3307.  force 力量；强制 
+3308.  ambiguous 含糊不清的 
+3309.  bridegroom 新郎 
+3310.  really真正地 
+3311.  gentleman绅士 
+3312.  giraffe长颈鹿 
+3313.  possession占有 
+3314.  boil煮沸 
+3315.  telephone电话 
+3316.  recycle回收 
+3317.  cloth布料 
+3318.  shoulder肩部 
+3319.  park  公园 
+3320.  confirm证实 
+3321.  compare比较 
+3322.  answer回答 
+3323.  mankind人类 
+3324.  wolf狼 
+3325.  danger危险 
+3326.  hug拥抱 
+3327.  camel骆驼 
+3328.  shortcoming 缺点 
+3329.  river河 
+3330.  about关于 
+3331.  tear  泪水 
+3332.  antique古董 
+3333.  thing 东西 
+3334.  unbearable 不能忍的 
+3335.  sneaker运动鞋 
+3336.  circus马戏 
+3337.  familiar 熟悉的 
+3338.  still仍旧 
+3339.  pretend假装 
+3340.  beddings卧具 
+3341.  whatever任何事物 
+3342.  amaze使惊奇 
+3343.  vacant空的 
+3344.  suffer容忍；受痛苦 
+3345.  Atlantic大西洋 
+3346.  flood洪水 
+3347.  devotion奉献 
+3348.  wedding婚礼 
+3349.  rush催促；冲 
+3350.  difficulty困难 
+3351.  friction摩擦 
+3352.  king国王 
+3353.  schoolbag书包 
+3354.  urge鼓励；促使 
+3355.  screen遮蔽；屏风 
+3356.  cast投；掷 
+3357.  steak牛排 
+3358.  parcel包囊 
+3359.  square正方形 
+3360.  warn警告 
+3361.  lock 锁 
+3362.  under在…下面 
+3363.  debate讨论 
+3364.  tough坚韧的 
+3365.  design设计 
+3366.  corporation 公司 
+3367.  negotiate协商 
+3368.  new新的 
+3369.  tip 末端；倾斜 
+3370.  modest谦虚的 
+3371.  association 社团 
+3372.  adopt采用 
+3373.  constitution 法规；设立 
+3374.  curious好奇的 
+3375.  medal奖牌 
+3376.  taxi出租车 
+3377.  arrangement安排 
+3378.  packet小包 
+3379.  pour倾；倒 
+3380.  group组 
+3381.  crayon蜡笔 
+3382.  musical音乐的 
+3383.  angry 生气的 
+3384.  boundary 分界线 
+3385.  spokesman 发言人 
+3386.  lonely 孤独的 
+3387.  though虽然 
+3388.  academy学会 
+3389.  their他们的 
+3390.  outspoken直言的 
+3391.  length 长度 
+3392.  thick 厚的；茂密的；明显的 
+3393.  wing翅膀 
+3394.  myself我自己 
+3395.  digest消化；文摘 
+3396.  plenty大量 
+3397.  fair  公平的 
+3398.  squeeze挤出；拥挤 
+3399.  product产品 
+3400.  mention提到 
+3401.  coach训练；教练 
+3402.  suitable适当的 
+3403.  kid孩子 
+3404.  lion 狮子 
+3405.  straight  forward笔直向前 
+3406.  there在那里 
+3407.  educate教育 
+3409.  calm冷静的 
+3410.  fridge 冰箱 
+refrigerator 冰箱 
+3411.  distance距离 
+3412.  relative亲戚 
+3413.  satisfaction 满足 
+3414.  village村庄 
+3415.  television 电视
