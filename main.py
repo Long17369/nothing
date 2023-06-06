@@ -8,6 +8,7 @@ from time import process_time
 class Main():
 	def __init__(self) -> None:
 		pass
+
 	def load(self,file:str):
 		a = open(file,'r',encoding='UTF-8')
 		r = a.read()
@@ -15,6 +16,7 @@ class Main():
 		p = formatstr(r)
 		a.close()
 		return e, c
+
 	def order(self,words:str):
 		word = words.split('\n')
 		e, c = [], []
@@ -23,6 +25,7 @@ class Main():
 			e.append(j[0])
 			c.append(j[1])
 		return e, c
+
 	def sort(self, l1 :list, l2 :list, l1_sort :list, l2_sort :list):
 		ll1, ll2, ll3= len(l1), len(l2), len(l1_sort)
 		if ll1 != ll2 or ll1 != ll3:
@@ -33,6 +36,7 @@ class Main():
 				if i == l1[j]:
 					l2_sort.append(l2[j])
 					break
+
 	def write(self,l1 : list, l2 : list):
 		w = open('file.txt','w',encoding='UTF-8')
 		for i in range(len(l1)):
