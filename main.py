@@ -17,10 +17,12 @@ class Main():
 		return e, c
 	def order(self,words:str):
 		word = words.split('\n')
-		e = [word[i].split(' ')[0] for i in range(int(len(word)))]
-		c = [word[i].split(' ')[1] for i in range(int(len(word)))]
+		e, c = [], []
+		for i in word:
+			j = i.split(' ')
+			e.append(j[0])
+			c.append(j[1])
 		return e, c
-		...
 
 
 main = Main()
