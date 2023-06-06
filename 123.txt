@@ -1,3377 +1,3255 @@
-rat 老鼠 
-valley 山谷 
-pence 便士 
-unconditional 无条件的 
-feather 羽毛 
-zoo 动物园 
-build 建筑；建立 
-field 田野；场地 
-nationality 国籍；民族 
-salad 沙拉 
-ferry 渡口；摆渡 
-building 建筑物 
-limit 界线；限制 
-stewardess 女管家 
-water 水 
-manage 管理 
-path 小路 
-example 例子 
-purple 紫色的 
-valid 有效的 
-hurry 匆忙 
-argue 争论 
-accommodation 住处 
-mixture 混合物 
-time时间 
-picnic 野餐 
-consensus一致同意 
-smoke烟 
-protection保护 
-conscience良心 
-sense感觉 
-owe亏欠 
-chant吟唱 
-term学期 
-urban都市的 
-considerate体贴的 
-afraid害怕 
-bandage绷带 
-table tennis乒乓球 
-candidate候选人 
-combine使联合 
-hurricane飓风 
-independent 独立的 
-cancer癌症 
-choose选择 
-town 城镇 
-desire要求 
-visual视觉的 
-life 生活 
-submit使服从；递交 
-physics物理学 
-meaning意思 
-country国家 
-half一半 
-joy 欢乐 
-adult成年人 
-servant仆人 
-care关心 
-search寻找 
-same同一的 
-furniture家具 
-agree同意 
-heart心脏 
-unemployment失业 
-nearly几乎 
-bond使结合 
-master主人 
-rise升高 
-punish处罚 
-monument纪念碑 
-stick粘贴 
-tax征税 
-personnel员工 
-fact事实 
-therefore因此 
-ox牛 
-ocean海洋 
-eagle鹰 
-cloud云 
-fibre纤维 
-fiber 纤维 
-bingo宾戈游戏 
-fortunate幸运的 
-mommy妈咪 
-wage工资 
-along沿着 
-surplus过剩的 
-add加 
-outdoors在户外 
-paper纸 
-fetch 抵达 
-church教堂 
-edition版本 
-weather天气 
-opera歌剧 
-dot小圆点 
-service服务 
-disease疾病 
-symphony交响乐 
-survival生存 
- thus如此 
- satisfy使满足 
- arise起来 
- sorry对不起 
- dinosaur恐龙 
- properly适当的 
- story故事 
- appetite欲望 
- pronounce发音；宣布 
- socialist社会主义者 
- certain无疑 
- pea豌豆 
- bacterium细菌 
- contrary相反的 
- roof屋顶 
- carve切 
- essay散文 
- reward报酬 
- convenience方便 
- export出口 
- fit 合适的 
- racial种族的 
- herself她自己 
- bid出价 
- novelist小说家 
- safety安全 
- off在…外；在…前；离开；完 
- east东 
- misunderstand误解 
- razor剃刀 
- short短的 
- surprise使惊奇 
- pleasure愉快 
- tidy整洁的 
- garage车库 
- analyse 分析 
- notice预告 
- violinist小提琴手 
- ice 冰 
- deliberately故意地 
- alike相同的 
- perfect完美的 
- broom扫帚 
- welfare健康 
- keyboard键盘 
- approximately大约 
- hopeful抱有希望的 
- habit习惯 
- confidential秘密的 
- complex复合的 
- recreation娱乐 
- data资料 
- kindergarten幼儿园 
- sniff闻 
- we我们 
- studio录音室 
- overlook忽视 
- barbershop理发店 
- minority少数民族 
- escape逃跑 
- jeans 牛仔裤 
- videophone 可视电话 
- adapt改编；使适合 
- report报道 
- recorder录音机 
- betray背叛 
- vast巨大的 
- arrow箭 
- usual通常的 
- eat吃 
- spread伸开 
- agent代理人 
- spare多余的 
- conclusion 结束；结论 
- rock岩石 
- hometown家乡 
- bakery面包房 
- conclude结束；决定 
- worry烦恼 
- operate手术；运转 
- floor地板 
- area区域；面积 
- noise噪声 
- chairwoman女主席 
- classroom教室 
- communicate交流 
- attack攻击 
- event事件 
- dream梦想 
- criminal罪犯 
- authentic权威的 
- scarf围巾 
- senior年长的 
- description描述 
- representative代表 
- carriage四轮马车 
- sacred神圣的 
- run 跑 
- software软件 
- diet日常饮食 
- copy复制 
- eastern东方的 
- carbon碳 
- sow播种 
- universe宇宙 
- folk 民间的 
- tendency倾向 
- camp营地 
- likely 可能的 
- alive活着的 
- harvest收割 
- devote把…奉献给 
- marathon马拉松 
- Christian基督教徒 
- government政府 
- Franc法郎 
- seminar研讨班 
- departure离开 
- forward 向前 
- person人 
- violence暴力 
- basketball篮球 
- gas气体；汽油 
- fox狐狸 
- advance提前 
- majority多数 
- credit 信用 
- relief减轻 
- prefer更喜欢 
- qualification 资格；合格证书 
- sand沙子 
- lift 举起 
- attain实现 
- fantasy 幻想 
- trap陷阱 
- interesting 令人感兴趣的 
- nothing没有东西 
- civilian平民 
- besides而且 
- homework家庭作业 
- container容器 
- fireworks 烟火 
- toy玩具 
- focus 集中 
- decide下决心 
- frighten 使惊恐 
- cleaner保洁员 
- autumn秋天 
- beneath在下面 
- hostess女主人 
- climb攀登 
- expert专家 
- super极好的 
- significance意义 
- hair头发 
- phrase短语 
- authority权力；官方 
- agricultural农业的 
- explore探究 
- framework构架 
- consequence后果 
- geography地理学 
- your你的 
- match比赛 
- hall礼堂 
- ship船 
- suppose猜想 
- signature签名 
- borrow借 
- create创造 
- companion同伴 
- direction方向 
- except把…除外 
- big大的 
- nutrition营养 
- anecdote轶事 
- string一系列 
- breast胸膛 
- flashlight 手电筒 
- unconscious 失去知觉的 
- champion冠军 
- funeral 葬礼 
- since自从 
- how如何 
- jacket 夹克 
- robot机器人 
- like 喜欢 
- pleasant令人愉快的 
- airport机场 
- compensate补偿 
- more更加 
- sandwich三明治 
- boring无趣的 
- seldom很少 
- jazz 爵士乐 
- mile英里 
- apologize道歉 
- shout喊叫 
- commit犯罪 
- can能够；罐头 
- institution 惯例；建立 
- upstairs在楼上 
- abortion流产；失败 
- storage贮存 
- bravery勇气 
- envelope信封 
- amazing令人惊异的 
- disappoint使失望 
- advantage有利条件 
- laboratory 实验室 
- foreign 外国的 
- conduct引导 
- prison监狱 
- agreement协议；同意 
- botany植物学 
- famous 著名的 
- mix混合 
- level 水平 
- go走 
- urgent急迫的 
- scholar 奖学金获得者；学者 
- jet 喷气飞机 
- cottage小屋 
- sigh叹气 
- maid女仆 
- popular流行的 
- advertisement广告 
- western西方的 
- course课程 
- wound伤口 
- together在一起 
- reservation预订 
- because因为 
- realise意识到 
- grateful感激的 
- huge巨大的 
- turn转向 
- knowledge理解；学问 
- arrive到达 
- seaside海边 
- assessment评估 
- kilometre千米 
- plug插头 
- impress 给…印象深刻 
- else另外 
- fail失败 
- discuss谈论 
- temporary临时的 
- volcano火山 
- call叫 
- asleep睡着的 
- amateur业余的 
- material材料 
- fragrant；物质的 
- slave奴隶 
- itself 它自己 
- stupid笨的 
- central中心的 
- evening傍晚 
- collision碰撞；冲突 
- highway公路 
- staff全体职员 
- Asia亚洲 
- medicine医学 
- shop商店 
- pump泵 
- discourage使气馁 
- political政治的 
- continent大陆 
- bless保佑 
- jeep 吉普车 
- account帐户 
- zoom猛涨 
- content满足；容量 
- trousers裤子 
- tonight今晚 
- spend花钱 
- astronaut宇航员 
- belt腰带 
- yet还 
- result 结果 
- gravity万有引力；重力 
- worth价值 
- prize奖金 
- up向上 
- quarrel争吵 
- born出生的 
- ring戒指 
- guard保护 
- driver驾驶员 
- otherwise否则 
- repair 修理 
- back背 
- reasonable合理的 
- could表示请求 
- disappear消失 
- shy害羞的 
- questionnaire 调查卷 
- cheers干杯 
- interview面试 
- kindness亲切 
- gold金 
- gradual渐渐的 
- quit离去 
- medical医学的 
- waste浪费 
- airmail航空邮件 
- expensive昂贵的 
- wisdom智慧 
- favourite 特别喜欢 
- attitude态度 
- touch接触 
- soil泥土 
- especially尤其 
- who谁 
- suck吮吸 
- breath呼吸 
- rice大米 
- stout结实的 
- version译文；看法 
- oxygen氧 
- grey灰色 
- humorous幽默的 
- burn燃烧 
- regard注视 
- seaweed海草 
- tremble发抖 
- pillow枕头 
- garlic大蒜 
- straw稻草 
- pineapple菠萝 
- hot热的 
- tradition 传统 
- rescue营救 
- again再一次 
- violent暴力的 
- as同样地 
- terror恐怖 
- fortune 机会；命运 
- until到…为止 
- pride自豪 
- foster 培养 
- home家 
- peace和平 
- shorts短裤 
- vertical垂直的 
- jam 果酱 
- hatch孵化 
- atmosphere大气；气氛 
- stadium体育场 
- main主要的 
- people人们 
- light 光 
- injure 伤害 
- witness目击者 
- component成分 
- weekly周刊 
- right正当的；向右 
- dialogue对话 
- audience观众 
- acquire获得 
- store贮存；商店 
- decline下降 
- very十分 
- user用户 
- spit口水 
- undertake着手 
- terrible可怕的 
- vacation假期 
- much非常 
- handbag手提包 
- saucer茶托 
- officer军官 
- whisper低声说 
- pleased自鸣得意的 
- greedy贪吃的 
- horse马 
- little 小的 
- cloudy多云的 
- mainland大陆 
- fee 费 
- taste 尝 
- alternative两者择一的 
- opening开张 
- toothache牙痛 
- universal普遍的 
- cow母牛 
- wheel轮子 
- pipe管子 
- profession职业 
- dig挖 
- conversation交谈 
- gain获得 
- subjective主观的 
- thunder 打雷 
- clay黏土 
- hill小山 
- give给予 
- budget预算 
- against逆着 
- cage笼子 
- on在…上 
- unfit身体不适的 
- scene背景 
- pint品脱 
- freezing严寒的 
- oilfield油田 
- onion洋葱 
- seed种子 
- outstanding突出的 
- wool羊毛 
- crazy发疯的 
- sew缝 
- shelf架 
- freeze 结冰 
- speed速度 
- behaviour 行为
-behavior 行为 
- television电视 
- chest胸腔；箱子 
- knock敲 
- something谋事 
- directory电话本 
- platform平台 
- sightseeing观光 
- bay湾 
- foreigner外国人 
- another另一个 
- oh哎呀 
- zero零 
- boy男孩 
- handsome英俊的 
- rest休息 
- study学习 
- front前面 
- rely信任 
- aside在旁边 
- appeal呼吁 
- competence能力 
- fresh新鲜的 
- question问题 
- annoy打扰 
- pretty漂亮的 
- conference会议；讨论 
- communist共产主义者 
- sunlight阳光 
- cure治疗 
- slide滑落 
- glance一瞥 
- paint涂料 
- wine葡萄酒 
- dive跳水 
- admire称赞 
- existence生存 
- bureaucratic官僚的 
- skill技能 
- nor也不 
- enthusiastic热情的 
- volleyball排球 
- dam坝 
- delicate 易碎的；微妙的；脆弱的 
- someone某人 
- post张贴；邮件 
- father 父亲 
- disgusting 令人作呕的；极坏的 
- radioactive放射性的 
- offense进攻 
- guarantee保证 
- husband丈夫 
- island 岛 
- painting绘画作品 
- nowadays现在 
- hardship艰难困苦 
- counter柜台；对抗 
- collar衣领 
- appropriate适当的 
- thriller令人兴奋的 
- repeat重述 
- perform执行 
- unbelievable 不可相信的 
- dozen一打 
- Easter复活节 
- noisy嘈杂的 
- see看见 
- idea 想法 
- uncomfortable 不舒服的 
- load 负担；装载 
- reception接待 
- look 看；面向 
- value价值 
- chess国际象棋 
- thunderstorm 雷电交加的暴风雨 
- convenient方便的 
- kilo千克 
- cassette盒式录音带 
- toward 向；朝 
- wood木头 
- theft偷窃 
- chef厨师长 
- businessman商人 
- silly蠢的 
- tomato番茄 
- brunch早午餐 
- laugh 笑 
- suitcase手提箱 
- coin硬币 
- spade铲子 
- mental精神的 
- comfort舒适的 
- receiver接受者 
- Africa非洲 
- percentage百分比 
- wrong不正确的 
- correspond相符合 
- reflect反射 
- spy间谍 
- somebody某人 
- religious宗教的 
- last 最后的；上一次 
- shade遮光物 
- perfume香水 
- pity怜悯 
- trouble困难 
- necklace项链 
- pancake薄煎饼 
- interest 兴趣 
- hen母鸡 
- dynasty朝代 
- single单一的 
- puzzle使迷惑 
- head头部 
- mean本意是 
- break打破 
- among是…中之一 
- certificate证明书 
- crowd人群 
- wander漫游 
- box箱子 
- fix 修理 
- clinic诊所 
- grammar语法 
- ball球 
- translate翻译 
- delete删除 
- cheat欺骗 
- adjust校正 
- ill 有病的 
- swing摇摆 
- privilege特权 
- quarter四分之一 
- brain脑 
- orbit轨道 
- attach贴上 
- blind失明的 
- wild野生的 
- plastic塑料 
- adaption适应；改编 
- lively 充满活力的 
- reply回答 
- assume假设 
- saying俗话 
- composition创作 
- sunshine阳光 
- union联合 
- angle角度 
- legal 合法的 
- death死亡 
- observe观察 
- splendid极好的 
- scar伤疤 
- buy购买 
- kill杀死 
- rent租金 
- distinguish辨别 
- lead 指挥 
- vest背心 
- effect影响 
- mud泥 
- refer提到；关系到 
- globe地球；世界 
- zip拉链 
- power权利 
- marriage结婚 
- brilliant明亮的 
- pick采 
- speech说话 
- ancient古代的 
- director主管 
- replace取代 
- pig猪 
- autonomous自治的 
- red红色的 
- output产量；输出 
- die死亡 
- gifted有天赋的 
- station车站 
- apple苹果 
- teamwork 协力配合 
- revision修订 
- revolution革命 
- surgeon外科医生 
- link 连接 
- average平均的 
- section部门 
- fluency流利 
- underground底下的 
- number数字 
- amusement娱乐 
- develop开发 
- sword剑 
- star星 
- greengrocer 水果蔬菜商 
- lucky 幸运的 
- eraser橡皮 
- rainbow彩虹 
- anxious焦虑的 
- beyond在另一边 
- news新闻 
- waitress女服务生 
- reference提及 
- switch开关 
- caption标题 
- rough粗糙的 
- rail责备 
- photo相片 
- parrot鹦鹉 
- must必须 
- instant 立即的 
- centre中心点 
- determine使下决心 
- street大街 
- voyage航行 
- Ms女士 
- patient耐心；病人 
- wake醒 
- worker工作者 
- Internet 因特网 
- coast海岸 
- benefit有益于 
- with在一起 
- already已经 
- face 面孔 
- none没有人 
- broad宽的 
- feed 喂养 
- shoot射击 
- across穿越 
- male男性的 
- Antarctic南极的 
- zone区域 
- continue继续 
- blackboard黑板 
- join 参加 
- defend保护 
- tentative试验的 
- channel海峡 
- technical技术的 
- snow雪 
- difficult困难的 
- bird鸟 
- widespread 分布广的 
- war战争 
- pear梨 
- lot 许多 
- excuse原谅 
- actress女演员 
- tablet 药片 
- score分数 
- pronunciation发音 
- such这样的 
- accent口音 
- chat聊天 
- deer鹿 
- memorial纪念碑 
- within不超出 
- tent帐篷 
- microwave微波 
- success成功 
- luggage 行李 
- ending结局 
- noodle面条 
- vain自负的；徒劳的 
- dentist牙科医生 
- district地区 
- control控制 
- bill账单 
- professor教授 
- indicate 指示 
- gentle温和的 
- helicopter直升机 
- airplane飞机 
- please请 
- allowance津贴 
- forehead 前额 
- stable稳定的 
- fast 快的 
- lake 湖 
- quilt被子 
- agenda议事日程 
- command命令 
- photographer 摄影者 
- monitor监视器 
- gift礼物 
- middle中间的 
- means方法 
- glare瞪眼 
- breakfast早餐 
- mad发疯的 
- currency货币 
- detective侦探 
- prisoner犯人 
- dinner正餐 
- helmet头盔 
- handwriting字迹 
- thankful感谢的 
- enough充足的 
- psychology心理学 
- skin皮肤 
- amuse逗乐 
- cut剪；割 
- poisonous有害的 
- hearing听力 
- praise称赞 
- flight 飞行 
- ash灰 
- crime罪 
- troublesome 引起麻烦的 
- coke焦炭 
- circulate使循环 
- address地址 
- numb麻木的 
- drunk醉的 
- resign辞职；放弃 
- menu菜单 
- congratulate祝贺 
- gay欢乐的；男同性恋 
- plain清晰的；平原 
- affair事件 
- chicken鸡肉 
- deed行为 
- pure纯的 
- cover覆盖 
- error错误 
- relationship关系 
- snowy多雪的 
- ticket票；标签 
- subject学科；话题 
- throughout在…期间 
- applicant申请人 
- ceiling天花板 
- manner方法 
- type类型 
- remark 评论 
- mop擦掉 
- smog烟雾 
- lid 盖子 
- topic题目 
- literature 文学作品 
- garment衣服 
- squirrel松鼠 
- aloud大声地 
- next接下去 
- barrier栅栏 
- sharp锋利的 
- declare宣布 
- headline大字标题 
- appreciation 赏识；感谢 
- vivid生动的 
- well好 
- thief小偷 
- skirt裙子 
- wildlife野生生物 
- cater提供；迎合 
- tissue组织；一套 
- leader 领袖 
- hide隐藏 
- bit少量 
- pioneer开拓者 
- nation国家 
- disagree不同意 
- relevant有关的 
- drawer抽屉 
- dip浸 
- treatment处理 
- regular有规律的 
- duty职责 
- metre米 
- download下载 
- canal运河 
- vague模糊的 
- foot 脚 
- letter 信 
- sadness悲伤 
- skate溜冰 
- motherland祖国 
- dress连衣裙 
- some一些 
- major主要的 
- lie谎话 
- tractor拖拉机 
- plus加号 
- honour尊重 
- bow鞠躬 
- public公众的 
- reform改革 
- fill 满足 
- admission 准许进入；承认 
- throat喉咙 
- civil公民的 
- goat山羊 
- watch看 
- environment环境 
- taxpayer 纳税人 
- whether是否 
- anxiety焦虑 
- carrier搬运人 
- captain船长 
- apology认错 
- broadcast广播 
- compete竞争 
- matter物质；麻烦 
- decision决心 
- unwilling不愿意的 
- Europe欧洲 
- coincidence巧合 
- circle圆 
- oppose反对 
- forty 午睡 
- arrest逮捕 
- shore岸 
- unit单元 
- origin起点 
- use使用 
- inn 小旅馆 
- electronic电子的 
- volunteer志愿者 
- team队 
- burst爆发 
- thread线；线索 
- innocent 清白的 
- skyscraper摩天大楼 
- hero英雄 
- twin 双胞胎 
- tiny极小的 
- expense花费 
- surface表面 
- swift速度的 
- thermos热 
- tutor导师 
- dimension尺寸；方面 
- god上帝 
- behave表现 
- jog 慢跑 
- wax蜡 
- bad坏的 
- outside在外面 
- vital极重要的 
- leaf 叶子 
- Asian亚洲人 
- pet宠物 
- each每一个 
- no不 
- theater剧院 
- think想 
- storm暴风雪 
- neighbourhood邻居 
- clock钟 
- dare敢 
- explode使爆炸 
- peaceful和平的 
- pale苍白的 
- assumption假定 
- typewriter打字机 
- concentrate专注于 
- several几个 
- bell钟 
- bitter有苦味的 
- reason理由 
- dance跳舞 
- pest有害的 
- shame羞愧 
- bored无聊的 
- point要点 
- analysis分析 
- bus公交车 
- identification 鉴定 
- need需要 
- spoon匙 
-nephew外甥 
-physician 内科医生 
-judgment判断 
-gallon加仑 
-meeting会议 
-tobacco烟草 
-wash洗 
-relation关系 
-breathe呼吸 
-clean清洁的 
-chart图表 
-faith 信任 
-hook钩子 
-percent百分比 
-instruction 命令 
-daughter女儿 
-intention 意图 
-yourself你自己 
-booth小房间 
-secure牢固的 
-semicircle 半圆形 
-voice说话声 
-food食物 
-strait 海峡；困难 
-addicted 上瘾的 
-cartoon卡通 
-prepare准备 
-shave削 
-fight战争 
-apparent 显然的 
-metal金属 
-pink粉红色 
-passive被动的 
-lovely 可爱的 
-transparent 透明的 
-click单击 
-outward 外出的 
-adolescent青春期的 
-than 与…相比较 
-fire 火 
-sick不舒服的 
-grasp抓住 
-ashamed 惭愧
-的 
-black黑色的 
-interpreter口译 
-weed杂草 
-from 从… 
-beauty美丽 
-schoolboy男生 
-towel毛巾 
-beg乞讨 
-biochemistry生物化学 
-into 到…里 
-symptom症状 
-subscribe订购；捐助 
-shrink收缩 
-allow允许 
-accountant 会计师 
-disturb打扰 
-avenue大街 
-meet遇见 
-message信息 
-bread面包 
-sheet纸片 
-secret秘密 
-whenever任何时候 
-pardon宽恕 
-physical物质的 
-athlete运动员 
-requirement 要求 
-glory光荣 
-surround包围 
-violin小提琴 
-aluminium铝 
-birthplace出生地 
-nuclear核的 
-equal平等的 
-most最 
-often常常 
-soup汤 
-rigid僵硬的；严格的 
-adjustment 调节 
-blue蓝色；忧郁 
-abstract抽象的 
-steady稳定的 
-rope绳索 
-sink下沉 
-goose鹅 
-place地方 
-truck 卡车 
-job 职业 
-wide宽的 
-compromise 妥协 
-arrival到达 
-rooster公鸡 
-tick滴答声 
-intelligence 智力 
-theme主题 
-wait等候 
-postpone延期 
-hole洞 
-deserve应得 
-institute 建立 
-surrounding 环境 
-twice两倍 
-coal煤块 
-draw绘画 
-yard场院 
-destroy毁灭 
-rag破布 
-correction 改正的 
-ownership所有权 
-predict预言 
-agency代理行 
-I 我 
-automatic 自动的 
-guess猜 
-lunch 午餐 
-rugby橄榄球 
-burden重负 
-enter进入 
-discussion讨论 
-struggle打斗 
-editor编辑 
-reduce减少 
-prohibit禁止 
-persuade说服 
-day天 
-sharpener削刀 
-research研究 
-greet欢迎 
-educator教员 
-penny便士 
-get得到 
-cheap廉价的 
-lose 失去 
-customs海关 
-salty含盐的 
-height高度 
-find 找到 
-above在…上方 
-aid帮助 
-Arctic北极的 
-fuel燃料 
-socialism 社会主义 
-bend使弯曲 
-terminal终点 
-compulsory 强制性的 
-winner优胜者 
-grass草 
-sweet甜的 
-stream小河；流动 
-irrigation 冲洗 
-busy忙 
-low 低的 
-swap交换 
-musician 音乐家 
-cuisine 烹饪艺术 
-sacrifice牺牲 
-recommend 推荐；劝告 
-soldier士兵 
-ruin毁灭 
-possible可能的 
-anyway 不管怎样 
-judge 法官 
-triangle三角形 
-mother妈妈 
-attraction 吸引力 
-pool水池 
-birthday生日 
-brown棕色的 
-howl吼叫 
-personally就自己而言 
-offshore近海的 
-application 申请表 
-dioxide 二氧化物 
-suite套间 
-obvious明显的 
-wife妻子 
-ham火腿 
-speaker说话人 
-mistake错误 
-least 最小的 
-game游戏 
-sympathy 同情心 
-league同盟 
-clumsy笨拙的 
-millionaire百万富翁 
-tournament 锦标赛 
-nod点头 
-socket插座 
-willing愿意 
-blame指责 
-status地位；情况 
-sincerely敬上 
-emergency 紧急情况 
-nature大自然 
-seal海豹 
-pollute污染 
-sometimes有时 
-contribute捐助 
-poster海报 
-postage邮费 
-routine惯例 
-kettle壶 
-piece部分 
-listen 听 
-lesson 功课 
-painter画家 
-neither 两者都不 
-postcode 邮政编码 
-electric电动的 
-competition 竞争 
-leather 皮革 
-seem好像 
-sausage香肠 
-format 格式 
-bamboo竹竿 
-expose曝光 
-protect保护 
-accident事故 
-cubic立方体 
-yoghurt酸奶 
-dictation听写 
-plate盘子 
-inspire 鼓舞 
-grandson外孙 
-stop停止 
-anyhow不论如何 
-merciful仁慈的 
-bathroom浴室 
-journey 旅行 
-patience耐性 
-cinema电影院 
-chair椅子 
-survive幸存 
-change改变 
-litre 升 
-onto…之上 
-dirty脏的 
-mineral矿石 
-gather集合 
-milk牛奶 
-grill烧烤；盘问 
-wall墙 
-object物体 
-spot斑点 
-ready 准备就绪的 
-patent专利；明显的 
-land 陆地 
-policewoman女警察 
-media媒体 
-tale故事 
-guest客人 
-positive积极的 
-precise准确的 
-march行军 
-donate捐赠 
-polite客气的 
-troop军队 
-hotel饭店 
-classify分类 
-fingernail指甲 
-facial面孔 
-classmate同学 
-graduation毕业 
-pattern形式 
-card卡片 
-powerful 强健的 
-brewery啤酒厂 
-homeland家乡 
-distant遥远的 
-trust信赖 
-stage 时期；舞台 
-sell卖 
-import 进口 
-convince 使相信 
-suffering苦难 
-pork猪肉 
-grocer 食品杂货商 
-satellite卫星 
-statistics 统计学 
-himself他自己 
-defence防御 
-rate比率 
-tense紧张的 
-army军队 
-factory 工厂 
-necessary 必要的 
-agriculture农业 
-impression印象 
-accustomed 惯常的 
-few 不多的 
-flow 流动 
-hold拿 
-moustache 胡子 
-corrupt堕落的 
-tasty美味的 
-swear诅咒 
-condition状况 
-steep浸 
-courage勇气 
-marry娶 
-extreme 尽头的；极端的 
-those that的复数 
-tourism旅游 
-ground地面 
-glove手套 
-contain包含 
-chain锁链 
-midnight 午夜 
-obtain获得 
-will愿意 
-acid酸味的 
-stair楼梯 
-update更新 
-pay付给 
-evidence证词 
-carpet地毯 
-advocate提倡 
-cheer喝彩 
-blow吹 
-reject拒绝 
-comprehension理解 
-bathe给…洗澡 
-dumpling饺子 
-high高的 
-my我的 
-airspace领空 
-promise允诺 
-athletic运动的 
-headmistress女校长 
-slim苗条的 
-after在…以后 
-afterward以后 
-refuse拒绝 
-organ器官 
-cautious小心的 
-advise劝告 
-fountain 泉水；来源 
-wet湿的 
-．education体育 
-remind 使想起 
-whole整体的 
-down向下 
-weekend周末 
-punctuation 标点 
-shopping购物 
-flag 旗帜 
-violate冒犯；违反 
-premier总理 
-slice切 
-hunt打猎 
-healthy健康的 
-respond回答；回应 
-approve赞成 
-peach桃 
-avoid避免 
-sort种类 
-daily日常的 
-trick 把戏 
-bean curd豆腐 
-many许多的 
-approach接近 
-enquiry询问 
-rude粗鲁的 
-slow慢的 
-cab出租车 
-band带 
-transform 改变 
-paragraph段落 
-freeway高速路 
-production 生产 
-international 国际的 
-invent 发明 
-security安全 
-rectangle 长方形 
-his他的 
-treasure宝藏；重视 
-govern统治 
-discount折扣 
-fantastic极好的 
-sight 视力；风景 
-delay延迟 
-restaurant饭店 
-independence独立的 
-spoken口头的 
-might表示可能 
-which哪一个 
-accept接受 
-read读 
-every每一个 
-scientist科学家 
-so所以 
-fever 发烧 
-acre英亩 
-argument争吵 
-holy神圣的 
-crew全体船员 
-door门 
-today 今天 
-meal饭 
-walk步行 
-scenery风景 
-found 创办 
-gesture 姿势；手势 
-come来 
-ample大量的 
-due应有的 
-tree树 
-meanwhile 同时 
-try试图 
-construction 建造 
-intend 打算 
-nervous害怕的 
-here这里 
-divide分 
-page页 
-movement移动 
-decrease减小 
-raise举起 
-bench长椅 
-fence 栅栏；保护 
-manager经理；管理人 
-interval 间隔 
-bowl碗 
-heel足跟 
-disability 无能力 
-case事例 
-sweat汗水 
-link 连接 
-exist存在 
-mourn哀悼 
-performance演出 
-glad高兴的 
-ancestor祖先 
-gun炮 
-recognise识别 
-different 不同的 
-toast吐司 
-civilization文化 
-language 语言 
-flee逃走 
-zebra斑马 
-select选择 
-never从不 
-broken破碎的 
-mutton羊肉 
-video录像带 
-twist 扭动；扭转 
-shadow 阴影；遮蔽 
-stocking长袜 
-algebra代数 
-help帮助 
-cookie饼干 
-elegant优美的 
-endless 无止境的 
-centigrade摄氏 
-glue胶水 
-concern焦虑 
-basic基本的 
-wallet钱夹 
-wave波浪 
-dish盘子 
-spelling拼写 
-know知道 
-goods商品 
-practise练习 
-clothes衣服 
-scientific 科学的 
-instead 代替 
-teenager 青少年 
-welcome欢迎 
-careless粗心的 
-weigh重量 
-parking停车 
-human being人类 
-used用过的 
-north北方 
-chopsticks筷子 
-principle原理；准则 
-loud 响亮的 
-African非洲的 
-size尺寸 
-strike攻击 
-biology生物学 
-absence缺席 
-deaf聋的 
-rare稀少的 
-unrest动乱 
-saleswoman 女店员 
-royal 国王的；大规模的 
-below在…下面 
-movie电影 
-bowling保龄 
-resist抵抗 
-kingdom王国 
-powder粉末 
-condemn责备；判罪 
-capsule胶囊 
-let 让；使 
-practical实际的 
-paddle短浆 
-temperature 温度 
-apart相距 
-butterfly蝴蝶 
-stand站立 
-concert音乐会 
-maximum最大值 
-simplify简化 
-sleep睡觉 
-spring春天；泉 
-tooth牙 
-exercise运动 
-reach到达 
-overhead 头顶上的 
-heaven天堂 
-dignity庄严 
-believe相信 
-commitment承诺 
-parent父母 
-tired疲倦的 
-tennis 网球 
-flesh肉体 
-circuit线路 
-decoration装饰 
-review检查 
-courtyard庭院 
-potato土豆 
-various 各不相同的 
-destination 终点；目的地 
-appoint任命 
-affection喜爱 
-severe严重的 
-bush灌木 
-conductor指挥 
-sceptical 怀疑的 
-mask面罩 
-why为什么 
-poor贫穷的 
-great大的 
-solid固体 
-permanent 永久的；固定的 
-nest鸟巢 
-dust灰尘 
-assess估计 
-impossible 不可能的 
-would将 
-fat 肥胖的 
-rapid 快的 
-northeast东北 
-oral口头的 
-typical典型的 
-harmful有害的 
-darkness黑暗 
-defeat击败 
-spokeswoman女发言人 
-beneficial 有益的 
-wherever各处 
-skip跳 
-but但是 
-Olympic奥林匹克 
-confuse使困惑 
-preference偏爱 
-artificial人造的 
-expression表示 
-drink喝 
-check检查 
-ban禁止 
-interrupt 打断 
-divorce 离婚；分离 
-variety种类 
-altogether全部地 
-anniversary 周年纪念 
-herb药草 
-jump 跳 
-foolish 愚蠢的 
-quick快的 
-he他 
-deposit 放置；存款 
-at在；于 
-train 火车 
-shabby卑鄙的 
-ripen成熟 
-worldwide全世界 
-computer 计算机 
-sob哭 
-kick踢 
-thirst渴 
-partly部分地 
-upset使心烦 
-chalk粉笔 
-diagram图解 
-appear出现 
-lamp 灯 
-if 如果 
-lorry 卡车 
-congratulation祝贺 
-forgetful 健忘的 
-castle城堡 
-skatebroad 滑板 
-toothpaste牙膏 
-ordinary普通的 
-piano钢琴 
-collection收集 
-emperor皇帝 
-remove移走 
-unlike不同的 
-encouragement鼓励 
-bungalow平房 
-lazy 懒惰的 
-measure测量 
-perhaps大概 
-native本国的 
-ought应该 
-wag摇摆 
-become变为 
-astronomer 天文学者 
-contemporary当代的 
-villager 村民 
-rewind倒回 
-when在那时 
-receive收到 
-other其他的 
-salary薪水 
-potential 潜在的 
-compass罗盘；圆规 
-animal动物 
-ear耳朵 
-pension退休金 
-annual每年的 
-salesman 销售员 
-month月份 
-behind 在…后面 
-drug药物 
-creature生物 
-hire雇用；工钱 
-respect尊重 
-granddaughter孙女 
-partner搭档 
-jaw 闲谈 
-mind想法 
-total 总计 
-alarm警告 
-aggressive 好斗的 
-mobile 可移动的 
-attention专心 
-require 命令；需求 
-air空气 
-basement 地下室 
-belong属于 
-equipment设备 
-recite 背诵；列举 
-standard标准 
-straight直的 
-chief首领 
-decade十年 
-shot开枪 
-earthquake 地震 
-scare恐吓 
-access通道 
-inform 通知 
-rain雨 
-envy嫉妒 
-feeling知觉 
-keep保持 
-flour面粉 
-yell叫喊 
-rid 摆脱 
-badminton羽毛球 
-newspaper 报纸 
-aim目标 
-disadvantage不利 
-admirable 令人钦佩的 
-stress压力 
-unable不能的 
-occupy占领 
-laughter 笑声 
-referee裁判 
-part一部分 
-introduce 介绍 
-pulse脉搏 
-information 消息 
-soon不久 
-theoretical理论的 
-junior 年少的 
-journalist 新闻记者 
-chemist化学家 
-pace步子 
-frequent 常见的 
-explicit明晰的 
-bounce弹回 
-cat猫 
-happen发生 
-chemistry化学 
-sharpen变得更好 
-safe安全的 
-form 结构 
-steal偷 
-toilet洗手间 
-clothing衣服 
-prescription 处方 
-spell拼写 
-advice劝告 
-belief信任 
-differ不同 
-graduate 毕业了的 
-seek寻找；企图 
-spirit精神 
-nail钉子 
-female 女性的 
-development发展 
-bottle瓶子 
-blank空白的 
-round到处 
-host主人 
-cattle牛 
-barber理发师 
-basis基础 
-bite咬 
-parallel平行线 
-friend朋友 
-equip装备 
-way路 
-occupation 职业 
-appearance 出现；外貌 
-health健康 
-bomb炸弹 
-tour旅行 
-print图案 
-addition加 
-apartment一套房间 
-shut关上 
-supper晚餐 
-play游戏 
-guilty内疚的 
-beast兽 
-diary日记 
-local 地方性的 
-dog狗 
-progress前进 
-boxing拳击 
-line 线条 
-diverse不同的 
-breakthrough突破点 
-dictionary字典 
-supermarket 超级市场 
-shower淋浴 
-wise明智的 
-controversial有争议的 
-background 背景 
-spiritual精神上的 
-handle把手；处理 
-bridge桥 
-succeed成功 
-calculate计算 
-private私人的 
-reality实际 
-accuracy 准确的 
-smart聪明的 
-sad难过的 
-butter黄油 
-contradictory矛盾的 
-passenger乘客 
-contribution 贡献 
-beautiful 美丽的 
-sideway岔路 
-brand商标 
-maybe大概 
-easy容易的 
-close关上 
-bunch束；捆 
-actual实在的 
-statesman 政治家 
-province省份 
-fierce 凶猛的 
-Mrs太太 
-net网 
-age年龄 
-owner物主 
-silver银 
-per（数量、价格）每 
-deep深的 
-summary摘要 
-flash闪光 
-citizen公民 
-Christmas 圣诞节 
-opposite 对立的 
-blanket毛毯 
-pregnant 怀孕的；含蓄的 
-one一 
-anchor锚 
-root根部 
-wear穿 
-participate参加 
-firm结实的；公司 
-neck脖；领口 
-request要求 
-refrigerator 冰箱 
-pile一堆 
-changeable 易变的 
-brave勇敢的 
-technology 科技 
-magazine杂志 
-sparrow麻雀 
-cook烹调 
-evaluate评估 
-traditional 传统的 
-man男人 
-profit利润 
+rat 老鼠
+valley 山谷
+pence 便士
+unconditional 无条件的
+feather 羽毛
+zoo 动物园
+build 建筑；建立
+field 田野；场地
+nationality 国籍；民族
+salad 沙拉
+ferry 渡口；摆渡
+building 建筑物
+limit 界线；限制
+stewardess 女管家
+manage 管理
+path 小路
+example 例子
+purple 紫色的
+valid 有效的
+hurry 匆忙
+argue 争论
+accommodation 住处
+mixture 混合物
+picnic 野餐
+consensus 一致同意
+smoke 烟
+protection 保护
+conscience 良心
+sense 感觉
+owe 亏欠
+chant 吟唱
+term 学期
+urban 都市的
+considerate 体贴的
+afraid 害怕
+bandage 绷带
+tabletennis 乒乓球
+candidate 候选人
+combine 使联合
+hurricane 飓风
+independent 独立的
+cancer 癌症
+choose 选择
+town 城镇
+desire 要求
+visual 视觉的
+submit 使服从；递交
+physics 物理学
+meaning 意思
+country 国家
+adult 成年人
+servant 仆人
+care 关心
+search 寻找
+furniture 家具
+agree 同意
+unemployment 失业
+nearly 几乎
+bond 使结合
+master 主人
+rise 升高
+punish 处罚
+monument 纪念碑
+stick 粘贴
+tax 征税
+personnel 员工
+therefore 因此
+ox 牛
+ocean 海洋
+eagle 鹰
+cloud 云
+fibre 纤维
+fiber 纤维
+bingo 宾戈游戏
+fortunate 幸运的
+mommy 妈咪
+wage 工资
+along 沿着
+surplus 过剩的
+add 加
+outdoors 在户外
+paper 纸
+fetch 抵达
+church 教堂
+edition 版本
+weather 天气
+opera 歌剧
+dot 小圆点
+service 服务
+disease 疾病
+symphony 交响乐
+survival 生存
+thus 因此
+satisfy 使满足
+arise 起来
+sorry 对不起
+dinosaur 恐龙
+properly 适当的
+story 故事
+appetite 欲望
+pronounce 发音；宣布
+socialist 社会主义者
+certain 无疑
+pea 豌豆
+bacterium 细菌
+contrary 相反的
+roof 屋顶
+carve 切
+essay 散文
+reward 报酬
+convenience 方便
+export 出口
+fit 合适的
+racial 种族的
+herself 她自己
+bid 出价
+novelist 小说家
+safety 安全
+off 在…外；在…前；离开；完
+east 东
+misunderstand 误解
+razor 剃刀
+short 短的
+surprise 使惊奇
+pleasure 愉快
+tidy 整洁的
+garage 车库
+analyse 分析
+notice 预告
+violinist 小提琴手
+ice 冰
+deliberately 故意地
+alike 相同的
+perfect 完美的
+broom 扫帚
+welfare 健康
+keyboard 键盘
+approximately 大约
+hopeful 抱有希望的
+habit 习惯
+confidential 秘密的
+complex 复合的
+recreation 娱乐
+data 资料
+kindergarten 幼儿园
+sniff 闻
+we 我们
+studio 录音室
+overlook 忽视
+barbershop 理发店
+minority 少数民族
+escape 逃跑
+jeans 牛仔裤
+videophone 可视电话
+adapt 改编；使适合
+report 报道
+recorder 录音机
+betray 背叛
+vast 巨大的
+arrow 箭
+usual 通常的
+eat 吃
+spread 伸开
+agent 代理人
+spare 多余的
+conclusion 结束；结论
+rock 岩石
+hometown 家乡
+bakery 面包房
+conclude 结束；决定
+worry 烦恼
+operate 手术；运转
+floor 地板
+area 区域；面积
+noise 噪声
+chairwoman 女主席
+classroom 教室
+communicate 交流
+attack 攻击
+event 事件
+dream 梦想
+criminal 罪犯
+authentic 权威的
+scarf 围巾
+senior 年长的
+description 描述
+representative 代表
+carriage 四轮马车
+sacred 神圣的
+run 跑
+software 软件
+diet 日常饮食
+copy 复制
+eastern 东方的
+carbon 碳
+sow 播种
+universe 宇宙
+folk 民间的
+tendency 倾向
+camp 营地
+likely 可能的
+alive 活着的
+harvest 收割
+devote 把…奉献给
+marathon 马拉松
+christian 基督教徒
+government 政府
+franc 法郎
+seminar 研讨班
+departure 离开
+forward 向前
+person 人
+violence 暴力
+basketball 篮球
+gas 气体；汽油
+fox 狐狸
+advance 提前
+majority 多数
+credit 信用
+relief 减轻
+prefer 更喜欢
+qualification 资格；合格证书
+sand 沙子
+lift 举起
+attain 实现
+fantasy 幻想
+trap 陷阱
+interesting 令人感兴趣的
+nothing 没有东西
+civilian 平民
+besides 而且
+homework 家庭作业
+container 容器
+fireworks 烟火
+toy 玩具
+focus 集中
+decide 下决心
+frighten 使惊恐
+cleaner 保洁员
+autumn 秋天
+beneath 在下面
+hostess 女主人
+climb 攀登
+expert 专家
+super 极好的
+significance 意义
+hair 头发
+phrase 短语
+authority 权力；官方
+agricultural 农业的
+explore 探究
+framework 构架
+consequence 后果
+geography 地理学
+match 比赛
+hall 礼堂
+suppose 猜想
+signature 签名
+borrow 借
+create 创造
+companion 同伴
+direction 方向
+except 把…除外
+nutrition 营养
+anecdote 轶事
+string 一系列
+breast 胸膛
+flashlight 手电筒
+unconscious 失去知觉的
+champion 冠军
+funeral 葬礼
+since 自从
+jacket 夹克
+robot 机器人
+pleasant 令人愉快的
+airport 机场
+compensate 补偿
+sandwich 三明治
+boring 无趣的
+seldom 很少
+jazz 爵士乐
+mile 英里
+apologize 道歉
+shout 喊叫
+commit 犯罪
+institution 惯例；建立
+upstairs 在楼上
+abortion 流产；失败
+storage 贮存
+bravery 勇气
+envelope 信封
+amazing 令人惊异的
+disappoint 使失望
+advantage 有利条件
+laboratory 实验室
+foreign 外国的
+conduct 引导
+prison 监狱
+agreement 协议；同意
+botany 植物学
+famous 著名的
+mix 混合
+level 水平
+urgent 急迫的
+scholar 奖学金获得者；学者
+jet 喷气飞机
+cottage 小屋
+sigh 叹气
+maid 女仆
+popular 流行的
+advertisement 广告
+western 西方的
+course 课程
+wound 伤口
+together 在一起
+reservation 预订
+because 因为
+realise 意识到
+grateful 感激的
+huge 巨大的
+knowledge 理解；学问
+arrive 到达
+seaside 海边
+assessment 评估
+kilometre 千米
+plug 插头
+impress 给…印象深刻
+fail 失败
+discuss 谈论
+temporary 临时的
+volcano 火山
+asleep 睡着的
+amateur 业余的
+material 材料
+fragrant ；物质的
+slave 奴隶
+itself 它自己
+stupid 笨的
+central 中心的
+evening 傍晚
+collision 碰撞；冲突
+highway 公路
+staff 全体职员
+asia 亚洲
+medicine 医学
+shop 商店
+pump 泵
+discourage 使气馁
+political 政治的
+continent 大陆
+bless 保佑
+jeep 吉普车
+account 帐户
+zoom 猛涨
+content 满足；容量
+trousers 裤子
+tonight 今晚
+spend 花钱
+astronaut 宇航员
+belt 腰带
+result 结果
+gravity 万有引力；重力
+worth 价值
+prize 奖金
+quarrel 争吵
+born 出生的
+guard 保护
+driver 驾驶员
+otherwise 否则
+repair 修理
+reasonable 合理的
+could 表示请求
+disappear 消失
+shy 害羞的
+questionnaire 调查卷
+cheers 干杯
+interview 面试
+kindness 亲切
+gradual 渐渐的
+quit 离去
+medical 医学的
+waste 浪费
+airmail 航空邮件
+expensive 昂贵的
+wisdom 智慧
+favourite 特别喜欢
+attitude 态度
+touch 接触
+soil 泥土
+especially 尤其
+suck 吮吸
+breath 呼吸
+rice 大米
+stout 结实的
+version 译文；看法
+oxygen 氧
+grey 灰色
+humorous 幽默的
+burn 燃烧
+regard 注视
+seaweed 海草
+tremble 发抖
+pillow 枕头
+garlic 大蒜
+straw 稻草
+pineapple 菠萝
+tradition 传统
+rescue 营救
+violent 暴力的
+terror 恐怖
+fortune 机会；命运
+until 到…为止
+pride 自豪
+foster 培养
+peace 和平
+shorts 短裤
+vertical 垂直的
+jam 果酱
+hatch 孵化
+atmosphere 大气；气氛
+stadium 体育场
+light 光
+injure 伤害
+witness 目击者
+component 成分
+weekly 周刊
+right 正当的；向右
+dialogue 对话
+audience 观众
+acquire 获得
+store 贮存；商店
+decline 下降
+spit 口水
+undertake 着手
+terrible 可怕的
+vacation 假期
+handbag 手提包
+saucer 茶托
+officer 军官
+whisper 低声说
+pleased 自鸣得意的
+greedy 贪吃的
+horse 马
+little 小的
+cloudy 多云的
+mainland 大陆
+fee 费
+taste 尝
+alternative 两者择一的
+opening 开张
+toothache 牙痛
+universal 普遍的
+cow 母牛
+wheel 轮子
+pipe 管子
+profession 职业
+dig 挖
+conversation 交谈
+gain 获得
+subjective 主观的
+thunder 打雷
+clay 黏土
+hill 小山
+budget 预算
+against 逆着
+cage 笼子
+unfit 身体不适的
+scene 背景
+pint 品脱
+freezing 严寒的
+oilfield 油田
+onion 洋葱
+outstanding 突出的
+wool 羊毛
+crazy 发疯的
+sew 缝
+shelf 架
+freeze 结冰
+behaviour 行为
+behavior 行为
+television 电视
+chest 胸腔；箱子
+knock 敲
+directory 电话本
+platform 平台
+sightseeing 观光
+bay 湾
+foreigner 外国人
+another 另一个
+boy 男孩
+handsome 英俊的
+rest 休息
+study 学习
+front 前面
+rely 依赖
+aside 在旁边
+appeal 呼吁
+competence 能力
+fresh 新鲜的
+question 问题
+annoy 打扰
+pretty 漂亮的
+conference 会议；讨论
+communist 共产主义者
+sunlight 阳光
+cure 治疗
+slide 滑落
+glance 一瞥
+paint 涂料
+wine 葡萄酒
+dive 跳水
+admire 称赞
+existence 生存
+bureaucratic 官僚的
+skill 技能
+enthusiastic 热情的
+volleyball 排球
+dam 坝
+delicate 易碎的；微妙的；脆弱的
+post 张贴；邮件
+disgusting 令人作呕的；极坏的
+radioactive 放射性的
+offense 进攻
+guarantee 保证
+husband 丈夫
+island 岛
+painting 绘画作品
+nowadays 现在
+hardship 艰难困苦
+counter 柜台；对抗
+collar 衣领
+appropriate 适当的
+thriller 令人兴奋的
+repeat 重述
+perform 执行
+unbelievable 不可相信的
+dozen 一打
+easter 复活节
+noisy 嘈杂的
+uncomfortable 不舒服的
+reception 接待
+value 价值
+chess 国际象棋
+thunderstorm 雷电交加的暴风雨
+convenient 方便的
+cassette 盒式录音带
+toward 向；朝
+theft 偷窃
+chef 厨师长
+businessman 商人
+silly 蠢的
+tomato 番茄
+brunch 早午餐
+suitcase 手提箱
+spade 铲子
+mental 精神的
+comfort 舒适的
+receiver 接受者
+africa 非洲
+percentage 百分比
+wrong 不正确的
+correspond 相符合
+reflect 反射
+spy 间谍
+religious 宗教的
+last 最后的；上一次
+shade 遮光物
+perfume 香水
+pity 怜悯
+trouble 困难
+necklace 项链
+pancake 薄煎饼
+interest 兴趣
+hen 母鸡
+dynasty 朝代
+single 单一的
+puzzle 使迷惑
+among 是…中之一
+certificate 证明书
+crowd 人群
+wander 漫游
+fix 修理
+clinic 诊所
+grammar 语法
+translate 翻译
+delete 删除
+cheat 欺骗
+adjust 校正
+ill 有病的
+swing 摇摆
+privilege 特权
+quarter 四分之一
+brain 脑
+orbit 轨道
+attach 贴上
+blind 失明的
+wild 野生的
+plastic 塑料
+adaption 适应；改编
+lively 充满活力的
+reply 回答
+assume 假设
+saying 俗话
+composition 创作
+sunshine 阳光
+union 联合
+angle 角度
+legal 合法的
+observe 观察
+splendid 极好的
+scar 伤疤
+kill 杀死
+rent 租金
+distinguish 辨别
+lead 指挥
+vest 背心
+effect 影响
+mud 泥
+refer 提到；关系到
+globe 地球；世界
+power 权利
+marriage 结婚
+brilliant 明亮的
+pick 采
+speech 说话
+ancient 古代的
+director 主管
+replace 取代
+autonomous 自治的
+output 产量；输出
+gifted 有天赋的
+station 车站
+teamwork 协力配合
+revision 修订
+revolution 革命
+surgeon 外科医生
+link 连接
+average 平均的
+section 部门
+fluency 流利
+underground 底下的
+amusement 娱乐
+develop 开发
+sword 剑
+star 星
+greengrocer 水果蔬菜商
+lucky 幸运的
+eraser 橡皮
+rainbow 彩虹
+anxious 焦虑的
+beyond 在另一边
+waitress 女服务生
+reference 提及
+switch 开关
+caption 标题
+rough 粗糙的
+rail 责备
+photo 相片
+parrot 鹦鹉
+instant 立即的
+centre 中心点
+determine 使下决心
+street 大街
+voyage 航行
+patient 耐心；病人
+wake 醒
+worker 工作者
+internet 因特网
+coast 海岸
+benefit 有益于
+already 已经
+broad 宽的
+feed 喂养
+shoot 射击
+across 穿越
+male 男性的
+antarctic 南极的
+zone 区域
+continue 继续
+blackboard 黑板
+defend 保护
+tentative 试验的
+channel 海峡
+technical 技术的
+difficult 困难的
+widespread 分布广的
+war 战争
+pear 梨
+excuse 原谅
+actress 女演员
+tablet 药片
+score 分数
+pronunciation 发音
+accent 口音
+chat 聊天
+deer 鹿
+memorial 纪念碑
+within 不超出
+tent 帐篷
+microwave 微波
+success 成功
+luggage 行李
+ending 结局
+noodle 面条
+vain 自负的；徒劳的
+dentist 牙科医生
+district 地区
+control 控制
+bill 账单
+professor 教授
+indicate 指示
+gentle 温和的
+helicopter 直升机
+airplane 飞机
+allowance 津贴
+forehead 前额
+stable 稳定的
+fast 快的
+lake 湖
+quilt 被子
+agenda 议事日程
+command 命令
+photographer 摄影者
+monitor 监视器
+middle 中间的
+means 方法
+glare 瞪眼
+breakfast 早餐
+mad 发疯的
+currency 货币
+detective 侦探
+prisoner 犯人
+dinner 正餐
+helmet 头盔
+handwriting 字迹
+thankful 感谢的
+enough 充足的
+psychology 心理学
+skin 皮肤
+amuse 逗乐
+poisonous 有害的
+hearing 听力
+praise 称赞
+flight 飞行
+ash 灰
+crime 罪
+troublesome 引起麻烦的
+coke 焦炭
+circulate 使循环
+address 地址
+numb 麻木的
+drunk 醉的
+resign 辞职；放弃
+congratulate 祝贺
+plain 清晰的；平原
+affair 事件
+chicken 鸡肉
+deed 行为
+pure 纯的
+cover 覆盖
+error 错误
+relationship 关系
+snowy 多雪的
+ticket 票；标签
+subject 学科；话题
+throughout 在…期间
+applicant 申请人
+ceiling 天花板
+manner 方法
+type 类型
+remark 评论
+mop 擦掉
+smog 烟雾
+lid 盖子
+topic 题目
+literature 文学作品
+garment 衣服
+squirrel 松鼠
+aloud 大声地
+next 接下去
+barrier 栅栏
+sharp 锋利的
+declare 宣布
+headline 大字标题
+appreciation 赏识；感谢
+vivid 生动的
+thief 小偷
+skirt 裙子
+wildlife 野生生物
+cater 提供；迎合
+tissue 组织；一套
+leader 领袖
+hide 隐藏
+bit 少量
+pioneer 开拓者
+nation 国家
+disagree 不同意
+relevant 有关的
+drawer 抽屉
+dip 浸
+treatment 处理
+regular 有规律的
+duty 职责
+metre 米
+download 下载
+canal 运河
+vague 模糊的
+letter 信
+sadness 悲伤
+skate 溜冰
+motherland 祖国
+dress 连衣裙
+major 主要的
+lie 谎话
+tractor 拖拉机
+plus 加号
+honour 尊重
+bow 鞠躬
+public 公众的
+reform 改革
+admission 准许进入；承认
+throat 喉咙
+civil 公民的
+goat 山羊
+environment 环境
+taxpayer 纳税人
+whether 是否
+anxiety 焦虑
+carrier 搬运人
+captain 船长
+apology 认错
+broadcast 广播
+compete 竞争
+matter 物质；麻烦
+decision 决心
+unwilling 不愿意的
+europe 欧洲
+coincidence 巧合
+circle 圆
+oppose 反对
+forty 午睡
+arrest 逮捕
+shore 岸
+unit 单元
+origin 起点
+inn 小旅馆
+electronic 电子的
+volunteer 志愿者
+burst 爆发
+thread 线；线索
+innocent 清白的
+skyscraper 摩天大楼
+twin 双胞胎
+tiny 极小的
+expense 花费
+surface 表面
+swift 速度的
+thermos 热
+tutor 导师
+dimension 尺寸；方面
+behave 表现
+jog 慢跑
+wax 蜡
+outside 在外面
+vital 极重要的
+leaf 叶子
+asian 亚洲人
+pet 宠物
+each 每一个
+theater 剧院
+storm 暴风雪
+neighbourhood 邻居
+clock 钟
+dare 敢
+explode 使爆炸
+peaceful 和平的
+pale 苍白的
+assumption 假定
+typewriter 打字机
+concentrate 专注于
+several 几个
+bell 钟
+bitter 有苦味的
+reason 理由
+dance 跳舞
+pest 有害的
+shame 羞愧
+bored 无聊的
+point 要点
+analysis 分析
+bus 公交车
+identification 鉴定
+need 需要
+spoon 匙
+nephew 外甥
+physician 内科医生
+judgment 判断
+gallon 加仑
+meeting 会议
+tobacco 烟草
+wash 洗
+relation 关系
+breathe 呼吸
+clean 清洁的
+chart 图表
+faith 信任
+hook 钩子
+percent 百分比
+instruction 命令
+intention 意图
+booth 小房间
+secure 牢固的
+semicircle 半圆形
+voice 说话声
+food 食物
+strait 海峡；困难
+addicted 上瘾的
+cartoon 卡通
+prepare 准备
+shave 削
+fight 战争
+apparent 显然的
+metal 金属
+passive 被动的
+lovely 可爱的
+transparent 透明的
+click 单击
+outward 外出的
+adolescent 青春期的
+than 与…相比较
+fire 火
+sick 不舒服的
+grasp 抓住
+ashamed 惭愧的
+interpreter 口译
+weed 杂草
+from 从…
+beauty 美丽
+schoolboy 男生
+towel 毛巾
+beg 乞讨
+biochemistry 生物化学
+into 到…里
+symptom 症状
+subscribe 订购；捐助
+shrink 收缩
+allow 允许
+accountant 会计师
+disturb 打扰
+avenue 大街
+meet 遇见
+message 信息
+bread 面包
+sheet 纸片
+secret 秘密
+whenever 任何时候
+pardon 宽恕
+physical 物质的
+athlete 运动员
+requirement 要求
+glory 光荣
+surround 包围
+violin 小提琴
+aluminium 铝
+birthplace 出生地
+nuclear 核的
+equal 平等的
+most 最
+often 常常
+soup 汤
+rigid 僵硬的；严格的
+adjustment 调节
+blue 蓝色；忧郁
+abstract 抽象的
+steady 稳定的
+rope 绳索
+sink 下沉
+goose 鹅
+place 地方
+truck 卡车
+job 职业
+wide 宽的
+compromise 妥协
+arrival 到达
+rooster 公鸡
+tick 滴答声
+intelligence 智力
+theme 主题
+wait 等候
+postpone 延期
+hole 洞
+deserve 应得
+institute 建立
+surrounding 环境
+twice 两倍
+coal 煤块
+draw 绘画
+yard 场院
+destroy 毁灭
+rag 破布
+correction 改正的
+ownership 所有权
+predict 预言
+agency 代理行
+automatic 自动的
+guess 猜
+lunch 午餐
+rugby 橄榄球
+burden 重负
+enter 进入
+discussion 讨论
+struggle 打斗
+editor 编辑
+reduce 减少
+prohibit 禁止
+persuade 说服
+sharpener 削刀
+research 研究
+greet 欢迎
+educator 教员
+penny 便士
+cheap 廉价的
+lose 失去
+customs 海关
+salty 含盐的
+height 高度
+find 找到
+above 在…上方
+aid 帮助
+arctic 北极的
+fuel 燃料
+socialism 社会主义
+bend 使弯曲
+terminal 终点
+compulsory 强制性的
+winner 优胜者
+grass 草
+sweet 甜的
+stream 小河；流动
+irrigation 冲洗
+busy 忙
+low 低的
+swap 交换
+musician 音乐家
+cuisine 烹饪艺术
+sacrifice 牺牲
+recommend 推荐；劝告
+soldier 士兵
+ruin 毁灭
+possible 可能的
+anyway 不管怎样
+judge 法官
+triangle 三角形
+mother 妈妈
+attraction 吸引力
+pool 水池
+birthday 生日
+brown 棕色的
+howl 吼叫
+personally 就自己而言
+offshore 近海的
+application 申请表
+dioxide 二氧化物
+suite 套间
+obvious 明显的
+wife 妻子
+ham 火腿
+speaker 说话人
+mistake 错误
+least 最小的
+game 游戏
+sympathy 同情心
+league 同盟
+clumsy 笨拙的
+millionaire 百万富翁
+tournament 锦标赛
+nod 点头
+socket 插座
+willing 愿意
+blame 指责
+status 地位；情况
+sincerely 敬上
+emergency 紧急情况
+nature 大自然
+seal 海豹
+pollute 污染
+contribute 捐助
+poster 海报
+postage 邮费
+routine 惯例
+kettle 壶
+piece 部分
+listen 听
+lesson 功课
+painter 画家
+neither 两者都不
+postcode 邮政编码
+electric 电动的
+competition 竞争
+leather 皮革
+seem 好像
+sausage 香肠
+format 格式
+bamboo 竹竿
+expose 曝光
+protect 保护
+accident 事故
+cubic 立方体
+yoghurt 酸奶
+dictation 听写
+plate 盘子
+inspire 鼓舞
+grandson 外孙
+stop 停止
+anyhow 不论如何
+merciful 仁慈的
+bathroom 浴室
+journey 旅行
+patience 耐性
+cinema 电影院
+chair 椅子
+survive 幸存
+change 改变
+litre 升
+onto …之上
+dirty 脏的
+mineral 矿石
+gather 集合
+milk 牛奶
+grill 烧烤；盘问
+wall 墙
+object 物体
+spot 斑点
+ready 准备就绪的
+patent 专利；明显的
+land 陆地
+policewoman 女警察
+media 媒体
+tale 故事
+guest 客人
+positive 积极的
+precise 准确的
+march 行军
+donate 捐赠
+polite 客气的
+troop 军队
+hotel 饭店
+classify 分类
+fingernail 指甲
+facial 面孔
+classmate 同学
+graduation 毕业
+pattern 形式
+card 卡片
+powerful 强健的
+brewery 啤酒厂
+homeland 家乡
+distant 遥远的
+trust 信赖
+stage 时期；舞台
+sell 卖
+import 进口
+convince 使相信
+suffering 苦难
+pork 猪肉
+grocer 食品杂货商
+satellite 卫星
+statistics 统计学
+himself 他自己
+defence 防御
+rate 比率
+tense 紧张的
+army 军队
+factory 工厂
+necessary 必要的
+agriculture 农业
+impression 印象
+accustomed 惯常的
+few 不多的
+flow 流动
+hold 拿
+moustache 胡子
+corrupt 堕落的
+tasty 美味的
+swear 诅咒
+condition 状况
+steep 浸
+courage 勇气
+marry 娶
+extreme 尽头的；极端的
+thosethat 的复数
+tourism 旅游
+ground 地面
+glove 手套
+contain 包含
+chain 锁链
+midnight 午夜
+obtain 获得
+will 愿意
+acid 酸味的
+stair 楼梯
+update 更新
+pay 付给
+evidence 证词
+carpet 地毯
+advocate 提倡
+cheer 喝彩
+blow 吹
+reject 拒绝
+comprehension 理解
+bathe 给…洗澡
+dumpling 饺子
+high 高的
+my 我的
+airspace 领空
+promise 允诺
+athletic 运动的
+headmistress 女校长
+slim 苗条的
+after 在…以后
+afterward 以后
+refuse 拒绝
+organ 器官
+cautious 小心的
+advise 劝告
+fountain 泉水；来源
+wet 湿的
+．education 体育
+remind 使想起
+whole 整体的
+down 向下
+weekend 周末
+punctuation 标点
+shopping 购物
+flag 旗帜
+violate 冒犯；违反
+premier 总理
+slice 切
+hunt 打猎
+healthy 健康的
+respond 回答；回应
+approve 赞成
+peach 桃
+avoid 避免
+sort 种类
+daily 日常的
+trick 把戏
+beancurd 豆腐
+many 许多的
+approach 接近
+enquiry 询问
+rude 粗鲁的
+slow 慢的
+cab 出租车
+band 带
+transform 改变
+paragraph 段落
+freeway 高速路
+production 生产
+international 国际的
+invent 发明
+security 安全
+rectangle 长方形
+treasure 宝藏；重视
+govern 统治
+discount 折扣
+fantastic 极好的
+sight 视力；风景
+delay 延迟
+restaurant 饭店
+independence 独立的
+spoken 口头的
+might 表示可能
+accept 接受
+scientist 科学家
+fever 发烧
+acre 英亩
+argument 争吵
+holy 神圣的
+crew 全体船员
+door 门
+today 今天
+meal 饭
+walk 步行
+scenery 风景
+found 创办
+gesture 姿势；手势
+come 来
+ample 大量的
+due 应有的
+tree 树
+meanwhile 同时
+try 试图
+construction 建造
+intend 打算
+nervous 害怕的
+here 这里
+divide 分
+page 页
+movement 移动
+decrease 减小
+raise 举起
+bench 长椅
+fence 栅栏；保护
+manager 经理；管理人
+interval 间隔
+bowl 碗
+heel 足跟
+disability 无能力
+case 事例
+sweat 汗水
+link 连接
+exist 存在
+mourn 哀悼
+performance 演出
+glad 高兴的
+ancestor 祖先
+gun 炮
+recognise 识别
+different 不同的
+toast 吐司
+civilization 文化
+language 语言
+flee 逃走
+zebra 斑马
+select 选择
+never 从不
+broken 破碎的
+mutton 羊肉
+video 录像带
+twist 扭动；扭转
+shadow 阴影；遮蔽
+stocking 长袜
+algebra 代数
+help 帮助
+cookie 饼干
+elegant 优美的
+endless 无止境的
+centigrade 摄氏
+glue 胶水
+concern 焦虑
+basic 基本的
+wallet 钱夹
+wave 波浪
+dish 盘子
+spelling 拼写
+know 知道
+goods 商品
+practise 练习
+clothes 衣服
+scientific 科学的
+instead 代替
+teenager 青少年
+welcome 欢迎
+careless 粗心的
+weigh 重量
+parking 停车
+humanbeing 人类
+used 用过的
+north 北方
+chopsticks 筷子
+principle 原理；准则
+loud 响亮的
+african 非洲的
+size 尺寸
+strike 攻击
+biology 生物学
+absence 缺席
+deaf 聋的
+rare 稀少的
+unrest 动乱
+saleswoman 女店员
+royal 国王的；大规模的
+below 在…下面
+movie 电影
+bowling 保龄
+resist 抵抗
+kingdom 王国
+powder 粉末
+condemn 责备；判罪
+capsule 胶囊
+let 让；使
+practical 实际的
+paddle 短浆
+temperature 温度
+apart 相距
+butterfly 蝴蝶
+stand 站立
+concert 音乐会
+maximum 最大值
+simplify 简化
+sleep 睡觉
+spring 春天；泉
+tooth 牙
+exercise 运动
+reach 到达
+overhead 头顶上的
+heaven 天堂
+dignity 庄严
+believe 相信
+commitment 承诺
+parent 父母
+tired 疲倦的
+tennis 网球
+flesh 肉体
+circuit 线路
+decoration 装饰
+review 检查
+courtyard 庭院
+potato 土豆
+various 各不相同的
+destination 终点；目的地
+appoint 任命
+affection 喜爱
+severe 严重的
+bush 灌木
+conductor 指挥
+sceptical 怀疑的
+mask 面罩
+why 为什么
+poor 贫穷的
+great 大的
+solid 固体
+permanent 永久的；固定的
+nest 鸟巢
+dust 灰尘
+assess 估计
+impossible 不可能的
+would 将
+fat 肥胖的
+rapid 快的
+northeast 东北
+oral 口头的
+typical 典型的
+harmful 有害的
+darkness 黑暗
+defeat 击败
+spokeswoman 女发言人
+beneficial 有益的
+wherever 各处
+skip 跳
+but 但是
+olympic 奥林匹克
+confuse 使困惑
+preference 偏爱
+artificial 人造的
+expression 表示
+drink 喝
+check 检查
+ban 禁止
+interrupt 打断
+divorce 离婚；分离
+variety 种类
+altogether 全部地
+anniversary 周年纪念
+herb 药草
+jump 跳
+foolish 愚蠢的
+quick 快的
+he 他
+deposit 放置；存款
+at 在；于
+train 火车
+shabby 卑鄙的
+ripen 成熟
+worldwide 全世界
+computer 计算机
+sob 哭
+kick 踢
+thirst 渴
+partly 部分地
+upset 使心烦
+chalk 粉笔
+diagram 图解
+appear 出现
+lamp 灯
+if 如果
+lorry 卡车
+congratulation 祝贺
+forgetful 健忘的
+castle 城堡
+skatebroad 滑板
+toothpaste 牙膏
+ordinary 普通的
+piano 钢琴
+collection 收集
+emperor 皇帝
+remove 移走
+unlike 不同的
+encouragement 鼓励
+bungalow 平房
+lazy 懒惰的
+measure 测量
+perhaps 大概
+native 本国的
+ought 应该
+wag 摇摆
+become 变为
+astronomer 天文学者
+contemporary 当代的
+villager 村民
+rewind 倒回
+when 在那时
+receive 收到
+other 其他的
+salary 薪水
+potential 潜在的
+compass 罗盘；圆规
+animal 动物
+ear 耳朵
+pension 退休金
+annual 每年的
+salesman 销售员
+month 月份
+behind 在…后面
+drug 药物
+creature 生物
+hire 雇用；工钱
+respect 尊重
+granddaughter 孙女
+partner 搭档
+jaw 闲谈
+mind 想法
+total 总计
+alarm 警告
+aggressive 好斗的
+mobile 可移动的
+attention 专心
+require 命令；需求
+air 空气
+basement 地下室
+belong 属于
+equipment 设备
+recite 背诵；列举
+standard 标准
+straight 直的
+chief 首领
+decade 十年
+shot 开枪
+earthquake 地震
+scare 恐吓
+access 通道
+inform 通知
+rain 雨
+envy 嫉妒
+feeling 知觉
+keep 保持
+flour 面粉
+yell 叫喊
+rid 摆脱
+badminton 羽毛球
+newspaper 报纸
+aim 目标
+disadvantage 不利
+admirable 令人钦佩的
+stress 压力
+unable 不能的
+occupy 占领
+laughter 笑声
+referee 裁判
+part 一部分
+introduce 介绍
+pulse 脉搏
+information 消息
+soon 不久
+theoretical 理论的
+junior 年少的
+journalist 新闻记者
+chemist 化学家
+pace 步子
+frequent 常见的
+explicit 明晰的
+bounce 弹回
+cat 猫
+happen 发生
+chemistry 化学
+sharpen 变得更好
+safe 安全的
+form 结构
+steal 偷
+toilet 洗手间
+clothing 衣服
+prescription 处方
+spell 拼写
+advice 劝告
+belief 信任
+differ 不同
+graduate 毕业了的
+seek 寻找；企图
+spirit 精神
+nail 钉子
+female 女性的
+development 发展
+bottle 瓶子
+blank 空白的
+round 到处
+host 主人
+cattle 牛
+barber 理发师
+basis 基础
+bite 咬
+parallel 平行线
+friend 朋友
+equip 装备
+way 路
+occupation 职业
+appearance 出现；外貌
+health 健康
+bomb 炸弹
+tour 旅行
+print 图案
+addition 加
+apartment 一套房间
+shut 关上
+supper 晚餐
+play 游戏
+guilty 内疚的
+beast 兽
+diary 日记
+local 地方性的
+dog 狗
+progress 前进
+boxing 拳击
+line 线条
+diverse 不同的
+breakthrough 突破点
+dictionary 字典
+supermarket 超级市场
+shower 淋浴
+wise 明智的
+controversial 有争议的
+background 背景
+spiritual 精神上的
+handle 把手；处理
+bridge 桥
+succeed 成功
+calculate 计算
+private 私人的
+reality 实际
+accuracy 准确的
+smart 聪明的
+sad 难过的
+butter 黄油
+contradictory 矛盾的
+passenger 乘客
+contribution 贡献
+beautiful 美丽的
+sideway 岔路
+brand 商标
+maybe 大概
+easy 容易的
+close 关上
+bunch 束；捆
+actual 实在的
+statesman 政治家
+province 省份
+fierce 凶猛的
+mrs 太太
+net 网
+age 年龄
+owner 物主
+silver 银
+per （数量、价格）每
+deep 深的
+summary 摘要
+flash 闪光
+citizen 公民
+christmas 圣诞节
+opposite 对立的
+blanket 毛毯
+pregnant 怀孕的；含蓄的
+one 一
+anchor 锚
+root 根部
+wear 穿
+participate 参加
+firm 结实的；公司
+neck 脖；领口
+request 要求
+refrigerator 冰箱
+pile 一堆
+changeable 易变的
+brave 勇敢的
+technology 科技
+magazine 杂志
+sparrow 麻雀
+cook 烹调
+evaluate 评估
+traditional 传统的
+man 男人
+profit 利润
 random 任意的
-bean豆 
-botanical 植物学的 
-natural自然的 
-night夜晚 
-double双的 
-shortly不久 
-lounge 休息厅 
-teapot茶壶 
-scholarship 奖学金 
-tease取笑 
-warehouse 仓库 
-quiet轻声的 
-bag包 
-side侧面 
-uniform制服 
-pray祈祷 
-just 只是 
-pupil学生 
-whale鲸鱼 
-helpful有益的 
-tall高的 
-hers她的 
-outcome结果 
-eager热切的 
-title题目 
-northern 北方的 
-bother打扰 
-silence寂静 
-sensitive 易受伤的；敏感的 
-scissors剪刀 
-oneself自己 
-sail航程 
-arrange安排 
-postcard 明信片 
-ray光束 
-clear清晰的 
-kilogram千克 
-typhoon台风 
-dismiss解雇 
-law 法律 
-disappointed失望的 
-failure 失败 
-contradict反驳 
-primitive 原始的 
-artist艺术家 
-boss老板 
-Catholic天主教的 
-chemical 化学的 
-aunt阿姨 
-science科学 
-operator 操作员 
-outer外面的 
-dangerous有危险的 
-birth出生 
-arm臂；武器 
-improve 改进 
-separate分开 
-expand扩大 
-America美国 
-rubber橡胶 
-police警察 
-wire电线 
-hurt受伤 
-virus病毒 
-textbook课本 
-away远处 
-winter冬天 
-carry运送 
-acknowledge承认 
-block阻碍物 
-cycle自行车 
-fisherman 渔民 
-housework 家务活 
-freedom 自由 
-discrimination歧视 
-normal正常的 
-official公务的 
-reserve 保护区 
-refresh使恢复 
-accurate准确的 
-finance 财政 
-cross十字架 
-everybody每人 
-enjoyable 快乐的 
-visit参观 
-modem调制解调器 
-word单词 
-raincoat 雨衣 
-nationwide 全国的 
-learn 学习 
-injury 伤害 
-brother兄弟 
-garbage垃圾 
-tomb墓穴 
-unfair不公正的 
-insect 昆虫 
-her她 
-jar 罐子 
-vegetable蔬菜 
-she她 
-silent寂静的 
-pack背包 
-clap拍手 
-pain痛苦 
-able能够…的 
-remote 遥远的；微小的 
-heat高温 
-dormitory 集体宿舍 
-worthy应得的 
-choke填塞 
-send送 
-both两者都 
-industry 工业 
-fall降落 
-fragile易碎的 
-maple枫树 
-bank 河岸；银行 
-suspension 高架铁路 
-minus减号；负的 
-mouse老鼠 
-seize抓住 
-fax 传真机 
-sing唱歌 
-smell闻 
-foggy有雾的 
-occur发生；存在 
-pie馅饼；派 
-cushion垫子 
-absurd荒谬的 
-examine考试 
-thin瘦的 
-yellow黄色的 
-salt盐 
-sea海 
-free自由的 
-cream奶油 
-hungry饥饿的 
-elect选举 
-policeman男警察 
-confident 肯定的 
-drive驾驶 
-room房间 
-nobody没有人 
-board木板 
-cash现金 
+bean 豆
+botanical 植物学的
+natural 自然的
+night 夜晚
+double 双的
+shortly 不久
+lounge 休息厅
+teapot 茶壶
+scholarship 奖学金
+tease 取笑
+warehouse 仓库
+quiet 轻声的
+bag 包
+side 侧面
+uniform 制服
+pray 祈祷
+just 只是
+pupil 学生
+whale 鲸鱼
+helpful 有益的
+tall 高的
+hers 她的
+outcome 结果
+eager 热切的
+title 题目
+northern 北方的
+bother 打扰
+silence 寂静
+sensitive 易受伤的；敏感的
+scissors 剪刀
+oneself 自己
+sail 航程
+arrange 安排
+postcard 明信片
+ray 光束
+clear 清晰的
+kilogram 千克
+typhoon 台风
+dismiss 解雇
+law 法律
+disappointed 失望的
+failure 失败
+contradict 反驳
+primitive 原始的
+artist 艺术家
+boss 老板
+catholic 天主教的
+chemical 化学的
+aunt 阿姨
+science 科学
+operator 操作员
+outer 外面的
+dangerous 有危险的
+birth 出生
+arm 臂；武器
+improve 改进
+separate 分开
+expand 扩大
+america 美国
+rubber 橡胶
+police 警察
+wire 电线
+hurt 受伤
+virus 病毒
+textbook 课本
+away 远处
+winter 冬天
+carry 运送
+acknowledge 承认
+block 阻碍物
+cycle 自行车
+fisherman 渔民
+housework 家务活
+freedom 自由
+discrimination 歧视
+normal 正常的
+official 公务的
+reserve 保护区
+refresh 使恢复
+accurate 准确的
+finance 财政
+cross 十字架
+enjoyable 快乐的
+visit 参观
+modem 调制解调器
+word 单词
+raincoat 雨衣
+nationwide 全国的
+learn 学习
+injury 伤害
+brother 兄弟
+garbage 垃圾
+tomb 墓穴
+unfair 不公正的
+insect 昆虫
+her 她
+jar 罐子
+vegetable 蔬菜
+she 她
+silent 寂静的
+pack 背包
+clap 拍手
+pain 痛苦
+able 能够…的
+remote 遥远的；微小的
+heat 高温
+dormitory 集体宿舍
+worthy 应得的
+choke 填塞
+send 送
+both 两者都
+industry 工业
+fall 降落
+fragile 易碎的
+maple 枫树
+bank 河岸；银行
+suspension 高架铁路
+minus 减号；负的
+mouse 老鼠
+seize 抓住
+fax 传真机
+sing 唱歌
+smell 闻
+foggy 有雾的
+occur 发生；存在
+pie 馅饼；派
+cushion 垫子
+absurd 荒谬的
+examine 考试
+thin 瘦的
+yellow 黄色的
+salt 盐
+sea 海
+free 自由的
+cream 奶油
+hungry 饥饿的
+elect 选举
+policeman 男警察
+confident 肯定的
+drive 驾驶
+room 房间
+nobody 没有人
+board 木板
+cash 现金
 important 重要的
-blouse女衬衫 
-name名字 
-acquisition获得 
-write写 
-article文章 
-sheep睡 
-marble弹子；大理石 
-self自我 
-lung 肺 
-incident 事故 
-juice 果汁 
-vinegar醋 
-overcoat大衣 
-tea 茶 
-simple简单的 
-snake蛇 
-concrete 实体的 
-wealth财产 
-hand手 
-encourage鼓励 
-swell增强 
-good好的 
-record记录 
-pair一对 
-package包装 
-entry进入 
-extraordinary特别的；临时的 
-harmony和谐 
-ton 吨 
-him他 
-quite完全地 
-attract吸引 
-publish 出版；发布 
-uncertain 不确定 
-invitation 邀请 
-whose谁的 
-enjoy喜欢 
-conservative 保守的 
-stare瞪视 
-spray 浪花；喷雾 
-money钱 
-garden花园 
-either两者中任意一个 
-map地图 
-theory 学说 
-noble高贵的 
-nowhere 任何地方都不 
-produce生产 
-sunburnt 晒黑的 
-shape形状 
-too 也 
-receipt收据 
-me我 
-ski滑雪 
-son儿子 
-fur 软毛 
-date日子 
-optimistic 乐观的 
-toothbrush 牙刷 
-cap帽子 
-vote投票 
-mirror镜子 
-shoe鞋 
-butcher屠夫 
-specialist专家 
-cake蛋糕 
-bachelor 单身汉；学士 
-fruit水果 
-tongue舌头 
-pyramid 金字塔；棱锥 
-kite风筝 
-carpenter木工 
-supreme 最高的 
-cousin堂兄弟 
-special特殊的 
-somehow 某种方式 
-honest老实的 
-generation一代人 
-figure数字；图表 
-capital首都 
-friendship 友情 
-pencil铅笔 
-lantern 灯笼 
-social社会的 
-lame 蹩脚的；差劲的 
-drop使落下 
-finger 手指 
-allocate分配 
-boat小船 
-farmer 农民 
-turning弯曲 
-brochure 小册子 
-possess占据 
-pull拉 
-magic魔法 
-save拯救；贮存 
-goal目标 
-schoolmate 同学 
-period时期；句号 
-smooth光滑的 
-wealthy富有的 
-merely仅仅 
-serious严重的 
-dawn拂晓 
-cup杯子 
-consume消费 
-pond池塘 
-kind亲切的 
-cough咳嗽 
-somewhere 某
-处 
-mine我的；矿 
-soccer足球 
-politician政客 
-anywhere 任何地方 
-second第二 
-alphabet 字母表 
-ripe成熟的 
-hopeless 绝望的 
-performer表演者 
-steam蒸汽 
-digital 数字式的 
-biography传记 
-abundant 大量的 
-canteen食堂 
-introduction 介绍 
-past以前的 
-mature成熟的；深思的 
-quiz问答比赛 
-planet行星 
-ourselves 我们亲自 
-start开始 
-seashell贝壳 
-insurance 保险 
-adventure 冒险；奇遇 
-enemy敌人 
-appendix附录；阑尾 
-cancel取消 
-unite联合；团结 
-damage损害 
-rob 抢夺 
-method方法 
-immediately 立即 
-fun 娱乐 
-brief 短暂的；摘要 
-electricity电流 
-football 足球；橄榄球 
-exit出口 
-morning早上 
-liberty 自由 
-swim游泳 
-assistant助手 
-moral道德上的 
-book书籍 
-umbrella伞 
-operation操作 
-however 不管怎样 
-hunger饥饿 
-order命令 
-consult 考虑；商量 
-unusual独特的 
-preserve保护 
-headache头痛 
-teach教 
-palace宫殿 
-desperate 孤注一掷的 
-accessible 易取得的 
-lay 放倒；躺下；下蛋 
-am是 
-cause起因 
-lemon 柠檬 
-motto格言 
-stainless无污点的；不锈钢的 
-slip滑 
-mosquito蚊子 
-small小的 
-understand 理解 
-talent天才 
-activity活力 
-astonish使惊讶 
-regardless 无论如何 
-training训练 
-season季节 
-although虽然 
-fiction 小说 
-take拿 
-key钥匙 
-bonus奖金 
+blouse 女衬衫
+name 名字
+acquisition 获得
+write 写
+article 文章
+sheep 睡
+marble 弹子；大理石
+self 自我
+lung 肺
+incident 事故
+juice 果汁
+vinegar 醋
+overcoat 大衣
+tea 茶
+simple 简单的
+snake 蛇
+concrete 实体的
+wealth 财产
+hand 手
+encourage 鼓励
+swell 增强
+good 好的
+record 记录
+pair 一对
+package 包装
+entry 进入
+extraordinary 特别的；临时的
+harmony 和谐
+ton 吨
+him 他
+quite 完全地
+attract 吸引
+publish 出版；发布
+uncertain 不确定
+invitation 邀请
+whose 谁的
+enjoy 喜欢
+conservative 保守的
+stare 瞪视
+spray 浪花；喷雾
+money 钱
+garden 花园
+either 两者中任意一个
+map 地图
+theory 学说
+noble 高贵的
+nowhere 任何地方都不
+produce 生产
+sunburnt 晒黑的
+shape 形状
+too 也
+receipt 收据
+me 我
+ski 滑雪
+son 儿子
+fur 软毛
+date 日子
+optimistic 乐观的
+toothbrush 牙刷
+cap 帽子
+vote 投票
+mirror 镜子
+shoe 鞋
+butcher 屠夫
+specialist 专家
+cake 蛋糕
+bachelor 单身汉；学士
+fruit 水果
+tongue 舌头
+pyramid 金字塔；棱锥
+kite 风筝
+carpenter 木工
+supreme 最高的
+cousin 堂兄弟
+special 特殊的
+somehow 某种方式
+honest 老实的
+generation 一代人
+figure 数字；图表
+capital 首都
+friendship 友情
+pencil 铅笔
+lantern 灯笼
+social 社会的
+lame 蹩脚的；差劲的
+drop 使落下
+finger 手指
+allocate 分配
+boat 小船
+farmer 农民
+turning 弯曲
+brochure 小册子
+possess 占据
+pull 拉
+magic 魔法
+save 拯救；贮存
+goal 目标
+schoolmate 同学
+period 时期；句号
+smooth 光滑的
+wealthy 富有的
+merely 仅仅
+serious 严重的
+dawn 拂晓
+cup 杯子
+consume 消费
+pond 池塘
+kind 亲切的
+cough 咳嗽
+mine 我的；矿
+soccer 足球
+politician 政客
+anywhere 任何地方
+second 第二
+alphabet 字母表
+ripe 成熟的
+hopeless 绝望的
+performer 表演者
+steam 蒸汽
+digital 数字式的
+biography 传记
+abundant 大量的
+canteen 食堂
+introduction 介绍
+past 以前的
+mature 成熟的；深思的
+quiz 问答比赛
+planet 行星
+ourselves 我们亲自
+start 开始
+seashell 贝壳
+insurance 保险
+adventure 冒险；奇遇
+enemy 敌人
+appendix 附录；阑尾
+cancel 取消
+unite 联合；团结
+damage 损害
+rob 抢夺
+method 方法
+immediately 立即
+fun 娱乐
+brief 短暂的；摘要
+electricity 电流
+football 足球；橄榄球
+exit 出口
+morning 早上
+liberty 自由
+swim 游泳
+assistant 助手
+moral 道德上的
+book 书籍
+umbrella 伞
+operation 操作
+however 不管怎样
+hunger 饥饿
+order 命令
+consult 考虑；商量
+unusual 独特的
+preserve 保护
+headache 头痛
+teach 教
+palace 宫殿
+desperate 孤注一掷的
+accessible 易取得的
+lay 放倒；躺下；下蛋
+am 是
+cause 起因
+lemon 柠檬
+motto 格言
+stainless 无污点的；不锈钢的
+slip 滑
+mosquito 蚊子
+small 小的
+understand 理解
+talent 天才
+activity 活力
+astonish 使惊讶
+regardless 无论如何
+training 训练
+season 季节
+although 虽然
+fiction 小说
+take 拿
+key 钥匙
+bonus 奖金
 hard 硬的；坚实的
-republic共和国 
-railway 铁路 
-early早的 
-final 最后的 
-sit坐 
-adequate 充分的 
-accelerate 使加快 
-education教育 
-voluntary 自愿的 
-desert沙漠；舍弃 
-pollution污染 
-pianist钢琴家 
-via经过；凭借 
-settlement解决 
-receptionist 接待员 
-alongside 沿着边 
-out出去；全部 
-arithmetic算术 
-foresee预见 
-dilemma 左右为难 
-madam女士 
-purse钱包；财产 
-exhibition展览 
-popular流行的 
-year年 
-dynamic有活力的 
-awkward 笨拙的 
-cabbage卷心菜 
-conservation保护 
-by通过 
-leak 泄露 
-note记录 
-strange陌生的 
-inspect 检查 
-tube地铁 
-symbol 象征；符号 
-sleepy困的 
-acquaintance熟人 
-slight微小的 
-scan审查；扫描 
-national国家的 
-shopkeeper 店主 
-sky天空 
-behalf利益 
-engine发动机 
-recover恢复 
-yes是 
-fine美好的；罚金 
-teacher教师 
-accomplish 完成 
-explain解释 
-tram有轨电车 
-company陪伴；公司 
-transport 运送 
-fellow 同伴 
-attend参加 
-colour颜色 
-bury埋葬 
-purchase购买 
-quake震动 
-act行动 
-follow 跟随 
-grocery杂货店 
-crash撞击 
-plane飞机 
-systematic 有规律的 
-network网络 
-fundamental 基本的 
-trade商业 
-superior较好的 
-hotdog热狗 
-dial打电话 
-complete 完整的 
-cheerful高兴的 
-frontier 边境 
-battle战斗 
-pause停顿 
-warmth温暖 
-ruler直尺 
-mild温柔的 
-explanation 解释 
-drawback缺点 
-proud自尊的 
-cigarette香烟 
-strong强壮的 
-tune曲调 
-offer提供 
-long 长的 
-thought想法 
-absorb吸收 
-mend修理 
-invention 发明 
-victim牺牲者 
-responsibility责任 
-minister部长 
-tell告诉 
-sun太阳 
-rot 腐烂 
-beside在旁边 
-approval赞成 
-radium镭 
-pressure压力 
-sorrow悲痛 
-consider考虑 
-diamond钻石 
-drag拖；拽 
-apply应用 
-useless无用的 
-register记录 
-depth深度 
-difference差别 
-lack 缺少 
-sentence句子 
-tend照顾 
-announce宣布 
-division分开 
-initial 最初的 
-income 收入 
-all所有的 
-fist拳头 
-abolish废除 
-stand站立 
-bicycle自行车 
-fear 害怕 
-engineer 工程师 
-arbitrary 随意的；专横的 
-spoonful 一匙量 
-hang挂 
-tape带子 
-particular 特定的；特别的 
-assistance帮助 
-mail邮政 
-hi打招呼，嘿 
-settle安排 
-forecast 预言 
-comment评论 
-lady 女士 
-nursery托儿所 
-radiation辐射 
-passport护照 
-prove证明 
-road路 
-house房子 
-while在…期间 
-row一排 
-precious宝贵的
-arch拱门 
-mass大量 
-grape葡萄 
-poison毒药 
-statement声明 
-mouth嘴 
-merchant商人 
-European 欧洲人 
-roundabout 绕道的 
-wish祝愿 
-enlarge扩大 
-AIDS艾滋 
-abuse滥用 
-narrow狭窄的 
-grandparents祖父母 
-action行动 
-quality质量 
-beach海滩 
-acute严重的 
-yesterday昨天 
-general普遍的 
-far遥远的 
-celebration 庆祝 
-react影响 
-elder年长的 
-doctor医生 
-stone石头 
-loss 遗失 
-playground 操场 
-cheque支票 
-sneeze喷嚏 
-distinction区别 
-gymnastics 体操；体育 
-concept概念 
-excellent 优秀的 
-common 普遍的 
-commercial 商业的 
-demand要求 
-presentation提供；显示；表演 
-choir唱诗队 
-white白色 
-stateswoman妇女政治家 
-southern 南方的 
-crossroads在紧要关头 
-kitchen厨房 
-hobby 业余爱好 
-preview预习 
-win赢 
-west西方 
-hour小时 
-haircut理发 
-relay 接替；转达 
-humour幽默 
-text正文 
-possibility 可能性 
-literary 文学 
-effort努力 
-sir先生 
-shark鲨鱼 
-art艺术 
-grow生长 
-forever永远 
-banana香蕉 
-opinion意见 
-awake醒着的 
-invite 邀请 
-administration执行 
-slavery 奴隶身份 
-bishop主教 
-diploma执照 
-attractive 吸引的 
-between在…之间 
-watermelon 西瓜 
-deadline 最后期限 
-car汽车 
-elephant大象 
-minimum最小的 
-hammer锤头 
-baby婴儿 
-exchange交换 
-kangaroo袋鼠 
-crossing十字路口 
-do做 
-work工作 
-ambition雄心 
-base基础 
-loaf 一条面包 
-president主席 
-businesswoman女商人 
-merry欢乐的 
-minibus小型公共汽车 
-insure 保证 
-drum鼓 
-dark黑暗的 
-mistaken错误的 
-weak易损坏的 
-hunter猎人 
-rainy 下雨的 
-degree度数 
-club社团；俱乐部 
-scold责骂 
-session 开会；学年 
-whom谁 
-tomorrow 明天 
-cooker厨具 
-process过程 
-library 图书馆 
-beat跳动；打败 
-neighbour邻居 
-truth事实 
-recent 不久前的 
-author作者 
-dollar元 
-abandon放弃 
-beard胡须 
-silk丝 
-BC公元前 
-tight牢的 
-bat球拍 
-victory胜利 
-honey蜂蜜 
-substitute代替 
-themselves 它们自己 
-zipper拉链 
-licence 执照 
-chapter章；回 
-unique 独一无二的 
-hardly几乎不 
-nut干果 
-lawyer 律师 
-aware知道的 
-being生物 
-alcoholic 酒精的 
-vehicle车辆 
-campaign运动 
-upper上部的 
-lamb 羔羊 
-track足迹 
-branch树枝；分支 
-large 巨大的 
-optional可选择的 
-bacon咸猪肉 
-whichever无论哪个 
-fasten 栓牢 
-convey运输 
-problem问题 
-pilot驾驶员 
-sickness恶心 
-hardworking刻苦的 
-atom原子 
-eggplant茄子 
-lip 嘴唇；边缘 
-rubbish垃圾 
-hope希望 
-embassy 大使馆 
-tin 锡 
-cost价格；成本 
-pin大头针 
-favour 喜爱 
-walnut胡桃 
-entire全部的 
-share分享 
-experiment 实验 
-leave留下 
-sugar糖 
-bent弯的 
-serve向…供应 
-permit许可 
-missile导弹 
-pill药片 
-earth地球 
-upward 向上的 
-golf高尔夫 
-sculpture雕刻 
-fortnight 两星期 
-lend 借 
-fish鱼肉 
-near靠近 
-sound声音 
-feel 感觉 
-successful 成功的 
-dry干的
-return返回 
-only唯一的 
-waist腰部 
-trial审判 
-ride骑;乘 
-put放;置 
-thorough 彻底的 
-and和 
-green绿色的 
-sideroad 人行道 
-rebuild重建 
-around在周围 
-bathtub浴缸 
-conventional依照惯例的 
-discovery发现 
-communication交流
-illegal 不合法的 
-now现在 
-wrist腕关节 
-museum 博物馆 
-guidance指导 
-rainfall下雨 
-awful糟糕的 
+republic 共和国
+railway 铁路
+early 早的
+final 最后的
+sit 坐
+adequate 充分的
+accelerate 使加快
+education 教育
+voluntary 自愿的
+desert 沙漠；舍弃
+pollution 污染
+pianist 钢琴家
+via 经过；凭借
+settlement 解决
+receptionist 接待员
+alongside 沿着边
+out 出去；全部
+arithmetic 算术
+foresee 预见
+dilemma 左右为难
+madam 女士
+purse 钱包；财产
+exhibition 展览
+popular 流行的
+year 年
+dynamic 有活力的
+awkward 笨拙的
+cabbage 卷心菜
+conservation 保护
+by 通过
+leak 泄露
+note 记录
+strange 陌生的
+inspect 检查
+tube 地铁
+symbol 象征；符号
+sleepy 困的
+acquaintance 熟人
+slight 微小的
+scan 审查；扫描
+national 国家的
+shopkeeper 店主
+sky 天空
+behalf 利益
+engine 发动机
+recover 恢复
+fine 美好的；罚金
+teacher 教师
+accomplish 完成
+explain 解释
+tram 有轨电车
+company 陪伴；公司
+transport 运送
+fellow 同伴
+attend 参加
+colour 颜色
+bury 埋葬
+purchase 购买
+quake 震动
+act 行动
+follow 跟随
+grocery 杂货店
+crash 撞击
+plane 飞机
+systematic 有规律的
+network 网络
+fundamental 基本的
+trade 商业
+superior 较好的
+hotdog 热狗
+dial 打电话
+complete 完整的
+cheerful 高兴的
+frontier 边境
+battle 战斗
+pause 停顿
+warmth 温暖
+ruler 直尺
+mild 温柔的
+explanation 解释
+drawback 缺点
+proud 自尊的
+cigarette 香烟
+strong 强壮的
+tune 曲调
+offer 提供
+long 长的
+thought 想法
+absorb 吸收
+mend 修理
+invention 发明
+victim 牺牲者
+responsibility 责任
+minister 部长
+tell 告诉
+sun 太阳
+rot 腐烂
+beside 在旁边
+approval 赞成
+radium 镭
+pressure 压力
+sorrow 悲痛
+consider 考虑
+diamond 钻石
+drag 拖；拽
+apply 应用
+useless 无用的
+register 记录
+depth 深度
+difference 差别
+lack 缺少
+sentence 句子
+tend 照顾
+announce 宣布
+division 分开
+initial 最初的
+income 收入
+all 所有的
+fist 拳头
+abolish 废除
+stand 站立
+bicycle 自行车
+fear 害怕
+engineer 工程师
+arbitrary 随意的；专横的
+spoonful 一匙量
+hang 挂
+tape 带子
+particular 特定的；特别的
+assistance 帮助
+mail 邮政
+hi 打招呼，嘿
+settle 安排
+forecast 预言
+comment 评论
+lady 女士
+nursery 托儿所
+radiation 辐射
+passport 护照
+prove 证明
+road 路
+house 房子
+while 在…期间
+row 一排
+precious 宝贵的
+arch 拱门
+mass 大量
+grape 葡萄
+poison 毒药
+statement 声明
+mouth 嘴
+merchant 商人
+european 欧洲人
+roundabout 绕道的
+wish 祝愿
+enlarge 扩大
+aids 艾滋
+abuse 滥用
+narrow 狭窄的
+grandparents 祖父母
+action 行动
+quality 质量
+beach 海滩
+acute 严重的
+yesterday 昨天
+general 普遍的
+far 遥远的
+celebration 庆祝
+react 影响
+elder 年长的
+doctor 医生
+stone 石头
+loss 遗失
+playground 操场
+cheque 支票
+sneeze 喷嚏
+distinction 区别
+gymnastics 体操；体育
+concept 概念
+excellent 优秀的
+common 普遍的
+commercial 商业的
+demand 要求
+presentation 提供；显示；表演
+choir 唱诗队
+white 白色
+stateswoman 妇女政治家
+southern 南方的
+crossroads 在紧要关头
+kitchen 厨房
+hobby 业余爱好
+preview 预习
+win 赢
+west 西方
+hour 小时
+haircut 理发
+relay 接替；转达
+humour 幽默
+text 正文
+possibility 可能性
+literary 文学
+effort 努力
+sir 先生
+shark 鲨鱼
+art 艺术
+grow 生长
+forever 永远
+banana 香蕉
+opinion 意见
+awake 醒着的
+invite 邀请
+administration 执行
+slavery 奴隶身份
+bishop 主教
+diploma 执照
+attractive 吸引的
+between 在…之间
+watermelon 西瓜
+deadline 最后期限
+car 汽车
+elephant 大象
+minimum 最小的
+hammer 锤头
+baby 婴儿
+exchange 交换
+kangaroo 袋鼠
+crossing 十字路口
+work 工作
+ambition 雄心
+base 基础
+loaf 一条面包
+president 主席
+businesswoman 女商人
+merry 欢乐的
+minibus 小型公共汽车
+insure 保证
+drum 鼓
+dark 黑暗的
+mistaken 错误的
+weak 易损坏的
+hunter 猎人
+rainy 下雨的
+degree 度数
+club 社团；俱乐部
+scold 责骂
+session 开会；学年
+whom 谁
+tomorrow 明天
+cooker 厨具
+process 过程
+library 图书馆
+beat 跳动；打败
+neighbour 邻居
+truth 事实
+recent 不久前的
+author 作者
+dollar 元
+abandon 放弃
+beard 胡须
+silk 丝
+bc 公元前
+tight 牢的
+bat 球拍
+victory 胜利
+honey 蜂蜜
+substitute 代替
+themselves 它们自己
+zipper 拉链
+licence 执照
+chapter 章；回
+unique 独一无二的
+hardly 几乎不
+nut 干果
+lawyer 律师
+aware 知道的
+being 生物
+alcoholic 酒精的
+vehicle 车辆
+campaign 运动
+upper 上部的
+lamb 羔羊
+track 足迹
+branch 树枝；分支
+large 巨大的
+optional 可选择的
+bacon 咸猪肉
+whichever 无论哪个
+fasten 栓牢
+convey 运输
+problem 问题
+pilot 驾驶员
+sickness 恶心
+hardworking 刻苦的
+atom 原子
+eggplant 茄子
+lip 嘴唇；边缘
+rubbish 垃圾
+hope 希望
+embassy 大使馆
+tin 锡
+cost 价格；成本
+pin 大头针
+favour 喜爱
+walnut 胡桃
+entire 全部的
+share 分享
+experiment 实验
+leave 留下
+sugar 糖
+bent 弯的
+serve 向…供应
+permit 许可
+missile 导弹
+pill 药片
+earth 地球
+upward 向上的
+golf 高尔夫
+sculpture 雕刻
+fortnight 两星期
+lend 借
+fish 鱼肉
+near 靠近
+sound 声音
+feel 感觉
+successful 成功的
+dry 干的
+return 返回
+only 唯一的
+waist 腰部
+trial 审判
+ride 骑;乘
+put 放;置
+thorough 彻底的
+and 和
+green 绿色的
+sideroad 人行道
+rebuild 重建
+around 在周围
+bathtub 浴缸
+conventional 依照惯例的
+discovery 发现
+communication 交流
+illegal 不合法的
+now 现在
+wrist 腕关节
+museum 博物馆
+guidance 指导
+rainfall 下雨
+awful 糟糕的
 cosy 温暖舒适的
-tolerate 容许；忍受 
-rank 职衔 
-throw投;掷 
-category种类 
-illness 疾病 
-everywhere 到处 
-retell重述 
-member成员 
-petrol汽油 
-bedroom卧室 
-ceremony仪式 
-balance平衡 
-mustard芥末 
-polish使光滑 
-constant 忠诚的;不变的 
-uncle叔叔 
-tiresome 令人生厌的 
-tailor裁缝 
-disturbing 令人不安的 
-moment瞬间 
-statue雕像 
-moon月亮 
-system系统 
-bargain 讨价还价 
-energetic 精力充沛的 
-alcohol酒精 
-expectation 期望 
-instrument 仪器 
-reliable可靠的 
-equality同等的 
-greeting招呼 
-generous 慷慨的 
-shuttle 航天飞机 
-or或者 
-handkerchief手帕 
-to直到 
-fog 雾 
-everyone人人 
-enterprise事业 
-trunk树干;衣箱 
-soft软的 
-comb梳理 
-useful有用的 
-bride新娘 
-oil油 
-sudden突然的 
-before在…前面 
-sponsor赞助 
-always总是 
-candy糖果 
-pavement 人行道 
-hit打击 
-biscuit饼干 
-table桌子 
-of在…期间 
-modern现代的 
-kiss吻 
-instruct 命令 
-without没有 
-weight分量 
-starvation饥饿 
-city都市 
-you你 
-consistent 一致的 
-orange橙 
-scream尖叫 
-Oceania大洋洲 
-shelter保护 
-characteristic典型的 
-evident明显的 
-inside 内部 
-trend趋向 
-appreciate感谢 
-fan 扇子 
-attempt尝试 
-ankle踝关节 
-spaceship 宇宙飞船 
-indeed 的确 
-carrot胡萝卜 
-abrupt突然的 
-curriculum课程 
-depend依靠 
-plan计划 
-market市场 
-eventually终于 
-schedule安排；时间表 
-cool凉快的；冷静的 
-yummy美味 
-strength力量 
-fluent 流畅的 
-pedestrian步行者 
-claw爪 
-suit一套衣服 
-party社交聚会 
-set放置 
-task工作 
-seat座位 
-school学校 
-applaud鼓掌 
-world世界 
-furnished 有家具的 
-anger怒气 
-seagull海鸥 
-department 部门 
-bring带来 
-cheese干酪 
-press压 
-sweep打扫 
-panic惊慌 
-pub酒店 
-suspect猜疑 
-prevent预防 
-challenging 有挑战的 
-live 生存 
-bar酒吧 
-pan平底锅 
-corner角落 
-temple庙 
-pass经过 
-real真实的 
-frost 霜冻 
-trip旅游 
-character品质；特征 
-tyre轮胎 
-race人种 
-through 通过；在…之中 
-aspect方位；面貌 
-novel小说 
-permission许可 
-wonder惊奇 
-false 虚伪的 
-our我们的 
-energy活力 
-microscope 显微镜 
-grandchild外孙 
-examination 考试 
-climate气候 
-suggestion建议 
-consultant顾问 
-college大学 
-Pacific和平的 
-shirt衬衫 
-phenomenon现象 
-cotton棉花 
-organization 团体；组织 
-vase花瓶 
-bleed流血 
-cruel残酷的 
-smoker吸烟者 
-terrify使恐怖 
-consist组成 
-latter 后者的 
-advertise公布 
-harbour港口 
-mark记号；标出 
-proper适合的 
-empty空的 
-curtain窗帘 
-style风格 
-restriction约束 
-upon在…上面 
-camera照相机 
-loose 松的 
-university大学 
-boot长筒靴 
-melon甜瓜 
-sour酸的 
-border边界 
-coat外套 
-hear听到 
-consideration关心 
-open开放的 
-anyone任何人 
-rocket火箭 
-ours我们的 
-notebook 笔记簿 
-ambassadress女大使 
-skillful灵巧的 
-sale出售 
-beer啤酒 
-criterion标准 
-translation翻译 
-weep哭泣 
-tiger老虎 
-woollen毛线的 
-have有 
-hesitate犹豫 
-weakness弱点 
-balcony阳台 
-armchair 扶手椅 
-extension延伸 
-southwest西南 
-function 作用 
-reading读书 
-business生意 
-ugly难看的 
-connect连接 
-cigar雪茄 
-aboard在船上 
-justice 正义 
-debt债务 
-begin开始 
-raw生的；天然的 
-countryside 乡下 
-fry 油炸 
-wipe擦拭 
-smile微笑 
-fool 傻瓜 
-everyday 每天的 
-boom猛涨 
-shaver剃刀 
-erupt爆发 
-brush刷子 
-frog蛙 
-this这个 
-court院子
-evolution进化；发展 
-insist 坚决要求 
-grand壮丽的 
-week一周 
-admit承认 
-split使裂开 
-forbid 禁止 
-disaster灾难 
-society 社团；社会 
-awesome 令人敬畏的 
-embarrass使复杂化 
-provide提供 
-vice堕落 
-muddy泥泞的 
-couple一对 
-ant蚂蚁 
-relax使轻松 
-pocket口袋 
-cheek脸蛋 
-selfish自私的 
-forget忘记 
-balloon气球 
-memory记忆 
-dead死去的 
-chocolate 巧克力 
-superb杰出的 
-bee蜜蜂 
-truly 真正地 
-valuable贵重的 
-draft草稿 
-scratch抓 
-procedure程序 
-be在 
-should应该 
-soap肥皂 
-alley小巷 
-religion宗教 
-primary首要的 
-punishment 处罚 
-granny奶奶 
-mat席子 
-waiter侍者 
-include 包含 
-oval椭圆的 
-finish 完成 
-flexible灵活的 
-dustbin垃圾箱 
-any无论哪一个 
-top 顶部 
-stay停留 
-souvenir 纪念品 
-left 左侧 
-bone骨头 
-ability能力 
-stomach胃 
-basket篮筐 
-available 可用的 
-regret痛惜 
-ever总是 
-anything 无论什么 
-ago以前 
-previous 先前的；过早的 
-window窗户 
-thrill使兴奋 
-federal联邦 
-bottom底部 
-physicist物理学家 
-accompany 陪伴 
-increase 增加 
-murder谋杀 
-accumulate 积累 
-for 因为；在… 
-excite使激动 
-bath洗澡 
-traffic交通 
-classic优秀的；典型的 
-festival 节日 
-rather 相当 
-drill钻头；训练 
-allergic过敏的 
-insert 插入 
-fare 票 
-spear鱼叉 
-theirs他们的 
-conflict战斗 
-lecture 演讲 
-even甚至 
-chaos混乱 
-youth青年时期 
-fault 缺点 
-desk书桌 
-list 目录 
-porridge坐牢 
-tasteless 无味的 
-backward 向后地 
-suggest建议 
-influence 影响 
-disagreement分歧 
-virtue德行 
-personal 私人的 
-guide指导；引导 
-damp潮湿的 
-future未来的 
-cent分 
-fold 折叠 
-over 在…正上方；再一次 
-golden金色的 
-translator 翻译家 
-queen女王 
-queue行列 
-librarian 图书馆管理员 
-communism 共产主义 
-signal信号；暗号 
-outgoing 开朗的 
-burglar窃贼 
-deal分配；交易 
-motor马达 
-growth生长 
-state 国家；政府 
-glass玻璃 
-presence出席 
-database 资料库 
-office办公室 
-family家庭 
-motorcycle 摩托车 
-ridiculous 可笑的 
-duck鸭子 
-overcome战胜 
-cafeteria 自助餐厅 
-motivation动力 
-culture文化 
-poet诗人 
-preparation 预备 
-centimetre厘米 
-gate门 
-tortoise乌龟 
-hospital医院 
-they 他们 
-architect 建筑师 
-heavy沉重的 
-chance机会 
-messy脏的 
-solar太阳的 
-multiply乘 
-plant植物
-film 电影 
-guitar吉他 
-then那时 
-sister姐妹 
-count计算；总数 
-experience经验 
-once一次 
-poem诗 
-choice挑选 
-quantity数目 
-immigration 移民 
-inch 英尺 
-also也 
-similar相似的 
-outline要点 
-ministry部 
-remain留下 
-grain谷粒 
-baggage行李 
-clerk职员 
-withdraw取回 
-idiom 习语 
-architecture 建筑学 
-alone单独的 
-ward病房 
-flame 火焰 
-thinking 思考 
-pot罐 
-mailbox邮箱 
-academic 学院的 
-bed床位 
-hat帽子 
-caution小心 
-pepper胡椒 
-afford负担得起 
-bound弹回；被束缚的 
-jewellery 首饰 
-dash猛冲 
-lightning 闪电 
-stranger陌生人 
-port港口 
-nose鼻子 
-customer顾客 
-practice练习 
-turkey火鸡 
-meat肉 
-tail尾巴 
-situation形势 
-position方位 
-construct建立 
-push推 
-secretary秘书 
-stain 染色；褪色 
-tension紧张 
-schoolgirl 女学生 
-risk冒险；风险 
-late 晚的 
-stamp邮票；图案 
-absent缺席的 
-challenge挑战 
-shine发光 
-cell细胞 
-grade等级 
-full 满的 
-collect收集 
-minute分钟 
-catalogue目录 
-clarify使清楚 
-fade 使褪去 
-sunny阳光明媚的 
-worn破烂的 
-roast烤；嘲讽 
-picture图画 
-horrible可怕的 
-population人口 
-nice美好的 
-AD公元 
-colleague同事 
-speak讲演 
-love 爱 
-child孩子 
-achieve取得 
-discover发现 
-spin杜撰；使旋转 
-adolescence 青春期 
-nurse护士 
-active活泼的 
-panda熊猫 
-adore爱慕 
-forgive 原谅 
-tire 使疲劳 
-cold寒冷 
-earn赚得 
-travel旅行 
-distribute分配 
-jungle 丛林 
-dull迟钝的 
-clever聪明的 
-dislike不喜欢 
-pole磁极 
-radio收音机 
-former 过去的 
-careful仔细的 
-employ雇用 
-whistle吹口哨 
-separation分开 
-happiness幸运 
-prayer祈祷 
-underwear内衣 
-pine松树 
-downstairs在楼下 
-dizzy晕眩的 
-space空间 
-cocoa可可 
-abnormal 反常的 
-young年轻的 
-passage通道 
-sideways斜着 
-cube立方体 
-extra额外的 
-tool工具 
-show表现出 
-plot故事情节；计划；密谋 
-express表示 
-southeast东南 
-girl少女 
-cave洞穴 
-ache疼痛 
-monkey猴子 
-target靶子；对象 
-Mr先生 
-ambulance 救护车 
-unless除非 
-noon正午 
-range 变化；一系列 
-shake摇动 
-vocabulary词汇 
-miss失败；没击中… 
-dessert甜食 
-painful痛苦的 
-connection 连接 
-true真实的 
-casual 漠不关心的 
-strengthen加固 
-circumstance环境；情况 
-knee膝盖 
-tank 坦克 
-handful一把 
-gram克 
-during 在…期间 
-correct正确的 
-importance 重要性 
-wheat小麦 
-ahead在前面 
-joke 笑话 
-coffee咖啡 
-shock震动 
-punctual 正点的 
-leg 腿 
-ink 墨水 
-brake刹车；制动 
-its 它的 
-anybody任何人 
-washroom洗手间 
-sex性别 
-holiday假期 
-downtown闹市区的 
-mountainous多山的 
-organise组织 
-strawberry草莓 
-starve饥饿 
-expect预期 
-worthwhile 值得的 
-candle蜡烛 
-obey服从 
-geometry几何 
-doubt怀疑 
-ballet芭蕾 
-web网 
-housewife家庭主妇 
-role作用 
-roll滚动 
-wrinkle皱纹 
-tap塞子；拍 
-make做 
-eye眼 
-traveller旅行者 
-neat整洁的 
-where在哪里 
-almost几乎 
-ask问 
-laundry 洗衣房 
-move移动 
-labour 劳动 
-a一 
-feast 盛会 
-swallow吞；咽 
-pen钢笔 
-award奖金 
-handy手边的 
-reporter 记者 
-relate讲述 
-stubborn 顽固的 
-identify 认出 
-entrance入口 
-forest 森林 
-remember 记得 
-lemonade 柠檬汽水 
-dusty轻率的回答 
-delight快乐 
-westward向西行的 
-litter垃圾 
-imagine 想象 
-support支持 
-machine机器 
-charge命令 
-fancy 幻想 
-end最终 
-disabled残废的 
-associate伙伴 
-entertainment娱乐 
-fond 喜欢的 
-porter搬运工 
-hate恨 
-appointment约会 
-woman妇女 
-class课 
-album相册 
-delighted 喜欢的 
-fork叉子 
-promote提升 
-doll玩偶 
-cry哭；叫 
-bright光亮的 
-deliver递送 
-catastrophe 灾难 
-comfortable 安逸的 
-portable手提的 
-not不 
-retire退休 
-visitor参观者 
-ecology生态 
-own自己的；拥有 
-recipe 方法 
-history历史 
-luck 幸运 
-visa签证 
-unfortunate 不幸的 
-achievement成就 
-rabbit兔子 
-programme 节目 
-sofa沙发 
-battery电池 
-postman邮差 
-electrical 用电的 
-talk 说话 
-mercy宽容 
-iron 铁 
-present出席的；现在 
-baseball棒球 
-strict严格的 
-bare赤裸的 
-airline 航空公司 
-comedy喜剧 
-century世纪 
-dear亲爱的 
-apron围裙 
-flat平的；套房 
-assist帮助 
-sport运动 
-politics政治学 
-fly飞 
-actor演员 
-farm 农场 
-song歌 
-outing远足 
-belly肚子 
-typist打字员 
-policy政策 
-float 浮动 
-buffet反复敲打 
-settler移民 
-headmaster 男校长 
-happy高兴 
-catch抓 
-medium中等的 
-steward服务员 
-riddle谜 
-bear忍受 
-nearby附近的 
-mess弄乱 
-paperwork文书工作 
-flu 流感 
-supply供给 
-model模型 
-mist薄雾；模糊 
-popcorn爆米花 
-corn谷物 
-old老的 
-chew咀嚼 
-exact准确的 
-aircraft飞机 
-view 视力；视野 
-hydrogen氢 
-astronomy天文学 
-cupboard柜橱 
-rule规则 
+tolerate 容许；忍受
+rank 职衔
+throw 投;掷
+category 种类
+illness 疾病
+everywhere 到处
+retell 重述
+member 成员
+petrol 汽油
+bedroom 卧室
+ceremony 仪式
+balance 平衡
+mustard 芥末
+polish 使光滑
+constant 忠诚的;不变的
+uncle 叔叔
+tiresome 令人生厌的
+tailor 裁缝
+disturbing 令人不安的
+moment 瞬间
+statue 雕像
+moon 月亮
+system 系统
+bargain 讨价还价
+energetic 精力充沛的
+alcohol 酒精
+expectation 期望
+instrument 仪器
+reliable 可靠的
+equality 同等的
+greeting 招呼
+generous 慷慨的
+shuttle 航天飞机
+handkerchief 手帕
+fog 雾
+enterprise 事业
+trunk 树干;衣箱
+soft 软的
+comb 梳理
+useful 有用的
+bride 新娘
+oil 油
+sudden 突然的
+before 在…前面
+sponsor 赞助
+always 总是
+candy 糖果
+pavement 人行道
+hit 打击
+biscuit 饼干
+table 桌子
+modern 现代的
+instruct 命令
+without 没有
+weight 分量
+starvation 饥饿
+city 都市
+you 你
+consistent 一致的
+orange 橙
+scream 尖叫
+oceania 大洋洲
+shelter 保护
+characteristic 典型的
+evident 明显的
+inside 内部
+trend 趋向
+appreciate 感谢
+fan 扇子
+attempt 尝试
+ankle 踝关节
+spaceship 宇宙飞船
+indeed 的确
+carrot 胡萝卜
+abrupt 突然的
+curriculum 课程
+depend 依靠
+plan 计划
+market 市场
+eventually 终于
+schedule 安排；时间表
+cool 凉快的；冷静的
+yummy 美味
+strength 力量
+fluent 流畅的
+pedestrian 步行者
+claw 爪
+suit 一套衣服
+party 社交聚会
+set 放置
+task 工作
+seat 座位
+school 学校
+applaud 鼓掌
+world 世界
+furnished 有家具的
+anger 怒气
+seagull 海鸥
+department 部门
+bring 带来
+cheese 干酪
+press 压
+sweep 打扫
+panic 惊慌
+pub 酒店
+suspect 猜疑
+prevent 预防
+challenging 有挑战的
+live 生存
+bar 酒吧
+pan 平底锅
+corner 角落
+temple 庙
+pass 经过
+real 真实的
+frost 霜冻
+trip 旅游
+character 品质；特征
+tyre 轮胎
+race 人种
+through 通过；在…之中
+aspect 方位；面貌
+novel 小说
+permission 许可
+wonder 惊奇
+false 虚伪的
+our 我们的
+energy 活力
+microscope 显微镜
+grandchild 外孙
+examination 考试
+climate 气候
+suggestion 建议
+consultant 顾问
+college 大学
+pacific 和平的
+shirt 衬衫
+phenomenon 现象
+cotton 棉花
+organization 团体；组织
+vase 花瓶
+bleed 流血
+cruel 残酷的
+smoker 吸烟者
+terrify 使恐怖
+consist 组成
+latter 后者的
+advertise 公布
+harbour 港口
+mark 记号；标出
+proper 适合的
+empty 空的
+curtain 窗帘
+style 风格
+restriction 约束
+upon 在…上面
+camera 照相机
+loose 松的
+university 大学
+boot 长筒靴
+melon 甜瓜
+sour 酸的
+border 边界
+coat 外套
+hear 听到
+consideration 关心
+open 开放的
+anyone 任何人
+rocket 火箭
+ours 我们的
+notebook 笔记簿
+ambassadress 女大使
+skillful 灵巧的
+sale 出售
+beer 啤酒
+criterion 标准
+translation 翻译
+weep 哭泣
+tiger 老虎
+woollen 毛线的
+have 有
+hesitate 犹豫
+weakness 弱点
+balcony 阳台
+armchair 扶手椅
+extension 延伸
+southwest 西南
+function 作用
+reading 读书
+business 生意
+ugly 难看的
+connect 连接
+cigar 雪茄
+aboard 在船上
+justice 正义
+debt 债务
+begin 开始
+raw 生的；天然的
+countryside 乡下
+fry 油炸
+wipe 擦拭
+smile 微笑
+fool 傻瓜
+boom 猛涨
+shaver 剃刀
+erupt 爆发
+brush 刷子
+frog 蛙
+this 这个
+court 院子
+evolution 进化；发展
+insist 坚决要求
+grand 壮丽的
+admit 承认
+split 使裂开
+forbid 禁止
+disaster 灾难
+society 社团；社会
+awesome 令人敬畏的
+embarrass 使复杂化
+provide 提供
+vice 堕落
+muddy 泥泞的
+couple 一对
+ant 蚂蚁
+relax 使轻松
+pocket 口袋
+cheek 脸蛋
+selfish 自私的
+forget 忘记
+balloon 气球
+memory 记忆
+dead 死去的
+chocolate 巧克力
+superb 杰出的
+bee 蜜蜂
+truly 真正地
+valuable 贵重的
+draft 草稿
+scratch 抓
+procedure 程序
+be 在
+should 应该
+soap 肥皂
+alley 小巷
+religion 宗教
+primary 首要的
+punishment 处罚
+granny 奶奶
+mat 席子
+waiter 侍者
+include 包含
+oval 椭圆的
+finish 完成
+flexible 灵活的
+dustbin 垃圾箱
+any 无论哪一个
+top 顶部
+stay 停留
+souvenir 纪念品
+left 左侧
+bone 骨头
+ability 能力
+stomach 胃
+basket 篮筐
+available 可用的
+regret 痛惜
+ever 总是
+anything 无论什么
+ago 以前
+previous 先前的；过早的
+window 窗户
+thrill 使兴奋
+federal 联邦
+bottom 底部
+physicist 物理学家
+accompany 陪伴
+increase 增加
+murder 谋杀
+accumulate 积累
+for 因为；在…
+excite 使激动
+bath 洗澡
+traffic 交通
+classic 优秀的；典型的
+festival 节日
+rather 相当
+drill 钻头；训练
+allergic 过敏的
+insert 插入
+fare 票
+spear 鱼叉
+theirs 他们的
+conflict 战斗
+lecture 演讲
+even 甚至
+chaos 混乱
+youth 青年时期
+fault 缺点
+desk 书桌
+list 目录
+porridge 坐牢
+tasteless 无味的
+backward 向后地
+suggest 建议
+influence 影响
+disagreement 分歧
+virtue 德行
+personal 私人的
+guide 指导；引导
+damp 潮湿的
+future 未来的
+cent 分
+fold 折叠
+over 在…正上方；再一次
+golden 金色的
+translator 翻译家
+queen 女王
+queue 行列
+librarian 图书馆管理员
+communism 共产主义
+signal 信号；暗号
+outgoing 开朗的
+burglar 窃贼
+deal 分配；交易
+motor 马达
+growth 生长
+state 国家；政府
+glass 玻璃
+presence 出席
+database 资料库
+office 办公室
+family 家庭
+motorcycle 摩托车
+ridiculous 可笑的
+duck 鸭子
+overcome 战胜
+cafeteria 自助餐厅
+motivation 动力
+culture 文化
+poet 诗人
+preparation 预备
+centimetre 厘米
+gate 门
+tortoise 乌龟
+hospital 医院
+they 他们
+architect 建筑师
+heavy 沉重的
+chance 机会
+messy 脏的
+solar 太阳的
+multiply 乘
+plant 植物
+film 电影
+guitar 吉他
+then 那时
+sister 姐妹
+count 计算；总数
+experience 经验
+once 一次
+poem 诗
+choice 挑选
+quantity 数目
+immigration 移民
+inch 英尺
+also 也
+similar 相似的
+outline 要点
+ministry 部
+remain 留下
+grain 谷粒
+baggage 行李
+clerk 职员
+withdraw 取回
+idiom 习语
+architecture 建筑学
+alone 单独的
+ward 病房
+flame 火焰
+thinking 思考
+pot 罐
+mailbox 邮箱
+academic 学院的
+bed 床位
+hat 帽子
+caution 小心
+pepper 胡椒
+afford 负担得起
+bound 弹回；被束缚的
+jewellery 首饰
+dash 猛冲
+lightning 闪电
+stranger 陌生人
+port 港口
+nose 鼻子
+customer 顾客
+practice 练习
+turkey 火鸡
+meat 肉
+tail 尾巴
+situation 形势
+position 方位
+construct 建立
+push 推
+secretary 秘书
+stain 染色；褪色
+tension 紧张
+schoolgirl 女学生
+risk 冒险；风险
+late 晚的
+stamp 邮票；图案
+absent 缺席的
+challenge 挑战
+shine 发光
+cell 细胞
+grade 等级
+full 满的
+collect 收集
+minute 分钟
+catalogue 目录
+clarify 使清楚
+fade 使褪去
+sunny 阳光明媚的
+worn 破烂的
+roast 烤；嘲讽
+picture 图画
+horrible 可怕的
+population 人口
+nice 美好的
+ad 公元
+colleague 同事
+speak 讲演
+love 爱
+child 孩子
+achieve 取得
+discover 发现
+spin 杜撰；使旋转
+adolescence 青春期
+nurse 护士
+active 活泼的
+panda 熊猫
+adore 爱慕
+forgive 原谅
+tire 使疲劳
+cold 寒冷
+earn 赚得
+travel 旅行
+distribute 分配
+jungle 丛林
+dull 迟钝的
+clever 聪明的
+dislike 不喜欢
+pole 磁极
+radio 收音机
+former 过去的
+careful 仔细的
+employ 雇用
+whistle 吹口哨
+separation 分开
+happiness 幸运
+prayer 祈祷
+underwear 内衣
+pine 松树
+downstairs 在楼下
+dizzy 晕眩的
+space 空间
+cocoa 可可
+abnormal 反常的
+young 年轻的
+passage 通道
+sideways 斜着
+cube 立方体
+extra 额外的
+tool 工具
+show 表现出
+plot 故事情节；计划；密谋
+express 表示
+southeast 东南
+girl 少女
+cave 洞穴
+ache 疼痛
+monkey 猴子
+target 靶子；对象
+mr 先生
+ambulance 救护车
+unless 除非
+noon 正午
+range 变化；一系列
+shake 摇动
+vocabulary 词汇
+miss 失败；没击中…
+dessert 甜食
+painful 痛苦的
+connection 连接
+true 真实的
+casual 漠不关心的
+strengthen 加固
+circumstance 环境；情况
+knee 膝盖
+tank 坦克
+handful 一把
+gram 克
+during 在…期间
+correct 正确的
+importance 重要性
+wheat 小麦
+ahead 在前面
+joke 笑话
+coffee 咖啡
+shock 震动
+punctual 正点的
+leg 腿
+ink 墨水
+brake 刹车；制动
+its 它的
+anybody 任何人
+washroom 洗手间
+sex 性别
+holiday 假期
+downtown 闹市区的
+mountainous 多山的
+organise 组织
+strawberry 草莓
+starve 饥饿
+expect 预期
+worthwhile 值得的
+candle 蜡烛
+obey 服从
+geometry 几何
+doubt 怀疑
+ballet 芭蕾
+web 网
+housewife 家庭主妇
+role 作用
+roll 滚动
+wrinkle 皱纹
+tap 塞子；拍
+make 做
+eye 眼
+traveller 旅行者
+neat 整洁的
+where 在哪里
+almost 几乎
+ask 问
+laundry 洗衣房
+move 移动
+labour 劳动
+feast 盛会
+swallow 吞；咽
+pen 钢笔
+award 奖金
+handy 手边的
+reporter 记者
+relate 讲述
+stubborn 顽固的
+identify 认出
+entrance 入口
+forest 森林
+remember 记得
+lemonade 柠檬汽水
+dusty 轻率的回答
+delight 快乐
+westward 向西行的
+litter 垃圾
+imagine 想象
+support 支持
+machine 机器
+charge 命令
+fancy 幻想
+end 最终
+disabled 残废的
+associate 伙伴
+entertainment 娱乐
+fond 喜欢的
+porter 搬运工
+hate 恨
+appointment 约会
+woman 妇女
+class 课
+album 相册
+delighted 喜欢的
+fork 叉子
+promote 提升
+doll 玩偶
+cry 哭；叫
+bright 光亮的
+deliver 递送
+catastrophe 灾难
+comfortable 安逸的
+portable 手提的
+not 不
+retire 退休
+visitor 参观者
+ecology 生态
+own 自己的；拥有
+recipe 方法
+history 历史
+luck 幸运
+visa 签证
+unfortunate 不幸的
+achievement 成就
+rabbit 兔子
+programme 节目
+sofa 沙发
+battery 电池
+postman 邮差
+electrical 用电的
+talk 说话
+mercy 宽容
+iron 铁
+present 出席的；现在
+baseball 棒球
+strict 严格的
+bare 赤裸的
+airline 航空公司
+comedy 喜剧
+century 世纪
+dear 亲爱的
+apron 围裙
+flat 平的；套房
+assist 帮助
+sport 运动
+politics 政治学
+fly 飞
+actor 演员
+farm 农场
+song 歌
+outing 远足
+belly 肚子
+typist 打字员
+policy 政策
+float 浮动
+buffet 反复敲打
+settler 移民
+headmaster 男校长
+happy 高兴
+catch 抓
+medium 中等的
+steward 服务员
+riddle 谜
+bear 忍受
+nearby 附近的
+mess 弄乱
+paperwork 文书工作
+flu 流感
+supply 供给
+model 模型
+mist 薄雾；模糊
+popcorn 爆米花
+corn 谷物
+old 老的
+chew 咀嚼
+exact 准确的
+aircraft 飞机
+view 视力；视野
+hydrogen 氢
+astronomy 天文学
+cupboard 柜橱
+rule 规则
 flower 花
-project 规划；课题 
-test测验 
-represent表现；代表 
-shallow浅的 
-weekday平日 
-document公文 
-thank谢谢 
-purpose目的 
-step脚步 
-bark大叫 
-overweight 超重的 
-tower 塔 
-direct笔直的 
-liquid 液体 
-worm虫 
-hello喂 
-hamburger 汉堡 
-chorus合唱 
-stove火炉 
-reputation 名气 
-sweater毛衣 
-affect影响 
-windy有风的 
-may也许 
-niece侄女 
-regulation 管理；规则 
-soul灵魂 
-eyesight视力 
-brick砖块 
-till直到…为止 
-harm损害 
-ambassador 大使 
-sailor水手 
-egg蛋 
-wind风 
-tourist旅行者 
-mountain山 
-gallery画廊 
-clone克隆 
-mushroom蘑菇 
-northwest西北 
-needle针 
-tie领带 
-trolleybus 无轨电车 
-committee委员会 
-in 里面 
-lap 膝 
-everything每件事 
-warm暖和的 
-cyclist骑自行车的人 
-widow寡妇 
-shall必将 
-yawn哈欠 
-afternoon下午 
-Buddhism佛教 
-timetable 时间计划表 
-chairman主席 
-are是 
-funny滑稽的 
-decorate装饰 
-edge边缘 
-file 提交；文件 
-boycott抵制 
-underline 在…下面 
-technique技巧 
-childhood童年 
-blood血液 
-pound英镑 
-crop庄家 
-celebrate庆祝 
-absolute 绝对的 
-describe描写 
-sock短袜 
-breathless呼气困难的 
-liberation 解放 
-knife刀 
-rose玫瑰 
-custom习惯 
-resemble像… 
-bye再见 
-graph图表 
-worried焦虑的 
-salute欢迎，赞扬 
-amount数量 
-ignore 忽视 
-whoever 无论谁 
-barbecue烧烤 
-delicious 美味的 
-summer夏天 
-rich贵重的 
-telescope 望远镜 
-abroad到国外 
-beef牛肉 
-accuse指责 
-sleeve套管 
-body身体 
-navy海军 
-basin盆 
-say说 
-dusk傍晚 
-student学生 
-steel 钢；使坚定 
-friendly友好的 
-music音乐 
-altitude高度 
-sure无疑的 
-wrestle摔跤；搏击 
-it 它 
-treat款待 
-wonderful极好的 
-probably大概 
-button按钮 
-force 力量；强制 
-ambiguous 含糊不清的 
-bridegroom 新郎 
-really真正地 
-gentleman绅士 
-giraffe长颈鹿 
-possession占有 
-boil煮沸 
-telephone电话 
-recycle回收 
-cloth布料 
-shoulder肩部 
-park公园 
-confirm证实 
-compare比较 
-answer回答 
-mankind人类 
-wolf狼 
-danger危险 
-hug拥抱 
-camel骆驼 
-shortcoming 缺点 
-river河 
-about关于 
-tear泪水 
-antique古董 
-thing 东西 
-unbearable 不能忍的 
-sneaker运动鞋 
-circus马戏 
-familiar 熟悉的 
-still仍旧 
-pretend假装 
-beddings卧具 
-whatever任何事物 
-amaze使惊奇 
-vacant空的 
-suffer容忍；受痛苦 
-Atlantic大西洋 
-flood洪水 
-devotion奉献 
-wedding婚礼 
-rush催促；冲 
-difficulty困难 
-friction摩擦 
-king国王 
-schoolbag书包 
-urge鼓励；促使 
-screen遮蔽；屏风 
-cast投；掷 
-steak牛排 
-parcel包囊 
-square正方形 
-warn警告 
-lock 锁 
-under在…下面 
-debate讨论 
-tough坚韧的 
-design设计 
-corporation 公司 
-negotiate协商 
-new新的 
-tip 末端；倾斜 
-modest谦虚的 
-association 社团 
-adopt采用 
-constitution 法规；设立 
-curious好奇的 
-medal奖牌 
-taxi出租车 
-arrangement安排 
-packet小包 
-pour倾；倒 
-group组 
-crayon蜡笔 
-musical音乐的 
-angry 生气的 
-boundary 分界线 
-spokesman 发言人 
-lonely 孤独的 
-though虽然 
-academy学会 
-their他们的 
-outspoken直言的 
-length 长度 
-thick 厚的；茂密的；明显的 
-wing翅膀 
-myself我自己 
-digest消化；文摘 
-plenty大量 
-fair公平的 
-squeeze挤出；拥挤 
-product产品 
-mention提到 
-coach训练；教练 
-suitable适当的 
-kid孩子 
-lion 狮子 
-straightforward笔直向前 
-there在那里 
-educate教育 
-calm冷静的 
-fridge 冰箱 
-refrigerator 冰箱 
-distance距离 
-relative亲戚 
-satisfaction 满足 
-village村庄 
+project 规划；课题
+test 测验
+represent 表现；代表
+shallow 浅的
+weekday 平日
+document 公文
+thank 谢谢
+purpose 目的
+step 脚步
+bark 大叫
+overweight 超重的
+tower 塔
+direct 笔直的
+liquid 液体
+worm 虫
+hello 喂
+hamburger 汉堡
+chorus 合唱
+stove 火炉
+reputation 名气
+sweater 毛衣
+affect 影响
+windy 有风的
+may 也许
+niece 侄女
+regulation 管理；规则
+soul 灵魂
+eyesight 视力
+brick 砖块
+till 直到…为止
+harm 损害
+ambassador 大使
+sailor 水手
+egg 蛋
+wind 风
+tourist 旅行者
+mountain 山
+gallery 画廊
+clone 克隆
+mushroom 蘑菇
+northwest 西北
+needle 针
+tie 领带
+trolleybus 无轨电车
+committee 委员会
+in 里面
+lap 膝
+warm 暖和的
+cyclist 骑自行车的人
+widow 寡妇
+shall 必将
+yawn 哈欠
+afternoon 下午
+buddhism 佛教
+timetable 时间计划表
+chairman 主席
+are 是
+funny 滑稽的
+decorate 装饰
+edge 边缘
+file 提交；文件
+boycott 抵制
+underline 在…下面
+technique 技巧
+childhood 童年
+blood 血液
+pound 英镑
+crop 庄家
+celebrate 庆祝
+absolute 绝对的
+describe 描写
+sock 短袜
+breathless 呼气困难的
+liberation 解放
+knife 刀
+rose 玫瑰
+custom 习惯
+resemble 像…
+bye 再见
+graph 图表
+worried 焦虑的
+salute 欢迎，赞扬
+amount 数量
+ignore 忽视
+whoever 无论谁
+barbecue 烧烤
+delicious 美味的
+summer 夏天
+rich 贵重的
+telescope 望远镜
+abroad 到国外
+beef 牛肉
+accuse 指责
+sleeve 套管
+body 身体
+navy 海军
+basin 盆
+say 说
+dusk 傍晚
+student 学生
+steel 钢；使坚定
+friendly 友好的
+music 音乐
+altitude 高度
+sure 无疑的
+wrestle 摔跤；搏击
+it 它
+treat 款待
+wonderful 极好的
+probably 大概
+button 按钮
+force 力量；强制
+ambiguous 含糊不清的
+bridegroom 新郎
+really 真正地
+gentleman 绅士
+giraffe 长颈鹿
+possession 占有
+boil 煮沸
+telephone 电话
+recycle 回收
+cloth 布料
+shoulder 肩部
+park 公园
+confirm 证实
+compare 比较
+answer 回答
+mankind 人类
+wolf 狼
+danger 危险
+hug 拥抱
+camel 骆驼
+shortcoming 缺点
+river 河
+about 关于
+tear 泪水
+antique 古董
+thing 东西
+unbearable 不能忍的
+sneaker 运动鞋
+circus 马戏
+familiar 熟悉的
+still 仍旧
+pretend 假装
+beddings 卧具
+whatever 任何事物
+amaze 使惊奇
+vacant 空的
+suffer 容忍；受痛苦
+atlantic 大西洋
+flood 洪水
+devotion 奉献
+wedding 婚礼
+rush 催促；冲
+difficulty 困难
+friction 摩擦
+king 国王
+schoolbag 书包
+urge 鼓励；促使
+screen 遮蔽；屏风
+cast 投；掷
+steak 牛排
+parcel 包囊
+square 正方形
+warn 警告
+lock 锁
+under 在…下面
+debate 讨论
+tough 坚韧的
+design 设计
+corporation 公司
+negotiate 协商
+new 新的
+tip 末端；倾斜
+modest 谦虚的
+association 社团
+adopt 采用
+constitution 法规；设立
+curious 好奇的
+medal 奖牌
+taxi 出租车
+arrangement 安排
+packet 小包
+pour 倾；倒
+group 组
+crayon 蜡笔
+musical 音乐的
+angry 生气的
+boundary 分界线
+spokesman 发言人
+lonely 孤独的
+though 虽然
+academy 学会
+their 他们的
+outspoken 直言的
+length 长度
+thick 厚的；茂密的；明显的
+wing 翅膀
+myself 我自己
+digest 消化；文摘
+plenty 大量
+fair 公平的
+squeeze 挤出；拥挤
+product 产品
+mention 提到
+coach 训练；教练
+suitable 适当的
+kid 孩子
+lion 狮子
+straightforward 笔直向前
+there 在那里
+educate 教育
+calm 冷静的
+fridge 冰箱
+refrigerator 冰箱
+distance 距离
+relative 亲戚
+satisfaction 满足
+village 村庄
 television 电视
