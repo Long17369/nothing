@@ -33,17 +33,22 @@ class Main():
 				if i == l1[j]:
 					l2_sort.append(l2[j])
 					break
+	def write(self,l1 : list, l2 : list):
+		w = open('file.txt','w',encoding='UTF-8')
+		for i in range(len(l1)):
+			w.write(l1[i] + ' ' + l2[i] + '\n')
 
 
 main = Main()
 load = main.load
 sort = main.sort
+write = main.write
 
 
 if __name__ == '__main__':
 	e, c = load('123.txt')
-	e_sort = e
+	e_sort = [i for i in e]
 	quick(e_sort)
-	c_sort = c
+	c_sort = []
 	sort(e, c, e_sort, c_sort)
-	print(e_sort)
+	write(e_sort,c_sort)

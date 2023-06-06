@@ -2429,7 +2429,6 @@ without 没有
 weight 分量
 starvation 饥饿
 city 都市
-you 你
 consistent 一致的
 orange 橙
 scream 尖叫
