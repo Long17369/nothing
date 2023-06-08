@@ -19,9 +19,12 @@ class Main():
 
 	def order(self,words:str):
 		word = words.split('\n')
+		if word[-1] == '':
+			word.pop()
 		e, c = [], []
 		for i in word:
 			j = i.split(' ')
+			# print("'",j,"'")
 			e.append(j[0])
 			c.append(j[1])
 		return e, c
@@ -47,11 +50,11 @@ class Main():
 		e_sort = [i for i in e]
 		quick(e_sort)
 		c_sort = []
-		self.reset()
+		self.reset(file)
 		sort(e, c, e_sort, c_sort)
 		write(e_sort,c_sort)
 
-	def reset(self, name:str='file'):
+	def reset(self, name:str='file.txt'):
 		reset = open(name,'a+',encoding='UTF-8')
 		reset.truncate(0)
 		reset.close()
@@ -64,4 +67,6 @@ write = main.write
 
 
 if __name__ == '__main__':
-	...
+	e, c = load('file.txt')
+	EnglishAndChanese = []
+	ran.list(len(e))
