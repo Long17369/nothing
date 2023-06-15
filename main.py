@@ -40,19 +40,19 @@ class Main():
 					l2_sort.append(l2[j])
 					break
 
-	def write(self,l1 : list, l2 : list):
-		w = open('file.txt','w',encoding='UTF-8')
+	def write(self,l1 : list, l2 : list, name : str = 'file.txt'):
+		w = open(name,'w',encoding='UTF-8')
 		for i in range(len(l1)):
 			w.write(l1[i] + ' ' + l2[i] + '\n')
 
 	def firstLoad(self, file):
-		e, c = load(file)
+		e, c = self.load(file)
 		e_sort = [i for i in e]
 		quick(e_sort)
 		c_sort = []
 		self.reset(file)
-		sort(e, c, e_sort, c_sort)
-		write(e_sort,c_sort)
+		self.sort(e, c, e_sort, c_sort)
+		self.write(e_sort,c_sort)
 
 	def reset(self, name:str='file.txt'):
 		reset = open(name,'a+',encoding='UTF-8')
