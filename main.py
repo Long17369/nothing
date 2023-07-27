@@ -6,58 +6,58 @@ from time import process_time
 
 
 class Main():
-	def __init__(self) -> None:
-		pass
+    def __init__(self) -> None:
+        pass
 
-	def load(self,file:str):
-		a = open(file,'r',encoding='UTF-8')
-		r = a.read()
-		e, c = self.order(r)
-		p = formatstr(r)
-		a.close()
-		return e, c
+    def load(self,file:str):
+        a = open(file,'r',encoding='UTF-8')
+        r = a.read()
+        e, c = self.order(r)
+        p = formatstr(r)
+        a.close()
+        return e, c
 
-	def order(self,words:str):
-		word = words.split('\n')
-		if word[-1] == '':
-			word.pop()
-		e, c = [], []
-		for i in word:
-			j = i.split(' ')
-			# print("'",j,"'")
-			e.append(j[0])
-			c.append(j[1])
-		return e, c
+    def order(self,words:str):
+        word = words.split('\n')
+        if word[-1] == '':
+            word.pop()
+        e, c = [], []
+        for i in word:
+            j = i.split(' ')
+            # print("'",j,"'")
+            e.append(j[0])
+            c.append(j[1])
+        return e, c
 
-	def sort(self, l1 :list, l2 :list, l1_sort :list, l2_sort :list):
-		ll1, ll2, ll3= len(l1), len(l2), len(l1_sort)
-		if ll1 != ll2 or ll1 != ll3:
-			print('Error:无法排序')
-			return 
-		for i in l1_sort:
-			for j in range(ll3):
-				if i == l1[j]:
-					l2_sort.append(l2[j])
-					break
+    def sort(self, l1 :list, l2 :list, l1_sort :list, l2_sort :list):
+        ll1, ll2, ll3= len(l1), len(l2), len(l1_sort)
+        if ll1 != ll2 or ll1 != ll3:
+            print('Error:无法排序')
+            return 
+        for i in l1_sort:
+            for j in range(ll3):
+                if i == l1[j]:
+                    l2_sort.append(l2[j])
+                    break
 
-	def write(self,l1 : list, l2 : list, name : str = 'file.txt'):
-		w = open(name,'w',encoding='UTF-8')
-		for i in range(len(l1)):
-			w.write(l1[i] + ' ' + l2[i] + '\n')
+    def write(self,l1 : list, l2 : list, name : str = 'file.txt'):
+        w = open(name,'w',encoding='UTF-8')
+        for i in range(len(l1)):
+            w.write(l1[i] + ' ' + l2[i] + '\n')
 
-	def firstLoad(self, file):
-		e, c = self.load(file)
-		e_sort = [i for i in e]
-		quick(e_sort)
-		c_sort = []
-		self.reset(file)
-		self.sort(e, c, e_sort, c_sort)
-		self.write(e_sort,c_sort)
+    def firstLoad(self, file):
+        e, c = self.load(file)
+        e_sort = [i for i in e]
+        quick(e_sort)
+        c_sort = []
+        self.reset(file)
+        self.sort(e, c, e_sort, c_sort)
+        self.write(e_sort,c_sort)
 
-	def reset(self, name:str='file.txt'):
-		reset = open(name,'a+',encoding='UTF-8')
-		reset.truncate(0)
-		reset.close()
+    def reset(self, name:str='file.txt'):
+        reset = open(name,'a+',encoding='UTF-8')
+        reset.truncate(0)
+        reset.close()
 
 
 main = Main()
@@ -67,6 +67,6 @@ write = main.write
 
 
 if __name__ == '__main__':
-	e, c = load('file.txt')
-	EnglishAndChanese = []
-	ran.list(len(e))
+    e, c = load('file.txt')
+    EnglishAndChanese = []
+    ran.list(len(e))
